@@ -1,0 +1,28 @@
+#!/bin/sh
+#$ -S /bin/sh
+#$ -cwd
+#$ -V
+#$ -m e
+#$ -M mtien@mit.edu
+#$ -pe whole_nodes 4
+#############################################
+
+# removing 3’ adapter
+nohup python removeLinker_mzt.py /home/mtien/data/220426/fastq/220426Li_D22-4654_NA_sequence.fastq
+nohup python removeLinker_mzt.py /home/mtien/data/220426/fastq/220426Li_D22-4655_NA_sequence.fastq
+nohup python removeLinker_mzt.py /home/mtien/data/220426/fastq/220426Li_D22-4656_NA_sequence.fastq
+nohup python removeLinker_mzt.py /home/mtien/data/220426/fastq/220426Li_D22-4657_NA_sequence.fastq
+
+# aligning to B. subtilis genome
+module add bowtie
+nohup python align_sequences_mzt.py /home/mtien/data/220426/fastq/220426Li_D22-4654_NA_sequence-stripped_v2.fastq bsub v1k1 
+nohup python align_sequences_mzt.py /home/mtien/data/220426/fastq/220426Li_D22-4655_NA_sequence-stripped_v2.fastq bsub v1k1 
+nohup python align_sequences_mzt.py /home/mtien/data/220426/fastq/220426Li_D22-4656_NA_sequence-stripped_v2.fastq bsub v1k1 
+nohup python align_sequences_mzt.py /home/mtien/data/220426/fastq/220426Li_D22-4657_NA_sequence-stripped_v2.fastq bsub v1k1 
+
+
+# generating wig file
+nohup python align_to_wig_mzt.py /home/mtien/data/220426/fastq/220426Li_D22-4654_NA_sequence-stripped_v2_bsubtilis_v1k1.align /home/mtien/data/220426/fastq/220426Li_D22-4654_NA_sequence-stripped_v2_bsubtilis_v1k1 bsub
+nohup python align_to_wig_mzt.py /home/mtien/data/220426/fastq/220426Li_D22-4655_NA_sequence-stripped_v2_bsubtilis_v1k1.align /home/mtien/data/220426/fastq/220426Li_D22-4655_NA_sequence-stripped_v2_bsubtilis_v1k1 bsub
+nohup python align_to_wig_mzt.py /home/mtien/data/220426/fastq/220426Li_D22-4656_NA_sequence-stripped_v2_bsubtilis_v1k1.align /home/mtien/data/220426/fastq/220426Li_D22-4656_NA_sequence-stripped_v2_bsubtilis_v1k1 bsub
+nohup python align_to_wig_mzt.py /home/mtien/data/220426/fastq/220426Li_D22-4657_NA_sequence-stripped_v2_bsubtilis_v1k1.align /home/mtien/data/220426/fastq/220426Li_D22-4657_NA_sequence-stripped_v2_bsubtilis_v1k1 bsub
