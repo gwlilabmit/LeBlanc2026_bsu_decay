@@ -6,6 +6,9 @@
 #SBATCH --mail-user=leblanch@mit.edu
 #SBATCH --output=logs/pipeline_%j.log
 
+source ~/miniconda3/etc/profile.d/conda.sh
+conda activate nanopore
+
 # manual step: edit concat_config.txt to match your files
 # manual step: set number of array jobs to number of samples in concatenate.sh, bam_concat.sh, streamliner.sh, and mapping.sh
 
