@@ -1,0 +1,11 @@
+ArrayTaskID,SampleID,PathToFastqs,SplitPrefix
+1,R25-2578,../R25-2578/20250609_1555_P2S-02536-A_PAY39159_5be900e1/fastq_pass/,../alignments/split_fastqs/R25-2578
+2,R25-2579,../R25-2579/20250623_1507_P2S-02536-A_PBC99941_ac9f454f/fastq_pass/,../alignments/split_fastqs/R25-2579
+3,R25-2579-2,../R25-2579-2/20250626_0941_P2S-02536-A_PBC99941_02a441b9/fastq_pass/,../alignments/split_fastqs/R25-2579-2
+4,R25-2580,../R25-2580/20250609_1555_P2S-02536-B_PAY27568_63b998ce/fastq_pass/,../alignments/split_fastqs/R25-2580
+5,R25-2581,../R25-2581/20250623_1507_P2S-02536-B_PBC72034_0ed814eb/fastq_pass/,../alignments/split_fastqs/R25-2581
+6,R25-2581-2,../R25-2581-2/20250626_0941_P2S-02536-B_PBC72034_b28f8fbb/fastq_pass/,../alignments/split_fastqs/R25-2581-2
+7,R25-2582,../R25-2582/20250609_1555_P2S-02535-A_PBC12282_df4fae30/fastq_pass/,../alignments/split_fastqs/R25-2582
+8,R25-2583,../R25-2583/20250623_1508_P2S-02535-A_PBC93760_23789f22/fastq_pass/,../alignments/split_fastqs/R25-2583
+9,R25-2584,../R25-2584/20250609_1555_P2S-02535-B_PBC09127_57e4c7fb/fastq_pass/,../alignments/split_fastqs/R25-2584
+10,R25-2585,../R25-2585/20250623_1508_P2S-02535-B_PAY38308_5581e10e/fastq_pass/,../alignments/split_fastqs/R25-2585
