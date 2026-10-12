@@ -1,0 +1,8 @@
+ArrayTaskID,SampleName
+1,t0
+2,t05
+3,t2
+4,t4
+5,t8
+6,t12
+7,t16
