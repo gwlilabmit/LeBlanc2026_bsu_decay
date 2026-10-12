@@ -1,0 +1,15 @@
+ArrayTaskID,SampleName,SampleStrand
+1,t0,f
+2,t05,f
+3,t2,f
+4,t4,f
+5,t8,f
+6,t12,f
+7,t16,f
+8,t0,r
+9,t05,r
+10,t2,r
+11,t4,r
+12,t8,r
+13,t12,r
+14,t16,r
