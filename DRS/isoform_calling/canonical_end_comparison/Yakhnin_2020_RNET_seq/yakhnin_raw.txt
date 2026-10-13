@@ -1,0 +1,2203 @@
+Gene	Pause Location	Gene Offset	Description	Strand
+dnaA	338	-72	AAA  ATPase, [[category|DNA replication|replication]] initiation protein	SENSE
+dnaA	858	0.33	AAA  ATPase, [[category|DNA replication|replication]] initiation protein	SENSE
+dnaA	1390	0.73	AAA  ATPase, [[category|DNA replication|replication]] initiation protein	SENSE
+dnaA	1581	0.88	AAA  ATPase, [[category|DNA replication|replication]] initiation protein	SENSE
+dnaA	1778	28	AAA  ATPase, [[category|DNA replication|replication]] initiation protein	SENSE
+recF	3846	0.37	promoter of RecA DNA repair center assembly	SENSE
+recF	3999	0.51	promoter of RecA DNA repair center assembly	SENSE
+recF	4485	0.94	promoter of RecA DNA repair center assembly	SENSE
+gyrB	5957	0.57	DNA gyrase (subunit B)	SENSE
+gyrB	6427	0.82	DNA gyrase (subunit B)	SENSE
+gyrA	8691	0.69	DNA gyrase (subunit A)	SENSE
+gyrA	8816	0.74	DNA gyrase (subunit A)	SENSE
+gyrA	9562	103	DNA gyrase (subunit A)	SENSE
+gyrA	9652	193	DNA gyrase (subunit A)	SENSE
+gyrA	9666	207	DNA gyrase (subunit A)	SENSE
+yaaC	15545	0.26	unknown	ANTI
+BSU_misc_RNA_1	20812	0.95		SENSE
+serS	22298	141	seryl-tRNA-synthetase	SENSE
+serS	22309	152	seryl-tRNA-synthetase	SENSE
+serS	22319	162	seryl-tRNA-synthetase	SENSE
+serS	22324	167	seryl-tRNA-synthetase	SENSE
+dck	22387	109	deoxyadenosin/deoxycytidine kinase	ANTI
+dck	22396	100	deoxyadenosin/deoxycytidine kinase	ANTI
+dck	22405	91	deoxyadenosin/deoxycytidine kinase	ANTI
+dck	22418	78	deoxyadenosin/deoxycytidine kinase	ANTI
+dck	22429	67	deoxyadenosin/deoxycytidine kinase	ANTI
+dck	22437	59	deoxyadenosin/deoxycytidine kinase	ANTI
+dck	22449	47	deoxyadenosin/deoxycytidine kinase	ANTI
+dck	22458	38	deoxyadenosin/deoxycytidine kinase	ANTI
+yaaJ	26493	156	tRNA specific adenosine deaminase	SENSE
+dnaX	26719	-95	DNA polymerase  III (gamma and tau subunits) part of the clamp-loader complex and the [SW|replisome]	SENSE
+dnaX	26730	-84	DNA polymerase  III (gamma and tau subunits) part of the clamp-loader complex and the [SW|replisome]	SENSE
+recR	28925	0.1	required for the formation of RecA DNA repair centers	SENSE
+recR	28964	0.16	required for the formation of RecA DNA repair centers	SENSE
+bofA	30198	163	inhibition of the pro-sigma-K processing machinery	SENSE
+bofA	30257	222	inhibition of the pro-sigma-K processing machinery	SENSE
+csfB	35107	-424	anti-sigma factor, inhibitor of [[protein|SigG ]]and of [[protein|SigE]]	SENSE
+csfB	35118	-413	anti-sigma factor, inhibitor of [[protein|SigG ]]and of [[protein|SigE]]	SENSE
+csfB	35166	-365	anti-sigma factor, inhibitor of [[protein|SigG ]]and of [[protein|SigE]]	SENSE
+csfB	35213	-318	anti-sigma factor, inhibitor of [[protein|SigG ]]and of [[protein|SigE]]	SENSE
+csfB	35218	-313	anti-sigma factor, inhibitor of [[protein|SigG ]]and of [[protein|SigE]]	SENSE
+csfB	35226	-305	anti-sigma factor, inhibitor of [[protein|SigG ]]and of [[protein|SigE]]	SENSE
+csfB	35239	-292	anti-sigma factor, inhibitor of [[protein|SigG ]]and of [[protein|SigE]]	SENSE
+csfB	35245	-286	anti-sigma factor, inhibitor of [[protein|SigG ]]and of [[protein|SigE]]	SENSE
+csfB	35372	-159	anti-sigma factor, inhibitor of [[protein|SigG ]]and of [[protein|SigE]]	SENSE
+csfB	35381	-150	anti-sigma factor, inhibitor of [[protein|SigG ]]and of [[protein|SigE]]	SENSE
+xpaC	35855	0.02	hydrolysis of 5-bromo-4-chloroindolyl phosphate	SENSE
+xpaC	35871	0.04	hydrolysis of 5-bromo-4-chloroindolyl phosphate	SENSE
+xpaC	35876	0.05	hydrolysis of 5-bromo-4-chloroindolyl phosphate	SENSE
+xpaC	35888	0.07	hydrolysis of 5-bromo-4-chloroindolyl phosphate	SENSE
+xpaC	35913	0.11	hydrolysis of 5-bromo-4-chloroindolyl phosphate	SENSE
+xpaC	36046	0.33	hydrolysis of 5-bromo-4-chloroindolyl phosphate	SENSE
+xpaC	36051	0.34	hydrolysis of 5-bromo-4-chloroindolyl phosphate	SENSE
+xpaC	36277	0.71	hydrolysis of 5-bromo-4-chloroindolyl phosphate	SENSE
+yaaN	36850	0.32	unknown	SENSE
+yaaN	36913	0.38	unknown	SENSE
+yaaO	37820	0.07	similar to arginine decarboxylase, affects the level of [[protein|Efp]] modification	SENSE
+holB	40768	0.1	DNA polymerase III (delta subunit), part of the clamp-loader complex and the [SW|replisome]	SENSE
+holB	41018	0.36	DNA polymerase III (delta subunit), part of the clamp-loader complex and the [SW|replisome]	SENSE
+holB	41425	0.77	DNA polymerase III (delta subunit), part of the clamp-loader complex and the [SW|replisome]	SENSE
+ricT	42077	0.51	subunit of the regulatory iron-sulfur containing [[protein|RicA]]-[[protein|RicF]]-[[protein|RicT]] complex, control of the [SW|phosphorelay], required for the achieving a sufficient level of [[prote	SENSE
+ricT	42146	0.59	subunit of the regulatory iron-sulfur containing [[protein|RicA]]-[[protein|RicF]]-[[protein|RicT]] complex, control of the [SW|phosphorelay], required for the achieving a sufficient level of [[prote	SENSE
+ricT	42261	0.73	subunit of the regulatory iron-sulfur containing [[protein|RicA]]-[[protein|RicF]]-[[protein|RicT]] complex, control of the [SW|phosphorelay], required for the achieving a sufficient level of [[prote	SENSE
+yabA	42558	0.17	inhibitor of [[protein|DnaA]] oligomerization, tethers [[protein|DnaA ]]to the polymerase-clamp protein [[protein|DnaN]]	SENSE
+yabA	42744	0.69	inhibitor of [[protein|DnaA]] oligomerization, tethers [[protein|DnaA ]]to the polymerase-clamp protein [[protein|DnaN]]	SENSE
+abrB	44840	8	transcriptional regulator of transition state genes	SENSE
+abrB	45138	0	transcriptional regulator of transition state genes	SENSE
+abrB	45188	-50	transcriptional regulator of transition state genes	SENSE
+metS	47401	0.89	methionyl-tRNA synthetase	SENSE
+yabE	48785	0.12	similar to cell wall binding protein	SENSE
+yabE	49458	0.63	similar to cell wall binding protein	ANTI
+yabE	49479	0.65	similar to cell wall binding protein	ANTI
+yabE	49491	0.66	similar to cell wall binding protein	ANTI
+yabE	49530	0.69	similar to cell wall binding protein	ANTI
+yabE	49749	0.85	similar to cell wall binding protein	ANTI
+yabE	49837	0.92	similar to cell wall binding protein	ANTI
+yabE	49947	5	similar to cell wall binding protein	ANTI
+yabE	49992	50	similar to cell wall binding protein	ANTI
+veg	52768	0.02	negative effector of SinR activity	SENSE
+ispE	53505	-11	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase, fourth step in the MEP pathway of isoprenoid biosynthesis	SENSE
+purR	54823	0.45	transcription repressor of the pur operon	SENSE
+purR	54898	0.53	transcription repressor of the pur operon	SENSE
+purR	55245	0.94	transcription repressor of the pur operon	SENSE
+yabJ	55530	0.63	2-iminobutanoate/2-iminopropanoate deaminase, detoxification of reactive intermediates generated in isoleucine biosynthesis	SENSE
+gcaD	57509	0.85	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase	SENSE
+prs	57851	0.11	phosphoribosylpyrophosphate synthetase, universally conserved protein	SENSE
+prs	57941	0.21	phosphoribosylpyrophosphate synthetase, universally conserved protein	SENSE
+prs	58180	0.46	phosphoribosylpyrophosphate synthetase, universally conserved protein	SENSE
+spoVC	60025	0.92	general stress protein, peptidyl-tRNA hydrolase	SENSE
+mfd	60657	0.06	transcription-repair coupling factor, eliminates genetic damage from transcriptionally active genes during sporulation, required for increased mutagenesis of lagging strand genes	SENSE
+mfd	62944	0.71	transcription-repair coupling factor, eliminates genetic damage from transcriptionally active genes during sporulation, required for increased mutagenesis of lagging strand genes	SENSE
+yabM	66313	0.94	may function in a previously observed alternate pathway for peptidoglycan strand synthesis	SENSE
+yabN	67021	0.42	similar to nucleoside triphosphate pyrophosphohydrolase	SENSE
+yabP	68505	0.96	required for sporulation at a late stage	SENSE
+yabQ	68609	0.15	required for sporulation at a late stage	SENSE
+yabQ	69081	0.89	required for sporulation at a late stage	SENSE
+divIC	69173	0.01	cell-division initiation protein (septum formation), component of septosome (with [[protein|DivIB]])	SENSE
+tilS	75908	0.69	trigger enzyme, tRNAIle-lysidine synthetase (modifies C34 at the wobble position of tRNA2Ile to lysidine) and part of a transcription activator	SENSE
+hprT	76922	36	trigger enzyme, hypoxanthine phosphoribosyltransferase and part of a transcription activator	SENSE
+ftsH	77096	0.06	ATP-dependent metalloprotease	SENSE
+ftsH	77151	0.09	ATP-dependent metalloprotease	SENSE
+ftsH	77351	0.19	ATP-dependent metalloprotease	SENSE
+ftsH	77546	0.29	ATP-dependent metalloprotease	SENSE
+cysK	82586	0.88	cysteine synthase, trigger enzyme	SENSE
+pabC	84935	0.07	aminodeoxychorismate lyase	SENSE
+folK	87322	0.75	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	SENSE
+yacF	87747	0.11	putative tRNA-dihydrouridine synthase B	SENSE
+yacF	88668	33	putative tRNA-dihydrouridine synthase B	SENSE
+lysS	89368	0.43	lysyl-tRNA synthetase	SENSE
+lysS	89872	0.76	lysyl-tRNA synthetase	SENSE
+lysS	89952	0.82	lysyl-tRNA synthetase	SENSE
+lysS	90193	0.98	lysyl-tRNA synthetase	SENSE
+lysS	90438	212	lysyl-tRNA synthetase	SENSE
+lysS	90453	227	lysyl-tRNA synthetase	SENSE
+lysS	90774	548	lysyl-tRNA synthetase	SENSE
+lysS	95372	5146	lysyl-tRNA synthetase	SENSE
+lysS	95381	5155	lysyl-tRNA synthetase	SENSE
+lysS	95460	5234	lysyl-tRNA synthetase	SENSE
+lysS	95467	5241	lysyl-tRNA synthetase	SENSE
+lysS	95554	5328	lysyl-tRNA synthetase	SENSE
+lysS	95560	5334	lysyl-tRNA synthetase	SENSE
+lysS	95571	5345	lysyl-tRNA synthetase	SENSE
+lysS	95656	5430	lysyl-tRNA synthetase	SENSE
+lysS	95663	5437	lysyl-tRNA synthetase	SENSE
+lysS	95705	5479	lysyl-tRNA synthetase	SENSE
+lysS	95715	5489	lysyl-tRNA synthetase	SENSE
+lysS	95735	5509	lysyl-tRNA synthetase	SENSE
+lysS	95745	5519	lysyl-tRNA synthetase	SENSE
+lysS	95757	5531	lysyl-tRNA synthetase	SENSE
+lysS	95767	5541	lysyl-tRNA synthetase	SENSE
+lysS	95782	5556	lysyl-tRNA synthetase	SENSE
+ctsR	95951	-5498	transcription repressor of class III heat shock genes ([[gene|clpC]] operon, [[gene|clpE]], [[gene|clpP]])	SENSE
+ctsR	95963	-5486	transcription repressor of class III heat shock genes ([[gene|clpC]] operon, [[gene|clpE]], [[gene|clpP]])	SENSE
+ctsR	96152	-5297	transcription repressor of class III heat shock genes ([[gene|clpC]] operon, [[gene|clpE]], [[gene|clpP]])	SENSE
+ctsR	96239	-5210	transcription repressor of class III heat shock genes ([[gene|clpC]] operon, [[gene|clpE]], [[gene|clpP]])	SENSE
+ctsR	96247	-5202	transcription repressor of class III heat shock genes ([[gene|clpC]] operon, [[gene|clpE]], [[gene|clpP]])	SENSE
+ctsR	96253	-5196	transcription repressor of class III heat shock genes ([[gene|clpC]] operon, [[gene|clpE]], [[gene|clpP]])	SENSE
+ctsR	96263	-5186	transcription repressor of class III heat shock genes ([[gene|clpC]] operon, [[gene|clpE]], [[gene|clpP]])	SENSE
+ctsR	96269	-5180	transcription repressor of class III heat shock genes ([[gene|clpC]] operon, [[gene|clpE]], [[gene|clpP]])	SENSE
+ctsR	96276	-5173	transcription repressor of class III heat shock genes ([[gene|clpC]] operon, [[gene|clpE]], [[gene|clpP]])	SENSE
+ctsR	100304	-1145	transcription repressor of class III heat shock genes ([[gene|clpC]] operon, [[gene|clpE]], [[gene|clpP]])	SENSE
+clpC	105027	0.6	AAA  unfoldase, ATPase subunit of the [[protein|ClpC]]-[[protein|ClpP]] protease, directs proteins phosphorylated on arginine residues to [[protein|ClpP]]	SENSE
+radA	107170	0.78	branch migration transferase, 6-O-methylguanine-DNA methyltransferase, negative effector of DisA activity, participates in the stabilization and/or processing of holliday junction intermediates	SENSE
+ispF	110985	29	2-C-methyl-D-erythrol-2,4-cyclodiphosphate synthase, 5th step in the MEP pathway of isoprenoid biosynthesis	SENSE
+gltX	111248	0.14	glutamyl-tRNA synthetase, universally conserved protein	SENSE
+gltX	111264	0.15	glutamyl-tRNA synthetase, universally conserved protein	SENSE
+gltX	111945	0.62	glutamyl-tRNA synthetase, universally conserved protein	SENSE
+gltX	111998	0.66	glutamyl-tRNA synthetase, universally conserved protein	SENSE
+gltX	112215	0.81	glutamyl-tRNA synthetase, universally conserved protein	SENSE
+cysE	112679	-121	serine O-acetyltransferase	SENSE
+cysE	112796	-4	serine O-acetyltransferase	SENSE
+cysE	112813	0.02	serine O-acetyltransferase	SENSE
+cysE	113075	0.42	serine O-acetyltransferase	SENSE
+cysS	113737	0.21	cysteine-tRNA synthetase	SENSE
+secE	117733	22	preprotein translocase subunit	SENSE
+rplA	119299	0.27	ribosomal protein	SENSE
+rplL	120975	1	ribosomal protein L12	SENSE
+rplL	120992	14	ribosomal protein L12	SENSE
+rplL	121002	24	ribosomal protein L12	SENSE
+ybxB	121739	66	unknown	SENSE
+rpoB	122047	0.04	[SW|RNA polymerase] beta subunit	SENSE
+rpoB	122504	0.16	[SW|RNA polymerase] beta subunit	SENSE
+rpoB	122509	0.16	[SW|RNA polymerase] beta subunit	SENSE
+rpoB	124395	0.69	[SW|RNA polymerase] beta subunit	SENSE
+rpoC	125707	0.04	[SW|RNA polymerase] beta' subunit	SENSE
+rpoC	125783	0.06	[SW|RNA polymerase] beta' subunit	SENSE
+rpoC	126023	0.13	[SW|RNA polymerase] beta' subunit	SENSE
+rpoC	126385	0.23	[SW|RNA polymerase] beta' subunit	SENSE
+rpoC	126860	0.36	[SW|RNA polymerase] beta' subunit	SENSE
+rpoC	127508	0.54	[SW|RNA polymerase] beta' subunit	SENSE
+rpoC	128221	0.74	[SW|RNA polymerase] beta' subunit	SENSE
+rplGB	129336	-4	highly expressed protein, similar to ribosomal protein L7AE family, associated with the ribosome during exponential growth, binds K-turns in RNA switches	SENSE
+rplGB	129629	41	highly expressed protein, similar to ribosomal protein L7AE family, associated with the ribosome during exponential growth, binds K-turns in RNA switches	SENSE
+tufA	133017	0.11	elongation factor Tu	SENSE
+tufA	134075	3	elongation factor Tu	SENSE
+tufA	134097	25	elongation factor Tu	SENSE
+ybaC	135245	118	similar to proline iminopeptidase	SENSE
+rpsJ	135261	-103	ribosomal protein	SENSE
+rpsQ	140385	0.91	ribosomal protein	SENSE
+rplN	140575	0.34	ribosomal protein	SENSE
+rplO	144220	0.31	ribosomal protein	SENSE
+secY	145019	0.38	preprotein translocase subunit, universally conserved protein	SENSE
+secY	145604	0.83	preprotein translocase subunit, universally conserved protein	SENSE
+map	146708	0.24	methionine aminopeptidase	SENSE
+map	146984	0.61	methionine aminopeptidase	SENSE
+map	147207	0.91	methionine aminopeptidase	SENSE
+rpoA	148901	-30	[SW|RNA polymerase] alpha subunit	SENSE
+rpoA	149741	0.86	[SW|RNA polymerase] alpha subunit	SENSE
+rpoA	149898	23	[SW|RNA polymerase] alpha subunit	SENSE
+rpoA	149904	29	[SW|RNA polymerase] alpha subunit	SENSE
+rplQ	150367	52	ribosomal protein	SENSE
+ybxA	150385	-58	ATP-binding A1 component of [SW|ECF transporter]s	SENSE
+ybaF	152286	0.2	trans-membrane T component of [SW|ECF transporter]s	SENSE
+truA	153653	0.97	pseudouridylate synthase I, universally conserved protein	SENSE
+rpsI	154661	0.93	ribosomal protein	SENSE
+rpsI	154700	8	ribosomal protein	SENSE
+ybaJ	155520	0.48	unknown	SENSE
+salA	157417	-4	negative regulator of scoC expression, activator of PtkA kinase activity	SENSE
+salA	157462	0.04	negative regulator of scoC expression, activator of PtkA kinase activity	SENSE
+salA	157848	0.4	negative regulator of scoC expression, activator of PtkA kinase activity	SENSE
+gerD	158539	0.96	scaffold of the germinosome, required for clustering of germinant receptors in the spore inner membrane	ANTI
+gerD	158835	0.43	scaffold of the germinosome, required for clustering of germinant receptors in the spore inner membrane	ANTI
+pdaB	160803	-260	polysaccharide deacetylase	ANTI
+pdaB	160812	-269	polysaccharide deacetylase	ANTI
+pdaB	165710	-5167	polysaccharide deacetylase	ANTI
+pdaB	165720	-5177	polysaccharide deacetylase	ANTI
+pdaB	165733	-5190	polysaccharide deacetylase	ANTI
+pdaB	165743	-5200	polysaccharide deacetylase	ANTI
+pdaB	165748	-5205	polysaccharide deacetylase	ANTI
+pdaB	165850	-5307	polysaccharide deacetylase	ANTI
+pdaB	165936	-5393	polysaccharide deacetylase	ANTI
+pdaB	165953	-5410	polysaccharide deacetylase	ANTI
+pdaB	166062	-5519	polysaccharide deacetylase	ANTI
+pdaB	166259	-5716	polysaccharide deacetylase	ANTI
+ybaR	171331	-5752	fumarate transporter	SENSE
+ybaR	171345	-5738	fumarate transporter	SENSE
+ybaR	176331	-752	fumarate transporter	SENSE
+ybbK	194279	-254	unknown	ANTI
+sigW	194465	-384	[SW|RNA polymerase] ECF-type [SW|sigma factor] SigW, required for the adaptation to membrane active agents, activated by alkaline shock and by polymyxin B, vancomycin, cephalosporin C, D-cycloserine,	SENSE
+sigW	194630	-219	[SW|RNA polymerase] ECF-type [SW|sigma factor] SigW, required for the adaptation to membrane active agents, activated by alkaline shock and by polymyxin B, vancomycin, cephalosporin C, D-cycloserine,	SENSE
+sigW	194849	0	[SW|RNA polymerase] ECF-type [SW|sigma factor] SigW, required for the adaptation to membrane active agents, activated by alkaline shock and by polymyxin B, vancomycin, cephalosporin C, D-cycloserine,	SENSE
+sigW	194858	0.02	[SW|RNA polymerase] ECF-type [SW|sigma factor] SigW, required for the adaptation to membrane active agents, activated by alkaline shock and by polymyxin B, vancomycin, cephalosporin C, D-cycloserine,	SENSE
+sigW	195035	0.33	[SW|RNA polymerase] ECF-type [SW|sigma factor] SigW, required for the adaptation to membrane active agents, activated by alkaline shock and by polymyxin B, vancomycin, cephalosporin C, D-cycloserine,	SENSE
+sigW	195041	0.34	[SW|RNA polymerase] ECF-type [SW|sigma factor] SigW, required for the adaptation to membrane active agents, activated by alkaline shock and by polymyxin B, vancomycin, cephalosporin C, D-cycloserine,	SENSE
+sigW	195085	0.42	[SW|RNA polymerase] ECF-type [SW|sigma factor] SigW, required for the adaptation to membrane active agents, activated by alkaline shock and by polymyxin B, vancomycin, cephalosporin C, D-cycloserine,	SENSE
+rsiW	195745	0.51	anti-[[protein|SigW]]	SENSE
+rsiW	195897	0.75	anti-[[protein|SigW]]	SENSE
+rsiW	196015	0.94	anti-[[protein|SigW]]	SENSE
+cdaA	196281	0.08	diadenylate cyclase, synthesis of c-di-AMP in vegetative cells	SENSE
+glmM	199374	0.65	phosphoglucosamine mutase, required for cell wall synthesis	SENSE
+glmM	199723	0.91	phosphoglucosamine mutase, required for cell wall synthesis	SENSE
+glmM	199783	0.96	phosphoglucosamine mutase, required for cell wall synthesis	SENSE
+glmS	200113	-164	glutamine-fructose-6-phosphate transaminase	SENSE
+glmS	200382	0.06	glutamine-fructose-6-phosphate transaminase	SENSE
+glmS	200764	0.27	glutamine-fructose-6-phosphate transaminase	SENSE
+glmS	202071	1	glutamine-fructose-6-phosphate transaminase	SENSE
+glmS	202105	26	glutamine-fructose-6-phosphate transaminase	SENSE
+adaB	205010	120	O6-methylguanine-DNA methyltransferase	SENSE
+adaB	205043	153	O6-methylguanine-DNA methyltransferase	SENSE
+adaB	205136	246	O6-methylguanine-DNA methyltransferase	SENSE
+ndhF	205255	-154	NADH dehydrogenase (subunit 5)	SENSE
+ndhF	205265	-144	NADH dehydrogenase (subunit 5)	SENSE
+ndhF	205287	-122	NADH dehydrogenase (subunit 5)	SENSE
+ybcC	208214	0.49	unknown	SENSE
+ybxG	226657	0.07	similar to amino acid permease	SENSE
+ybxG	227426	0.62	similar to amino acid permease	SENSE
+ybxG	227476	0.66	similar to amino acid permease	SENSE
+ybxG	227827	0.91	similar to amino acid permease	SENSE
+ybeC	231954	0.37	similar to amino acid transporter	SENSE
+ybeC	232637	0.8	similar to amino acid transporter	SENSE
+ybeC	232779	0.88	similar to amino acid transporter	SENSE
+ybfA	236712	0.82	unknown	SENSE
+ybfE	238296	0.54	unknown	SENSE
+ybfE	238445	0.01	unknown	SENSE
+pssA	247961	0.41	phosphatidylserine synthase	SENSE
+pssA	248040	0.56	phosphatidylserine synthase	SENSE
+ybfM	248457	0.39	similar to alkaline phosphatase	SENSE
+ybfM	248706	0.9	similar to alkaline phosphatase	SENSE
+ybgE	258948	-68	branched-chain amino acid aminotransferase	SENSE
+ybgE	258956	-60	branched-chain amino acid aminotransferase	SENSE
+ybgF	260924	0.43	similar to histidine permase	SENSE
+ycbE	271758	1	galactarate/glucarate transporter in (proton symport)	SENSE
+ycbP	281866	0.75	general stress protein	SENSE
+ycbP	281955	0.52	general stress protein	SENSE
+cwlJ	282947	50	spore coat protein, cell wall hydrolase	ANTI
+rapJ	305184	0.67	response regulator aspartate phosphatase, dephosphorylates Spo0F-P	SENSE
+yceC	312101	-58	similar to tellurium resistance protein	SENSE
+yceD	312868	0.15	general stress protein, similar to tellurium resistance protein	SENSE
+yceD	313154	0.65	general stress protein, similar to tellurium resistance protein	SENSE
+yceD	313226	0.77	general stress protein, similar to tellurium resistance protein	SENSE
+yceE	313770	0.65	general stress protein, similar to tellurium resistance protein	SENSE
+yceF	314056	0.04	general stress protein, similar to tellurium resistance protein	SENSE
+yceF	314091	0.09	general stress protein, similar to tellurium resistance protein	SENSE
+yceF	314553	0.68	general stress protein, similar to tellurium resistance protein	SENSE
+yceG	315442	0.35	general stress protein, survival of ethanol  stress	SENSE
+opuAA	321987	0.78	glycine betaine and arsenobetaine [SW|ABC transporter] (ATP-binding protein)	SENSE
+opuAB	322429	0.19	glycine betaine and arsenobetaine [SW|ABC transporter] (permease)	SENSE
+opuAC	323330	0.24	glycine betaine and arsenobetaine [SW|ABC transporter] (binding protein)	SENSE
+opuAC	323922	0.91	glycine betaine and arsenobetaine [SW|ABC transporter] (binding protein)	SENSE
+ycgB	327138	0.43	unknown	ANTI
+ycgB	327237	0.6	unknown	ANTI
+ycgB	327523	54	unknown	ANTI
+amyE	328106	0.25	alpha-amylase	ANTI
+amyE	328136	0.26	alpha-amylase	ANTI
+yckA	367730	0.38	similar to amino acid [SW|ABC transporter] (permease)	SENSE
+yckE	370545	0.2	aryl-Î²-glucosidase	ANTI
+nucA	372161	0.99	membrane-associated nuclease, catalyzes DNA cleavage during transformation	SENSE
+nucA	372415	0.41	membrane-associated nuclease, catalyzes DNA cleavage during transformation	SENSE
+nucA	372603	-6	membrane-associated nuclease, catalyzes DNA cleavage during transformation	SENSE
+tlpC	372727	44	membrane-bound chemotaxis receptor, methyl-accepting chemotaxis protein	SENSE
+tlpC	372977	0.88	membrane-bound chemotaxis receptor, methyl-accepting chemotaxis protein	ANTI
+tlpC	374255	0.14	membrane-bound chemotaxis receptor, methyl-accepting chemotaxis protein	ANTI
+tlpC	374543	-51	membrane-bound chemotaxis receptor, methyl-accepting chemotaxis protein	ANTI
+srfAA	376738	-230	surfactin synthetase / competence	SENSE
+srfAA	376743	-225	surfactin synthetase / competence	SENSE
+srfAA	376960	-8	surfactin synthetase / competence	SENSE
+srfAA	377273	0.03	surfactin synthetase / competence	SENSE
+srfAA	377522	0.05	surfactin synthetase / competence	SENSE
+srfAA	378418	0.13	surfactin synthetase / competence	SENSE
+srfAA	384421	0.69	surfactin synthetase / competence	SENSE
+srfAA	384677	0.72	surfactin synthetase / competence	SENSE
+srfAA	384683	0.72	surfactin synthetase / competence	SENSE
+srfAA	384712	0.72	surfactin synthetase / competence	SENSE
+srfAA	384727	0.72	surfactin synthetase / competence	SENSE
+srfAA	385266	0.77	surfactin synthetase / competence	SENSE
+srfAA	385430	0.79	surfactin synthetase / competence	SENSE
+srfAA	385465	0.79	surfactin synthetase / competence	SENSE
+srfAA	385700	0.81	surfactin synthetase / competence	SENSE
+srfAA	385922	0.83	surfactin synthetase / competence	SENSE
+srfAB	387770	0	surfactin synthetase / competence	SENSE
+srfAB	393976	0.58	surfactin synthetase / competence	SENSE
+srfAB	395228	0.7	surfactin synthetase / competence	SENSE
+srfAB	395441	0.72	surfactin synthetase / competence	SENSE
+srfAB	395447	0.72	surfactin synthetase / competence	SENSE
+srfAB	395493	0.72	surfactin synthetase / competence	SENSE
+srfAB	396030	0.77	surfactin synthetase / competence	SENSE
+srfAB	396490	0.81	surfactin synthetase / competence	SENSE
+srfAB	396686	0.83	surfactin synthetase / competence	SENSE
+srfAB	397183	0.88	surfactin synthetase / competence	SENSE
+srfAB	397303	0.89	surfactin synthetase / competence	SENSE
+srfAB	397349	0.89	surfactin synthetase / competence	SENSE
+srfAC	399735	0.31	surfactin synthetase / competence	SENSE
+srfAC	401617	0.81	surfactin synthetase / competence	SENSE
+srfAC	402307	0.99	surfactin synthetase / competence	SENSE
+srfAD	402469	0.11	surfactin synthetase / competence	SENSE
+srfAD	403156	40	surfactin synthetase / competence	SENSE
+ycxA	403425	0.17	unknown	SENSE
+fpbN	432544	0.18	petrobactin (3.4-catecholate siderophore) [SW|ABC transporter] (permease)	SENSE
+ycsN	466199	0.17	similar to aryl-alcohol dehydrogenase	SENSE
+ycsN	466208	0.18	similar to aryl-alcohol dehydrogenase	SENSE
+ycsN	466401	0.4	similar to aryl-alcohol dehydrogenase	SENSE
+ycsN	466409	0.41	similar to aryl-alcohol dehydrogenase	SENSE
+ycsN	466511	0.52	similar to aryl-alcohol dehydrogenase	SENSE
+ydaG	474409	184	general stress protein, required for protection against paraquat stress	SENSE
+amj	474601	-130	lipid II flippase, alternative to [[protein|MurJ]]	SENSE
+ydzK	491013	0.11	unknown	SENSE
+mntH	491571	0.67	manganese transporter (proton symport)	SENSE
+mntH	492150	0.21	manganese transporter (proton symport)	SENSE
+mntH	492456	-32	manganese transporter (proton symport)	SENSE
+mntH	492464	-40	manganese transporter (proton symport)	SENSE
+mntH	492470	-46	manganese transporter (proton symport)	SENSE
+ydbI	502035	0.43	unknown	SENSE
+ydbO	507244	0.43	similar to cation efflux system	SENSE
+ydbO	507254	0.45	similar to cation efflux system	SENSE
+murF	510272	0.65	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase	SENSE
+cshA	510983	-123	DEAD-box RNA helicase, important for adaptation to low temperatures	SENSE
+cshA	511070	-36	DEAD-box RNA helicase, important for adaptation to low temperatures	SENSE
+cshA	511823	0.47	DEAD-box RNA helicase, important for adaptation to low temperatures	SENSE
+ydbS	513097	0.59	resistence against antimicrobial compounds from B. amyloliquefaciens	SENSE
+ydbT	513545	0.18	resistence against antimicrobial compounds from B. amyloliquefaciens	SENSE
+ydbT	514019	0.5	resistence against antimicrobial compounds from B. amyloliquefaciens	SENSE
+ydcC	516481	0.21	unknown	SENSE
+ndoAI	518647	-10	antitoxin, antagonist for EndoA	SENSE
+ndoAI	518695	0.14	antitoxin, antagonist for EndoA	SENSE
+ndoA	518966	0.07	RNase EndoA, MazF family toxin, UACAU-specific mRNA interferase	SENSE
+ndoA	518977	0.1	RNase EndoA, MazF family toxin, UACAU-specific mRNA interferase	SENSE
+ndoA	519014	0.2	RNase EndoA, MazF family toxin, UACAU-specific mRNA interferase	SENSE
+ndoA	519024	0.23	RNase EndoA, MazF family toxin, UACAU-specific mRNA interferase	SENSE
+ndoA	519030	0.25	RNase EndoA, MazF family toxin, UACAU-specific mRNA interferase	SENSE
+ndoA	519300	7	RNase EndoA, MazF family toxin, UACAU-specific mRNA interferase	SENSE
+ndoA	519308	15	RNase EndoA, MazF family toxin, UACAU-specific mRNA interferase	ANTI
+rsbU	521439	0.42	protein serine phosphatase, environmental PP2C, dephosphorylates [[protein|RsbV]]	SENSE
+rsbU	521838	0.81	protein serine phosphatase, environmental PP2C, dephosphorylates [[protein|RsbV]]	SENSE
+rsbV	522262	0.53	antagonist of [[protein|RsbW]], anti-anti-[[protein|SigB]]	SENSE
+rsbW	522521	0.22	Anti-protein serine kinase, phosphorylates [[protein|RsbV]]	SENSE
+rsbW	522614	0.42	Anti-protein serine kinase, phosphorylates [[protein|RsbV]]	SENSE
+rsbX	523846	0.33	protein serine phosphatase, feedback PP2C, dephosphorylates RsbS and RsbR	SENSE
+rsbX	523984	0.56	protein serine phosphatase, feedback PP2C, dephosphorylates RsbS and RsbR	SENSE
+rsbX	523989	0.57	protein serine phosphatase, feedback PP2C, dephosphorylates RsbS and RsbR	SENSE
+rsbX	523994	0.58	protein serine phosphatase, feedback PP2C, dephosphorylates RsbS and RsbR	SENSE
+ydcI	527394	0.77	unknown	SENSE
+ydcK	528641	60		SENSE
+ydcK	528682	101		SENSE
+ydcK	528691	110		SENSE
+ydcK	528710	129		SENSE
+ydcK	528715	134		SENSE
+ydcK	528780	199		SENSE
+ydcK	528790	209		SENSE
+ydcK	528797	216		SENSE
+ydcK	528835	254		SENSE
+ydcK	528878	297		SENSE
+ydcK	528885	304		SENSE
+ydcK	528890	309		SENSE
+ydcK	528900	319		SENSE
+ydcK	528910	329		SENSE
+ydcK	528977	396		SENSE
+ydcK	528984	403		SENSE
+ydcK	528994	413		SENSE
+int	529060	445	integrase	ANTI
+int	529078	427	integrase	ANTI
+int	529085	420	integrase	ANTI
+int	529092	413	integrase	ANTI
+int	529172	333	integrase	ANTI
+int	529181	324	integrase	ANTI
+int	529188	317	integrase	ANTI
+int	529228	277	integrase	ANTI
+int	529424	81	integrase	ANTI
+int	529430	75	integrase	ANTI
+int	529436	69	integrase	ANTI
+int	529447	58	integrase	ANTI
+int	529452	53	integrase	ANTI
+int	529480	25	integrase	SENSE
+int	529556	0.96	integrase	SENSE
+immR	531206	0.81	transcriptional repressor (Xre family),  controls expression of genes of the mobile genetic element ICEBs1, induction by the  SOS response or the RapI-PhrI sensory system	SENSE
+ydcO	532608	56	unknown	ANTI
+conG	542323	0.3	part of the ICEBs1 conjugation machinery	SENSE
+yddN	551356	-97	similar to alkanal monooxygenase	ANTI
+cspC	559170	-94	cold shock protein	SENSE
+cspC	559175	-89	cold shock protein	SENSE
+cspC	559181	-83	cold shock protein	SENSE
+cspC	559495	31	cold shock protein	SENSE
+cspC	559507	43	cold shock protein	SENSE
+cspC	559545	81	cold shock protein	ANTI
+ydeB	559896	255	similar to transcriptional regulator	SENSE
+ydeN	573909	0.2	unknown	ANTI
+ydzF	574082	24	[SW|MarR family|MarR/DUF24 family] transcription regulator	ANTI
+vmlR	606454	-75	[SW|ABC transporter] (ATP-binding protein), efflux of antibiotics (virginiamycin M, lincomycin)	SENSE
+vmlR	606513	-134	[SW|ABC transporter] (ATP-binding protein), efflux of antibiotics (virginiamycin M, lincomycin)	SENSE
+ydgF	606737	0.97	similar to amino acid permease	SENSE
+ydgF	607957	0.09	similar to amino acid permease	SENSE
+ydhK	624435	-57	general stress protein, survival of ethanol and paraquat stresses	SENSE
+ydhU/1	634987	-336	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	635088	-437	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	635093	-442	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	635116	-465	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	635210	-559	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	635276	-625	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	635282	-631	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	635287	-636	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	635347	-696	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	635403	-752	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	635408	-757	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	635413	-762	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	635418	-767	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	635426	-775	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	635508	-857	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	635514	-863	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	636094	-1443	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+ydhU/1	636104	-1453	similar to Mn catalase, inactive pseudogene in strain 168	ANTI
+thiL	640255	-407	thiamine-monophosphate kinase	SENSE
+thiL	640260	-402	thiamine-monophosphate kinase	SENSE
+thiL	640275	-387	thiamine-monophosphate kinase	SENSE
+thiL	640348	-314	thiamine-monophosphate kinase	SENSE
+thiL	640353	-309	thiamine-monophosphate kinase	SENSE
+thiL	640359	-303	thiamine-monophosphate kinase	SENSE
+thiL	640364	-298	thiamine-monophosphate kinase	SENSE
+thiL	640376	-286	thiamine-monophosphate kinase	SENSE
+thiL	640381	-281	thiamine-monophosphate kinase	SENSE
+thiL	640393	-269	thiamine-monophosphate kinase	SENSE
+thiL	640404	-258	thiamine-monophosphate kinase	SENSE
+thiL	640412	-250	thiamine-monophosphate kinase	SENSE
+thiL	640486	-176	thiamine-monophosphate kinase	SENSE
+thiL	640503	-159	thiamine-monophosphate kinase	SENSE
+thiL	640511	-151	thiamine-monophosphate kinase	SENSE
+thiL	640574	-88	thiamine-monophosphate kinase	SENSE
+ydiG	646910	0.64	molybdenum cofactor biosynthesis protein	SENSE
+ydiG	646950	0.72	molybdenum cofactor biosynthesis protein	SENSE
+rex	647302	0.33	transcriptional repressor of anaerobically expressed genes involved in anaerobic respiration and fermentation	SENSE
+tatCY	648043	0.14	component of the TatAY-TatCY twin-arginine translocase	SENSE
+groEL	651263	0.63	chaperonin and co-repressor for [[protein|HrcA]]	SENSE
+groEL	651907	39	chaperonin and co-repressor for [[protein|HrcA]]	SENSE
+ydzT/1	652157	-73	putative integrase (fragment), C-terminal part of YdzT	ANTI
+ydiP	657027	0.43	similar to DNA-3-methyladenine glycosidase II	SENSE
+ydiS	660709	0.11	component of the BsuM DNA restriction system	SENSE
+ydiS	661056	0.45	component of the BsuM DNA restriction system	SENSE
+ydjA	661899	0.19	component of the BsuM DNA restriction system	ANTI
+ydjA	663260	233	component of the BsuM DNA restriction system	SENSE
+fruC	670800	0.74	fructokinase	SENSE
+pspA	671464	0.32	phage shock protein A homolog	SENSE
+ydjG	672031	0.04	unknown	SENSE
+bdhA	678421	0.51	acetoine/ butanediol dehydrogenase	SENSE
+ydzJ	681121	-56	unknown	SENSE
+ydjO	681339	0.6	unknown	SENSE
+yeaA	682713	0.66	unknown	SENSE
+yebA	690899	0.27	unknown	SENSE
+pbuG	695900	0.94	hypoxanthin/ guanine permease	SENSE
+yebC	696389	0.24	unknown	SENSE
+yebC	696627	0.54	unknown	SENSE
+yebC	696774	0.72	unknown	SENSE
+purE	698530	-82	phosphoribosylaminoimidazole carboxylase (ATP-dependent)	SENSE
+purE	698997	0.79	phosphoribosylaminoimidazole carboxylase (ATP-dependent)	SENSE
+purK	699821	0.64	phosphoribosylaminoimidazole carboxylase (ATP-dependent)	SENSE
+purC	701905	0.42	phosphoribosylaminoimidazole succinocarboxamide synthase	SENSE
+purL	704927	0.76	phosphoribosylformylglycinamidine synthase	SENSE
+purL	705084	0.83	phosphoribosylformylglycinamidine synthase	SENSE
+purM	707112	0.13	phosphoribosylaminoimidazole synthetase	SENSE
+purH	709983	0.9	phosphoribosylaminoimidazole carboxamide formyltransferase	SENSE
+yerB	715888	0.46	[[protein|PcrA ]]interaction protein	SENSE
+yerB	716318	0.89	[[protein|PcrA ]]interaction protein	SENSE
+yerC	716531	0.32	similar to Trp repressor of S. aureus	SENSE
+pcrB	719322	14	heptaprenylglyceryl phosphate synthase	SENSE
+opuE	727266	0.71	proline transporter	SENSE
+opuE	727447	0.59	proline transporter	SENSE
+gatC	729002	0.94	production of glutamyl-tRNA(Gln)	SENSE
+gatA	729926	0.61	production of glutamyl-tRNA(Gln)	SENSE
+gatA	730356	0.91	production of glutamyl-tRNA(Gln)	SENSE
+gatB	731083	0.4	production of glutamyl-tRNA(Gln)	SENSE
+gatB	731225	0.5	production of glutamyl-tRNA(Gln)	SENSE
+gatB	731544	0.72	production of glutamyl-tRNA(Gln)	SENSE
+gatB	731555	0.73	production of glutamyl-tRNA(Gln)	SENSE
+swrC	734086	0.37	similar to acriflavin resistance protein	SENSE
+dgkB	736608	0.19	diacylglycerol kinase	SENSE
+dgkB	737002	0.62	diacylglycerol kinase	SENSE
+dgkB	737007	0.63	diacylglycerol kinase	SENSE
+dgkB	737102	0.73	diacylglycerol kinase	SENSE
+yeeF	747674	0.94	putative toxin	ANTI
+yezE	754430	29	similar to transcriptional regulator (TetR family)	SENSE
+yesL	758048	-45	unknown	SENSE
+yesL	758053	-40	unknown	SENSE
+yfnI	796211	-103	polyglycerolphosphate lipoteichoic acid synthase, general stress protein, major secreted protein, required for survival at low temperature (4Ã‚Â°C)	SENSE
+yfnI	796352	0.02	polyglycerolphosphate lipoteichoic acid synthase, general stress protein, major secreted protein, required for survival at low temperature (4Ã‚Â°C)	SENSE
+yfnI	796594	0.15	polyglycerolphosphate lipoteichoic acid synthase, general stress protein, major secreted protein, required for survival at low temperature (4Ã‚Â°C)	SENSE
+mtrA	806148	0.5	methylthioribose transporter	SENSE
+yfmP	812390	0.6	transcription repressor ([SW|MerR family])  of the [[gene|yfmP]]-[[gene|yfmO]] operon	SENSE
+fecF	822847	56	iron/citrate ABC transporter (ATP-binding protein)	SENSE
+fecF	823416	0.36	iron/citrate ABC transporter (ATP-binding protein)	SENSE
+citS	830973	0.02	two-component sensor kinase, regulation of citrate uptake	SENSE
+citS	832229	0.79	two-component sensor kinase, regulation of citrate uptake	SENSE
+citM	834339	-44	Mg2+-citrate transporter	SENSE
+yflA	845095	0.23	general stress protein, similar to amino acid carrier protein, required for protection against paraquat stress	SENSE
+yflA	845863	0.77	general stress protein, similar to amino acid carrier protein, required for protection against paraquat stress	SENSE
+yfjO	873992	0.42	similar to RNA methyltransferase	SENSE
+yfjO	874733	0.95	similar to RNA methyltransferase	SENSE
+yfjN	876186	-240	putative tRNA-dihydrouridine synthase 2	SENSE
+mprF	918177	0.54	synthesis of lysylphosphatidylglycerol (L-PG), lysinylation of phosphatidylglycerol provides some resistance against positively charged antimicrobial peptides	SENSE
+csbB	931842	35	lipoteichoic acid glycosyltransferase, general stress protein, required for protection against paraquate stress	SENSE
+perR	944452	-35	transcriptional repressor of the peroxide regulon, sensor of the intracellular Fe/Mn ratio	SENSE
+perR	944458	-29	transcriptional repressor of the peroxide regulon, sensor of the intracellular Fe/Mn ratio	SENSE
+perR	944476	-11	transcriptional repressor of the peroxide regulon, sensor of the intracellular Fe/Mn ratio	SENSE
+ygzB	944948	11	unknown	ANTI
+ygxA	946610	206	unknown	SENSE
+spo0M	951337	2036	sporulation-control gene	ANTI
+spo0M	951391	1982	sporulation-control gene	ANTI
+spo0M	951423	1950	sporulation-control gene	ANTI
+spo0M	951437	1936	sporulation-control gene	ANTI
+spo0M	951444	1929	sporulation-control gene	ANTI
+spo0M	951454	1919	sporulation-control gene	ANTI
+spo0M	951465	1908	sporulation-control gene	ANTI
+spo0M	951478	1895	sporulation-control gene	ANTI
+spo0M	951508	1865	sporulation-control gene	ANTI
+spo0M	951569	1804	sporulation-control gene	ANTI
+spo0M	951588	1785	sporulation-control gene	ANTI
+spo0M	951656	1717	sporulation-control gene	ANTI
+spo0M	951670	1703	sporulation-control gene	ANTI
+spo0M	951862	1511	sporulation-control gene	ANTI
+spo0M	951874	1499	sporulation-control gene	ANTI
+spo0M	951955	1418	sporulation-control gene	ANTI
+spo0M	951962	1411	sporulation-control gene	ANTI
+spo0M	952128	1245	sporulation-control gene	ANTI
+spo0M	952135	1238	sporulation-control gene	ANTI
+spo0M	952209	1164	sporulation-control gene	ANTI
+spo0M	952217	1156	sporulation-control gene	ANTI
+spo0M	952223	1150	sporulation-control gene	ANTI
+spo0M	952304	1069	sporulation-control gene	ANTI
+spo0M	952316	1057	sporulation-control gene	ANTI
+spo0M	952406	967	sporulation-control gene	ANTI
+spo0M	952419	954	sporulation-control gene	ANTI
+spo0M	952448	925	sporulation-control gene	ANTI
+spo0M	952546	827	sporulation-control gene	ANTI
+spo0M	952552	821	sporulation-control gene	ANTI
+spo0M	952572	801	sporulation-control gene	ANTI
+spo0M	952578	795	sporulation-control gene	ANTI
+spo0M	952588	785	sporulation-control gene	ANTI
+spo0M	952654	719	sporulation-control gene	ANTI
+spo0M	952659	714	sporulation-control gene	ANTI
+spo0M	952674	699	sporulation-control gene	ANTI
+spo0M	952688	685	sporulation-control gene	ANTI
+spo0M	952693	680	sporulation-control gene	ANTI
+spo0M	952699	674	sporulation-control gene	ANTI
+spo0M	952711	662	sporulation-control gene	ANTI
+spo0M	952798	575	sporulation-control gene	ANTI
+spo0M	952804	569	sporulation-control gene	ANTI
+spo0M	952810	563	sporulation-control gene	ANTI
+spo0M	952821	552	sporulation-control gene	ANTI
+spo0M	952832	541	sporulation-control gene	ANTI
+spo0M	952837	536	sporulation-control gene	ANTI
+spo0M	952845	528	sporulation-control gene	ANTI
+spo0M	952856	517	sporulation-control gene	ANTI
+spo0M	952871	502	sporulation-control gene	ANTI
+spo0M	952949	424	sporulation-control gene	ANTI
+spo0M	952976	397	sporulation-control gene	ANTI
+spo0M	952982	391	sporulation-control gene	ANTI
+spo0M	952992	381	sporulation-control gene	ANTI
+spo0M	953005	368	sporulation-control gene	ANTI
+spo0M	953013	360	sporulation-control gene	ANTI
+spo0M	953025	348	sporulation-control gene	ANTI
+spo0M	953227	146	sporulation-control gene	ANTI
+spo0M	953270	103	sporulation-control gene	ANTI
+spo0M	953294	79	sporulation-control gene	ANTI
+spo0M	953326	47	sporulation-control gene	ANTI
+spo0M	954097	0.07	sporulation-control gene	SENSE
+thiC	955786	-109	4-amino-5-hydroxymethyl-2-methylpyrimidine phosphate (HMP-P) synthase, biosynthesis of the pyrimidine moiety of thiamine	SENSE
+thiC	956787	0.5	4-amino-5-hydroxymethyl-2-methylpyrimidine phosphate (HMP-P) synthase, biosynthesis of the pyrimidine moiety of thiamine	SENSE
+katA	959527	8	main vegetative catalase 1	SENSE
+katA	960888	0.07	main vegetative catalase 1	SENSE
+rpsNB	965858	-51	alternative ribosomal protein S14*, can replace RpsN under conditions of zinc limitation	SENSE
+ygzD	967046	-175	similar to transcription regulator (Xre family)	ANTI
+yhzB	967063	166	unknown	ANTI
+yhzB	967074	155	unknown	ANTI
+yhzB	967149	80	unknown	ANTI
+yhzB	967160	69	unknown	ANTI
+yhzB	967184	45	unknown	ANTI
+yhcI	983743	0.55	similar to ABC transporter (membrane protein)	SENSE
+cspB	984228	34	major cold-shock protein	SENSE
+cspB	984233	29	major cold-shock protein	SENSE
+cspB	984537	-72	major cold-shock protein	SENSE
+cspB	984563	-98	major cold-shock protein	SENSE
+tcyP	987053	0.05	cystine transporter, membrane protein	SENSE
+yhzG	1000201	0.92	unknown, putative pseudogene	SENSE
+glpP	1002399	77	transcriptional antiterminator of the glpT-glpQ and glpF-glpK-glpD operons	SENSE
+glpP	1002411	89	transcriptional antiterminator of the glpT-glpQ and glpF-glpK-glpD operons	SENSE
+glpF	1002434	-67	glycerol facilitator	SENSE
+glpF	1002480	-21	glycerol facilitator	SENSE
+glpK	1004877	43	glycerol kinase	SENSE
+glpK	1004883	49	glycerol kinase	SENSE
+glpK	1004892	58	glycerol kinase	SENSE
+glpD	1004907	-68	glycerol-3-phosphate dehydrogenase (menaquinone 7)	SENSE
+glpD	1004914	-61	glycerol-3-phosphate dehydrogenase (menaquinone 7)	SENSE
+glpD	1004921	-54	glycerol-3-phosphate dehydrogenase (menaquinone 7)	SENSE
+glpD	1004933	-42	glycerol-3-phosphate dehydrogenase (menaquinone 7)	SENSE
+pgcA	1008246	0.87	alpha-phosphoglucomutase, required for UDP-glucose synthesis, inhibits [[protein|FtsZ]] ring assembly (indirect effect due to a defect in UDP-glucose synthesis)	SENSE
+yhdA	1010558	0.22	similar to NADPH-dependent azobenzene FMN reductase	SENSE
+lytF	1012041	0.83	gamma-D-glutamate-meso-diaminopimelate muropeptidase, cell separase (major autolysin)	SENSE
+lytF	1012874	0.26	gamma-D-glutamate-meso-diaminopimelate muropeptidase, cell separase (major autolysin)	SENSE
+bcaP	1023285	-65	branched-chain amino acid transporter, major transporter for isoleucine and valine, may also be involved in threonine transport	SENSE
+bcaP	1023884	0.38	branched-chain amino acid transporter, major transporter for isoleucine and valine, may also be involved in threonine transport	SENSE
+yhdL	1029169	0.39	anti-[[protein|SigM]] protein	SENSE
+sigM	1029962	0.22	[SW|RNA polymerase] ECF-type [SW|sigma factor] SigM, required for adaptation to inhibitors of peptidoglycan synthesis	SENSE
+plsC	1031749	0.59	acyl-ACP:1-acylglycerolphosphate acyltransferase	SENSE
+yhdT	1035856	0.22	unknown	SENSE
+yhdT	1036001	0.32	unknown	SENSE
+yhdT	1036146	0.43	unknown	SENSE
+yhdT	1036823	0.92	unknown	SENSE
+yhdV	1037503	0.5	similar to flouride channel	SENSE
+yheN	1040998	0.84	putative polysaccharide deacetylase	SENSE
+yheN	1041655	0.06	putative polysaccharide deacetylase	SENSE
+dat	1042076	0.1		SENSE
+bmrB	1045092	0.35	regulatory leader peptide for the control of bmrC-bmrD expression	SENSE
+yhaX	1056510	-192	[[protein|SigE]]-dependent sporulation protein	SENSE
+yhaM	1069589	0.58	RNase, 3Ã¢â€ â€™ 5 exoribonuclease	SENSE
+trpP	1075098	0.13	S protein of tryptophan [SW|ECF transporter]	SENSE
+ecsB	1079125	0.78	[SW|ABC transporter] ( membrane protein)	SENSE
+ecsC	1079804	0.54	unknown	SENSE
+gltT	1097222	0.49	major high-affinity Na+-coupled glutamate/ aspartate symport protein	SENSE
+gltT	1097357	0.38	major high-affinity Na+-coupled glutamate/ aspartate symport protein	SENSE
+yhfR	1109167	0.26	phosphatase involved in isopentenol (isoprenoid) biosynthesis	SENSE
+yhfS	1110024	0.42	similar to acetyl-CoA C-acetyltransferase	SENSE
+yhfS	1110188	0.27	similar to acetyl-CoA C-acetyltransferase	SENSE
+yhxD	1118660	-27	general stress protein, similar to alcohol dehydrogenase,	ANTI
+sipV	1122666	0.97	signal peptidase I	SENSE
+addB	1136883	0.16	ATP-dependent deoxyribonuclease (subunit B), required for efficient survival and replication restart after replication-transcription conflicts	SENSE
+addA	1141790	0.54	ATP-dependent deoxyribonuclease (subunit A), required for efficient survival and replication restart after replication-transcription conflicts	SENSE
+addA	1142024	0.6	ATP-dependent deoxyribonuclease (subunit A), required for efficient survival and replication restart after replication-transcription conflicts	SENSE
+sbcC	1145272	0.15	DNA exonuclease	SENSE
+gerPA	1150559	-132	spore germination protein, facilitates access of nutrient germinants to their cognate germinant receptors in sporesÃ¢â‚¬â„¢ inner membrane	ANTI
+yisJ	1151142	24	unknown	ANTI
+wprA	1154528	0.28	secreted quality control protease	SENSE
+yitY	1192918	0.04	similar to oxidoreductase	SENSE
+yitY	1193259	0.28	similar to oxidoreductase	SENSE
+yitY	1193453	0.42	similar to oxidoreductase	SENSE
+carB	1202736	0.76	carbamoyl-phosphate transferase-arginine (subunit B)	SENSE
+yjzD	1204765	0.83	unknown	SENSE
+yjzD	1204887	0.16	unknown	SENSE
+med	1206681	0.05	lipoprotein, positive regulator of comK, stimulates KinD-dependent phosphorylation of Spo0A	SENSE
+med	1207028	0.42	lipoprotein, positive regulator of comK, stimulates KinD-dependent phosphorylation of Spo0A	SENSE
+med	1207141	0.54	lipoprotein, positive regulator of comK, stimulates KinD-dependent phosphorylation of Spo0A	SENSE
+fabHA	1208697	0.51	beta-ketoacyl-acyl carrier protein synthase III, principal condensing enzyme responsible for the initiation of fatty acid synthesis in non-stressed B. subtilis cells	SENSE
+fabHA	1208866	0.69	beta-ketoacyl-acyl carrier protein synthase III, principal condensing enzyme responsible for the initiation of fatty acid synthesis in non-stressed B. subtilis cells	SENSE
+fabF	1209174	-9	beta-ketoacyl-acyl carrier protein synthase II, involved in the control of membrane fluidity	SENSE
+fabF	1210153	0.78	beta-ketoacyl-acyl carrier protein synthase II, involved in the control of membrane fluidity	SENSE
+appA/1	1214026	25	oligopeptide ABC transporter, inactive pseudogene in strain 168	SENSE
+trpS	1219150	-45	tryptophanyl-tRNA synthetase	SENSE
+oppA	1221469	0.99	oligopeptide ABC transporter (binding protein)	SENSE
+yjbC	1226887	-51	general stress protein, required for survival of salt and paraquat stresses	SENSE
+yjbC	1226895	-43	general stress protein, required for survival of salt and paraquat stresses	SENSE
+yjbC	1226906	-32	general stress protein, required for survival of salt and paraquat stresses	SENSE
+yjbC	1226948	0.02	general stress protein, required for survival of salt and paraquat stresses	SENSE
+mecA	1229559	0.75	buffering protein for development, dampens transitions to spore, biofilm exopolysaccharide and competence expression , targets [[protein|ComK ]]and [[protein|ComS ]]to the [[protein|ClpC]]-[[protein|	SENSE
+yjbH	1233470	144	adaptor protein for ClpX-ClpP-catalyzed Spx degradation, confers resistance against nitrosating agents	ANTI
+yjbH	1233511	103	adaptor protein for ClpX-ClpP-catalyzed Spx degradation, confers resistance against nitrosating agents	ANTI
+yjbH	1233852	0.8	adaptor protein for ClpX-ClpP-catalyzed Spx degradation, confers resistance against nitrosating agents	SENSE
+yjbH	1234353	0.19	adaptor protein for ClpX-ClpP-catalyzed Spx degradation, confers resistance against nitrosating agents	SENSE
+yjbH	1234427	0.1	adaptor protein for ClpX-ClpP-catalyzed Spx degradation, confers resistance against nitrosating agents	SENSE
+cwlQ	1235144	19	cell wall hydrolase	SENSE
+cwlQ	1235150	13	cell wall hydrolase	SENSE
+yjbQ	1242303	103	similar to Na /H  antiporter	SENSE
+tenA	1242337	-112	thiaminase II	SENSE
+tenA	1242365	-84	thiaminase II	SENSE
+tenA	1242375	-74	thiaminase II	SENSE
+tenA	1242382	-67	thiaminase II	SENSE
+tenA	1242416	-33	thiaminase II	SENSE
+thiO	1244166	0.39	FAD-dependent glycine oxidase	SENSE
+thiO	1244313	0.52	FAD-dependent glycine oxidase	SENSE
+thiS	1245018	0.88	sulfur carrier protein, hydroxyethylthiazole phosphate biosynthesis	SENSE
+thiG	1245134	0.12	hydroxyethylthiazole phosphate biosynthesis	SENSE
+thiF	1245949	0.14	hydroxyethylthiazole phosphate biosynthesis	SENSE
+thiF	1246248	0.44	hydroxyethylthiazole phosphate biosynthesis	SENSE
+thiF	1246437	0.62	hydroxyethylthiazole phosphate biosynthesis	SENSE
+thiD	1246930	0.11	4-amino-5-hydroxymethyl-2-methylpyrimidine and 4-amino-5-hydroxymethyl-2-methylpyrimidine pyrophosphate kinase	SENSE
+thiD	1246939	0.13	4-amino-5-hydroxymethyl-2-methylpyrimidine and 4-amino-5-hydroxymethyl-2-methylpyrimidine pyrophosphate kinase	SENSE
+thiD	1247074	0.29	4-amino-5-hydroxymethyl-2-methylpyrimidine and 4-amino-5-hydroxymethyl-2-methylpyrimidine pyrophosphate kinase	SENSE
+thiD	1247146	0.38	4-amino-5-hydroxymethyl-2-methylpyrimidine and 4-amino-5-hydroxymethyl-2-methylpyrimidine pyrophosphate kinase	SENSE
+fabI	1247750	-38	enoyl-acyl carrier protein reductase	SENSE
+fabI	1247770	-18	enoyl-acyl carrier protein reductase	SENSE
+fabI	1247780	-8	enoyl-acyl carrier protein reductase	SENSE
+fabI	1248497	0.92	enoyl-acyl carrier protein reductase	SENSE
+yjcD	1253802	0.91	similar to ATP-dependent DNA helicase	SENSE
+yjcH	1257982	0.21	unknown	SENSE
+yjcK	1260797	14	similar to ribosomal-protein-alanine N-acetyltransferase	ANTI
+yjcL	1262770	-154	unknown	ANTI
+yjcL	1262784	-168	unknown	ANTI
+yjcL	1262834	-218	unknown	ANTI
+yjcL	1262874	-258	unknown	ANTI
+yjdI	1277923	0.5	similiar to Cys-tRNA(Pro) and Cys-tRNA(Cys) deacylase	ANTI
+yjeA	1281084	-44	peptidoglycan deacetylase C	SENSE
+yjlB	1298379	156	unknown	SENSE
+yjlB	1298526	303	unknown	SENSE
+ndh	1300306	54	NADH dehydrogenase (Menaquinone 7 & no proton)	SENSE
+yjoB	1314742	0.23	AAA family, ATPase activity , similar to cell-division protein FtsH	SENSE
+rapA	1316768	0.79	response regulator aspartate phosphatase, dephosphorylates Spo0F-P, control of the phosphorelay	SENSE
+rapA	1316890	0.9	response regulator aspartate phosphatase, dephosphorylates Spo0F-P, control of the phosphorelay	SENSE
+pit	1349803	0.68	low-affinity inorganic phosphate transporter, proton symporter	SENSE
+mhqA	1353031	-49	hydroquinone-specific dioxygenase, confers resistence to methyl-hydroxyquinone	SENSE
+ykcC	1357547	129	similar to lipoteichoic acid glycosyltransferase	ANTI
+ykcC	1357672	254	similar to lipoteichoic acid glycosyltransferase	ANTI
+htrA	1357753	183	membrane-anchored protein quality control protease, serine protease Do	SENSE
+htrA	1357759	177	membrane-anchored protein quality control protease, serine protease Do	SENSE
+ykfB	1367600	0.69	L-Ala-D/L-Glu epimerase	ANTI
+metE	1383505	0.92	methionine synthase	SENSE
+metE	1383739	0.82	methionine synthase	SENSE
+thiX	1388107	0.95	thiamine [SW|ECF transporter] (membrane-spanning T protein)	SENSE
+thiX	1388775	0.08	thiamine [SW|ECF transporter] (membrane-spanning T protein)	SENSE
+ykzO	1395799	0.05	unknown, putative pseudogene	ANTI
+ykzO	1395812	-2	unknown, putative pseudogene	ANTI
+ykoM	1398546	0.11	similar to transcriptional regulator (MarR family)	SENSE
+ykoY	1410642	-12	membrane protein, may be involved in manganese detoxification	SENSE
+ykoY	1410712	0.06	membrane protein, may be involved in manganese detoxification	SENSE
+ykoY	1410738	0.09	membrane protein, may be involved in manganese detoxification	SENSE
+ykoY	1410754	0.1	membrane protein, may be involved in manganese detoxification	SENSE
+sspD	1413809	0.96	small acid-soluble spore protein (minor alpha/beta-type SASP)	ANTI
+sspD	1413989	0.03	small acid-soluble spore protein (minor alpha/beta-type SASP)	ANTI
+ykrK	1414068	57	transcription repressor of [[gene|htpX ]]expression	ANTI
+ykrK	1414282	0.78	transcription repressor of [[gene|htpX ]]expression	ANTI
+htpX	1415062	0.07	stress-responsive membrane protease	SENSE
+htpX	1415670	0.75	stress-responsive membrane protease	SENSE
+mtnA	1422139	33	5-methylthioribose-1-phosphate isomerase	SENSE
+mtnA	1422930	0.29	5-methylthioribose-1-phosphate isomerase	SENSE
+mtnK	1424567	-127	5-methylthioribose kinase	SENSE
+mtnW	1427035	0	2,3-diketo-5-methylthiopentyl-1-phosphate enolase, Rubisco-like protein	SENSE
+mtnX	1428578	0.43	2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase	SENSE
+mtnB	1429191	0.4	methylthioribulose-1-phosphate dehydratase	SENSE
+mtnD	1429969	0.72	1,2,-dihydroxy-3-keto-5-methylthiopentene dioxygenase	SENSE
+motA	1435247	-2	H+-coupled [[protein|MotA]]-[[protein|MotB]] flagellar stator	SENSE
+clpE	1437820	-93	AAA unfoldase, ATPase subunit of the ClpE-ClpP protease (class III stress gene)	SENSE
+ykzR	1446345	0.11	unknown	ANTI
+pfeT	1451263	-108	Fe2+ efflux pump, P1B4-type ATPase, protects the cell against iron intoxication	ANTI
+pfeT	1451286	-85	Fe2+ efflux pump, P1B4-type ATPase, protects the cell against iron intoxication	SENSE
+pfeT	1451309	-62	Fe2+ efflux pump, P1B4-type ATPase, protects the cell against iron intoxication	SENSE
+papB	1453519	-172	Xaa-Pro amino-peptidase	ANTI
+glcT	1457044	86	transcriptional antiterminator, controls expression of the [[gene|ptsG]]-[[gene|ptsH]]-[[gene|ptsI]] operon	SENSE
+glcT	1457049	91	transcriptional antiterminator, controls expression of the [[gene|ptsG]]-[[gene|ptsH]]-[[gene|ptsI]] operon	SENSE
+ptsG	1457208	0.01	glucose permease, trigger enzyme	SENSE
+ptsG	1458686	0.71	glucose permease, trigger enzyme	SENSE
+ptsH	1459531	0.56	HPr, General component of the sugar [SW|phosphotransferase system] (PTS)	SENSE
+ptsH	1459546	0.61	HPr, General component of the sugar [SW|phosphotransferase system] (PTS)	SENSE
+ptsI	1459767	0.07	Enzyme I, general (non sugar-specific) component of the HPr)	SENSE
+ptsI	1460307	0.38	Enzyme I, general (non sugar-specific) component of the HPr)	SENSE
+ptsI	1461150	0.88	Enzyme I, general (non sugar-specific) component of the HPr)	SENSE
+mcpC	1463702	0.04	membrane-bound chemotaxis receptor for proline, methyl-accepting chemotaxis protein	SENSE
+cheV	1474503	0.99	modulation of CheA activity in response to attractants	SENSE
+fadG	1479546	0.24	fatty acid degradation	SENSE
+ykzU	1480943	0.02	unknown	SENSE
+ykuI	1482408	0.13	c-di-GMP binding protein	SENSE
+ykuI	1483347	0.9	c-di-GMP binding protein	SENSE
+ykuK	1485018	34	unknown	SENSE
+ykuL	1485927	31	unknown	SENSE
+yknW	1503592	0.01	modulates assembly of the YknX-YknY-YknZ ABC transporter for the export of the SdpC toxin	SENSE
+yknX	1504345	0.06	ABC-type antimicrobial peptide transporter (permease) for the export of the SdpC toxin	SENSE
+ykoA	1511993	0.75	unknown	SENSE
+ykoA	1512070	0.46	unknown	SENSE
+ykpA	1512428	0.03	ABC transporter (ATP-binding protein)	SENSE
+ykpA	1513837	0.9	ABC transporter (ATP-binding protein)	SENSE
+ykpA	1514007	12	ABC transporter (ATP-binding protein)	SENSE
+abh	1518033	0.61	transcriptional regulator of transition state genes	SENSE
+kinC	1518824	0.38	two-component sensor kinase, phosphorylates Spo0F and Spo0A, part of the phosphorelay, governs expression of genes involved in biofilm formation	SENSE
+ykqA	1519911	0.33	unknown	SENSE
+ktrC	1520652	0.18	low affinity potassium  transporter [[protein|KtrC]]-[[protein|KtrD]], peripheric membrane component	SENSE
+ktrC	1520852	0.48	low affinity potassium  transporter [[protein|KtrC]]-[[protein|KtrD]], peripheric membrane component	SENSE
+rnjA	1523523	0.76	RNase J1, important for the degradation of RNA fragments containing transcription terminators	SENSE
+rnjA	1524011	0.46	RNase J1, important for the degradation of RNA fragments containing transcription terminators	SENSE
+rnjA	1524094	0.42	RNase J1, important for the degradation of RNA fragments containing transcription terminators	SENSE
+rnjA	1524175	0.37	RNase J1, important for the degradation of RNA fragments containing transcription terminators	SENSE
+rnjA	1524219	0.34	RNase J1, important for the degradation of RNA fragments containing transcription terminators	SENSE
+rnjA	1524383	0.24	RNase J1, important for the degradation of RNA fragments containing transcription terminators	SENSE
+rnjA	1524511	0.16	RNase J1, important for the degradation of RNA fragments containing transcription terminators	SENSE
+rnjA	1524674	0.07	RNase J1, important for the degradation of RNA fragments containing transcription terminators	SENSE
+pdhD	1532451	0.41	dihydrolipoamide dehydrogenase E3 subunit of both pyruvate dehydrogenase and 2-oxoglutarate dehydrogenase complexes	SENSE
+pdhD	1532918	0.74	dihydrolipoamide dehydrogenase E3 subunit of both pyruvate dehydrogenase and 2-oxoglutarate dehydrogenase complexes	SENSE
+ylaF	1545972	0.19	unknown	SENSE
+ylaG	1546705	0.32	similar to GTP-binding elongation factor	SENSE
+ylaG	1546990	0.47	similar to GTP-binding elongation factor	SENSE
+ylaG	1547332	0.66	similar to GTP-binding elongation factor	SENSE
+ylaH	1548172	0.5	unknown	SENSE
+ylaH	1548183	0.53	unknown	SENSE
+ylaN	1552411	-1	unknown	SENSE
+ylaN	1552466	0.19	unknown	SENSE
+ylaN	1552657	0.88	unknown	SENSE
+ylaN	1552690	1	unknown	SENSE
+ylaN	1552720	27	unknown	SENSE
+ftsW	1552977	0.06	SEDS family peptidoglycan glycosyltransferase, cell-division protein	SENSE
+ftsW	1553900	0.83	SEDS family peptidoglycan glycosyltransferase, cell-division protein	SENSE
+pycA	1554517	0.1	pyruvate carboxylase	SENSE
+pycA	1554883	0.2	pyruvate carboxylase	SENSE
+pycA	1554898	0.21	pyruvate carboxylase	SENSE
+pycA	1555780	0.46	pyruvate carboxylase	SENSE
+pycA	1555907	0.5	pyruvate carboxylase	SENSE
+pycA	1556921	0.79	pyruvate carboxylase	SENSE
+pycA	1557168	0.87	pyruvate carboxylase	SENSE
+ctaB	1559271	-38	heme O synthase (major enzyme)	SENSE
+ctaB	1559879	0.62	heme O synthase (major enzyme)	SENSE
+ylbC	1566450	0.07	unknown	SENSE
+ylbI	1570433	0.73	pantetheine-phosphate adenylyltransferase	SENSE
+ylbN	1575338	0.14	may be required for accumulation of 23S rRNA	SENSE
+ylbN	1575460	0.38	may be required for accumulation of 23S rRNA	SENSE
+ylbN	1575629	0.71	may be required for accumulation of 23S rRNA	SENSE
+rpmF	1576001	18	ribosomal protein	SENSE
+bshC	1579767	0.86	cysteine-adding enzyme required for the synthesis of bacillithiol	SENSE
+mraZ	1580547	0.99	Putative DNA-binding protein	SENSE
+mraW	1580692	0.08	S-adenosyl-L-methionine-dependent methyltransferase	SENSE
+mraW	1580922	0.32	S-adenosyl-L-methionine-dependent methyltransferase	SENSE
+mraW	1580930	0.33	S-adenosyl-L-methionine-dependent methyltransferase	SENSE
+pbpB	1582009	0.03	class B penicillin-binding protein  2B, Pbp2B, required for the assembly of the [SW|cell division ]complex and septal [SW|cell wall synthesis]	SENSE
+mraY	1588221	0.3	phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate), catalyzes the first commited membrane-bound step of bacterial peptidoglycan synthesis leading to the formation of lipid I	SENSE
+mraY	1588712	0.81	phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate), catalyzes the first commited membrane-bound step of bacterial peptidoglycan synthesis leading to the formation of lipid I	SENSE
+spoVE	1590438	0.11	SEDS family peptidoglycan glycosyltransferase, required for spore cortex peptidoglycan synthesis	SENSE
+spoVE	1590822	0.46	SEDS family peptidoglycan glycosyltransferase, required for spore cortex peptidoglycan synthesis	SENSE
+murG	1592067	0.48	UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase, conversion of lipid I to lipid II	SENSE
+murB	1593135	0.52	UDP-N-acetylenolpyruvoylglucosamine reductase	SENSE
+ylxX	1595813	0.86	unknown	SENSE
+ftsA	1597302	0.63	cell division protein, membrane anchor for [[protein|FtsZ]]	SENSE
+ftsA	1597797	1	cell division protein, membrane anchor for [[protein|FtsZ]]	SENSE
+ftsZ	1598943	0.97	cell-division initiation protein (septum formation)	SENSE
+ftsZ	1598982	2	cell-division initiation protein (septum formation)	SENSE
+ftsZ	1599006	26	cell-division initiation protein (septum formation)	SENSE
+sepF	1610989	0.28	part of the [SW|divisome], recruits [[protein|FtsZ ]]to the membrane	SENSE
+divIVA	1612518	-3	curvature sensitive membrane binding protein that recruits other proteins to the poles and the division septum, [SW|cell division] initiation protein (septum placement), part of the Min system (with	SENSE
+divIVA	1613101	86	curvature sensitive membrane binding protein that recruits other proteins to the poles and the division septum, [SW|cell division] initiation protein (septum placement), part of the Min system (with	SENSE
+ileS	1613274	-83	isoleucyl-tRNA synthetase	SENSE
+ileS	1613311	-46	isoleucyl-tRNA synthetase	SENSE
+ileS	1613811	0.16	isoleucyl-tRNA synthetase	SENSE
+ileS	1615392	0.74	isoleucyl-tRNA synthetase	SENSE
+ileS	1615773	0.87	isoleucyl-tRNA synthetase	SENSE
+lspA	1617004	0.56	signal peptidase II	SENSE
+ylyB	1617648	0.48	similar to pseudouridylate synthase	SENSE
+ylyB	1617749	0.59	similar to pseudouridylate synthase	SENSE
+pyrR	1618218	-86	transcriptional antiterminator of the pyr operon	SENSE
+pyrR	1618249	-55	transcriptional antiterminator of the pyr operon	SENSE
+pyrR	1618931	82	transcriptional antiterminator of the pyr operon	SENSE
+pyrP	1618940	-83	uracil permease	SENSE
+pyrB	1620409	-67	aspartate carbamoyltransferase	SENSE
+pyrF	1629101	0.67	orotidine 5-phosphate decarboxylase	SENSE
+cysH	1630505	0.18	phosphoadenosine phosphosulfate sulfotransferase	SENSE
+cysP	1631123	0.03	sulfate transport in via proton symport	SENSE
+cysP	1631554	0.43	sulfate transport in via proton symport	SENSE
+cysP	1631863	0.72	sulfate transport in via proton symport	SENSE
+cysP	1632156	1	sulfate transport in via proton symport	SENSE
+ylnD	1634072	0.01	probable uroporphyrin-III C-methyltransferase	SENSE
+ylnD	1634284	0.29	probable uroporphyrin-III C-methyltransferase	SENSE
+ylnE	1635601	0.98	probable siroheme ferrochelatase	SENSE
+ylnF	1635890	0.59	probably precorrin-2 dehydrogenase	SENSE
+yloC	1640896	0.2	unknown	SENSE
+yloC	1641192	0.54	unknown	SENSE
+yloC	1641360	0.73	unknown	SENSE
+remA	1641637	-35	transcriptional regulator of the extracellular matrix genes, acts in parallel to SinR, AbrB, and DegU	SENSE
+remA	1641643	-29	transcriptional regulator of the extracellular matrix genes, acts in parallel to SinR, AbrB, and DegU	SENSE
+gmk	1641974	0.04	guanylate kinase (GMP:dATP, dGMP:ATP)	SENSE
+gmk	1642178	0.37	guanylate kinase (GMP:dATP, dGMP:ATP)	SENSE
+gmk	1642317	0.6	guanylate kinase (GMP:dATP, dGMP:ATP)	SENSE
+gmk	1642433	0.79	guanylate kinase (GMP:dATP, dGMP:ATP)	SENSE
+yloH	1642779	9	omega subunit of [SW|RNA polymerase]	SENSE
+yloI	1643319	0.38	Coenzyme A biosynthesis bifunctional protein CoaBC; putative phosphopantothenoylcysteine synthetase/decarboxylase	SENSE
+yloM	1649207	0.95	similar to RNA-binding Sun protein, similar to S-adenosyl-L-methionine-dependent 16S rRNA m5C967 methyltransferase	SENSE
+prkC	1651227	0.04	protein kinase C, induces [[category|Germination]] of spores in response to DAP-type, and not to Lys-type cell wall muropeptides, stimulates [[protein|WalR]] activity	SENSE
+yloV	1658084	0.99	unknown	SENSE
+fapR	1662064	0.17	repressor of fatty acid synthetic genes	SENSE
+plsX	1662541	-6	acyl-acyl carrier protein (ACP):phosphate acyltransferase, catalyzes the synthesis of the intermediate fatty acyl-phosphate (acyl-PO4)	SENSE
+plsX	1662880	0.33	acyl-acyl carrier protein (ACP):phosphate acyltransferase, catalyzes the synthesis of the intermediate fatty acyl-phosphate (acyl-PO4)	SENSE
+fabD	1663670	0.11	malonyl CoA-acyl carrier protein transacylase	SENSE
+rnc	1665649	-61	RNase III; required for the degradation of sense/antisense transcripts in Gram positive, low GC bacteria	SENSE
+ylxM	1672065	0.72	putative signal recognition particle (SRP) component	SENSE
+rplS	1676315	0.8	ribosomal protein	SENSE
+rplS	1676392	3	ribosomal protein	SENSE
+rplS	1676419	30	ribosomal protein	SENSE
+topA	1685199	0.74	DNA topoisomerase I	SENSE
+clpY	1690018	0.96	two-component ATP-dependent protease, ATPase subunit	SENSE
+codY	1690119	0	regulation of a large regulon (more than 100 genes and operons) in response to branched-chain amino acid limitation	SENSE
+fliG	1694192	0.07	flagellar basal-body protein, membrane anchor of the basal body, flagellar motor switch protein, physically transduces force from [[protein|MotA]] to the rotation of [[protein|FliF]]	SENSE
+fliH	1695214	-40	flagellar assembly protein, negative regulator of the FliI ATPase	SENSE
+fliI	1696001	0.09	flagellar-specific ATPase for the export of flagellar proteins	SENSE
+fliI	1696636	0.57	flagellar-specific ATPase for the export of flagellar proteins	SENSE
+fliI	1696783	0.69	flagellar-specific ATPase for the export of flagellar proteins	SENSE
+ylxF	1697755	0.16	unknown	SENSE
+ylxF	1698089	0.69	unknown	SENSE
+fliK	1698567	0.22	flagellar hook-length control, substrate specificity switch regulator	SENSE
+fliK	1699626	1.05	flagellar hook-length control, substrate specificity switch regulator	SENSE
+fliK	1699735	1.13	flagellar hook-length control, substrate specificity switch regulator	SENSE
+flgE	1700296	0.14	flagellar hook protein	SENSE
+fliL	1701307	0.19	flagellar protein required for flagellar formation , membrane protein	SENSE
+fliM	1702008	0.33	flagellar motor switch protein, part of the basal body C-ring	SENSE
+cheY	1704202	6	two-component response regulator, modulation of flagellar switch bias	SENSE
+fliZ	1704249	0.06	part of the flagellar type III export apparatus (flagellar Type III secretion system)	SENSE
+fliZ	1704266	0.08	part of the flagellar type III export apparatus (flagellar Type III secretion system)	SENSE
+fliZ	1704469	0.39	part of the flagellar type III export apparatus (flagellar Type III secretion system)	SENSE
+fliZ	1704605	0.6	part of the flagellar type III export apparatus (flagellar Type III secretion system)	SENSE
+fliP	1705251	0.59	part of the flagellar type III export apparatus  (flagellar Type III secretion system)	SENSE
+fliR	1705956	0.18	part of the flagellar type III export apparatus  (flagellar Type III secretion system)	SENSE
+fliR	1706331	0.66	part of the flagellar type III export apparatus  (flagellar Type III secretion system)	SENSE
+fliR	1706582	0.98	part of the flagellar type III export apparatus  (flagellar Type III secretion system)	SENSE
+flhA	1707922	0.1	part of the flagellar type III export apparatus  (flagellar Type III secretion system)	SENSE
+flhA	1708973	0.62	part of the flagellar type III export apparatus  (flagellar Type III secretion system)	SENSE
+flhA	1709556	0.91	part of the flagellar type III export apparatus  (flagellar Type III secretion system)	SENSE
+flhG	1711235	0.44	GTPase activating protein, activates FlhF, activates assembly of the flagellar C ring, control of flagellar basal body position	SENSE
+cheB	1711742	0.01	MCP-glutamate methylesterase / two-component response regulator-like	SENSE
+cheA	1713128	0.16	two-component sensor kinase, chemotactic signal modulator	SENSE
+cheA	1713746	0.46	two-component sensor kinase, chemotactic signal modulator	SENSE
+cheA	1714691	0.93	two-component sensor kinase, chemotactic signal modulator	SENSE
+cheW	1715215	0.77	modulation of [[protein|CheA]] activity in response to attractants, scaffold protein	SENSE
+cheC	1715588	0.39	control of chemotaxis by interacting with CheD, CheY-P phosphatase, inhibition of CheR-mediated methylation of MCPs	SENSE
+cheD	1716358	0.78	chemoreceptor deaminase, required for methylation of methyl-accepting chemotaxis proteins by [[protein|CheR]],  enhances phosphatase activity of [[protein|CheC]], required for full [[protein|McpC]] a	SENSE
+rpsB	1717876	-57	ribosomal protein	SENSE
+rpsB	1718197	0.36	ribosomal protein	SENSE
+tsf	1719274	0.57	elongation factor Ts	SENSE
+tsf	1719680	24	elongation factor Ts	SENSE
+pyrH	1720189	0.54	uridylate kinase	SENSE
+pyrH	1720196	0.55	uridylate kinase	SENSE
+pyrH	1720345	0.75	uridylate kinase	SENSE
+pyrH	1720379	0.8	uridylate kinase	SENSE
+frr	1720700	0.31	ribosome recycling factor	SENSE
+frr	1720982	0.82	ribosome recycling factor	SENSE
+uppS	1721802	0.75	undecaprenyl pyrophosphate synthetase, provides the precursor for the carrier lipid, undecaprenyl phosphate (C55-P), which is required for cell wall synthesis	SENSE
+cdsA	1722270	0.33	phosphatidate cytidylyltransferase	SENSE
+cdsA	1722344	0.43	phosphatidate cytidylyltransferase	SENSE
+cdsA	1722772	0.96	phosphatidate cytidylyltransferase	SENSE
+cdsA	1722792	0.98	phosphatidate cytidylyltransferase	SENSE
+rasP	1724029	0	intramembrane protease, cleaves [[protein|FtsL]], [[protein|RsiV ]]and [[protein|RsiW ]] as well as signal peptides after release of the secreted proteins	SENSE
+rasP	1724125	0.08	intramembrane protease, cleaves [[protein|FtsL]], [[protein|RsiV ]]and [[protein|RsiW ]] as well as signal peptides after release of the secreted proteins	SENSE
+rasP	1724587	0.44	intramembrane protease, cleaves [[protein|FtsL]], [[protein|RsiV ]]and [[protein|RsiW ]] as well as signal peptides after release of the secreted proteins	SENSE
+rasP	1724622	0.47	intramembrane protease, cleaves [[protein|FtsL]], [[protein|RsiV ]]and [[protein|RsiW ]] as well as signal peptides after release of the secreted proteins	SENSE
+rasP	1724849	0.65	intramembrane protease, cleaves [[protein|FtsL]], [[protein|RsiV ]]and [[protein|RsiW ]] as well as signal peptides after release of the secreted proteins	SENSE
+proS	1725413	0.05	prolyl-tRNA synthetase	SENSE
+proS	1725689	0.21	prolyl-tRNA synthetase	SENSE
+proS	1726361	0.61	prolyl-tRNA synthetase	SENSE
+proS	1726661	0.79	prolyl-tRNA synthetase	SENSE
+proS	1726805	0.87	prolyl-tRNA synthetase	SENSE
+polC	1731482	36	DNA polymerase III, leading strand polymerase (alpha subunit), part of the [SW|replisome]	SENSE
+ylxS	1731629	-147	similar to ribosome maturation protein	SENSE
+ylxS	1731636	-140	similar to ribosome maturation protein	SENSE
+ylxR	1733563	0.56	unknown	SENSE
+infB	1735208	0.56	translation initiation factor IF-2	SENSE
+ylxP	1736339	0.66	general stress protein, required for protection against paraquat stress	SENSE
+rpsO	1739228	18	ribosomal protein	SENSE
+pnpA	1739672	0.14	polynucleotide phosphorylase, RNase, involved in double-strand break repair	SENSE
+pnpA	1739696	0.15	polynucleotide phosphorylase, RNase, involved in double-strand break repair	SENSE
+pnpA	1741246	0.88	polynucleotide phosphorylase, RNase, involved in double-strand break repair	SENSE
+mlpA	1743076	0.37	mitochondrial processing peptidase-like, involved in regulation of protease gene expression	SENSE
+asd	1747075	44	aspartate-semialdehyde dehydrogenase	SENSE
+dapG	1747508	0.32	aspartokinase I (alpha and beta subunits)	SENSE
+rnjB	1749395	-23	RNase J2	SENSE
+rnjB	1749865	0.29	RNase J2	SENSE
+rnjB	1750102	0.44	RNase J2	SENSE
+rnjB	1750489	0.69	RNase J2	SENSE
+rnjB	1750962	1	RNase J2	ANTI
+rnjB	1751082	1.08	RNase J2	SENSE
+ymfC	1754900	0.16	similar to transcriptional regulator (GntR family)	SENSE
+ymfC	1754989	0.28	similar to transcriptional regulator (GntR family)	SENSE
+ymfK/1	1761191	0.76	part of the ymfK pseudogene	SENSE
+rodZ	1762053	0.54	required for proper septum positioning during vegetative growth (cell shape determination)	SENSE
+rodZ	1762349	1	required for proper septum positioning during vegetative growth (cell shape determination)	SENSE
+rodZ	1762501	1.24	required for proper septum positioning during vegetative growth (cell shape determination)	SENSE
+cinA	1764151	0.74	plays a nucleoid-associated general role in cells entering stationary phase	SENSE
+rny	1767349	0.03	RNase Y, 5 end sensitive endoribonuclease, involved in the degradation/ processing of mRNA, part of the putative [SW|RNA degradosome]	SENSE
+rny	1768860	0.99	RNase Y, 5 end sensitive endoribonuclease, involved in the degradation/ processing of mRNA, part of the putative [SW|RNA degradosome]	SENSE
+rny	1768882	10	RNase Y, 5 end sensitive endoribonuclease, involved in the degradation/ processing of mRNA, part of the putative [SW|RNA degradosome]	SENSE
+tdh	1771129	0.64	L-threonine dehydrogenase	SENSE
+ymcB	1773938	0.72	tRNA methylthiotransferase	SENSE
+mutS	1775854	0.04	DNA mismatch repair (mismatch recognition protein)	SENSE
+mutL	1779856	0.81	DNA mismatch repair	ANTI
+pksC	1783830	0.08	bacillaene synthase trans-acting acyltransferase	SENSE
+pksD	1784895	-238	involved in polyketide synthesis	SENSE
+miaA	1867040	0.69	tRNA isopentenylpyrophosphate transferase	SENSE
+glnA	1879040	0.46	trigger enzyme	SENSE
+ynaE	1884333	0.15	unknown	SENSE
+xynP	1887023	-329	beta-xyloside permease	SENSE
+xynP	1887028	-324	beta-xyloside permease	SENSE
+yncC	1896301	-123	similar to metabolite transport protein	SENSE
+yndH	1912513	0.28	unknown	SENSE
+fosB	1917192	95	bacillithiol-S-transferase; confers resistence against antimicrobial compounds from B. amyloliquefaciens	SENSE
+fosB	1917274	177	bacillithiol-S-transferase; confers resistence against antimicrobial compounds from B. amyloliquefaciens	SENSE
+lexA	1917521	118	transcriptional repressor of the SOS regulon	ANTI
+lexA	1917531	108	transcriptional repressor of the SOS regulon	ANTI
+lexA	1917539	100	transcriptional repressor of the SOS regulon	ANTI
+lexA	1917551	88	transcriptional repressor of the SOS regulon	ANTI
+lexA	1917558	81	transcriptional repressor of the SOS regulon	ANTI
+lexA	1918206	0.08	transcriptional repressor of the SOS regulon	SENSE
+yneB	1918917	0.27	similar to resolvase	SENSE
+tkt	1921085	0.61	transketolase	SENSE
+tkt	1921170	0.65	transketolase	SENSE
+tkt	1921183	0.66	transketolase	SENSE
+tkt	1921334	0.74	transketolase	SENSE
+tkt	1921721	0.93	transketolase	SENSE
+plsY	1932035	0.8	acylphosphate:glycerol-phosphate acyltransferase	SENSE
+ynfC	1938022	44	unknown	SENSE
+ynfC	1938046	20	unknown	SENSE
+yngC	1948130	0.78	similar to alkaline phosphatase	SENSE
+ppsB	1982774	0.97	plipastatin synthetase	SENSE
+ppsA	1992434	0.72	plipastatin synthetase	SENSE
+ppsA	1997371	0.08	plipastatin synthetase	SENSE
+iseA	2002867	0.42	inhibits in vitro activity of cell wall endopeptidases [[protein|LytE]] and [[protein|LytF]], inhibits cell separation	SENSE
+gltB	2008742	0.89	small subunit of glutamate synthase	SENSE
+gltB	2009739	0.21	small subunit of glutamate synthase	SENSE
+gltB	2009882	0.12	small subunit of glutamate synthase	SENSE
+gltB	2009917	0.09	small subunit of glutamate synthase	SENSE
+gltA	2010829	0.83	large subunit of glutamate synthase	SENSE
+gltA	2011042	0.79	large subunit of glutamate synthase	SENSE
+gltA	2012794	0.4	large subunit of glutamate synthase	SENSE
+proJ	2016571	0.25	glutamate 5-kinase	SENSE
+yoaB	2021426	0.84	2-oxoglutarate permease (proton symporter)	SENSE
+yoaB	2021499	0.78	2-oxoglutarate permease (proton symporter)	SENSE
+yoaB	2021559	0.73	2-oxoglutarate permease (proton symporter)	SENSE
+yoaC	2023474	0.38	similar to xylulokinase	SENSE
+yoaF	2027527	0.06	unknown	SENSE
+yoaF	2027839	37	unknown	SENSE
+yoaG	2028410	0.42	unknown	SENSE
+yoaG	2028507	0.18	unknown	SENSE
+yoaG	2028520	0.15	unknown	SENSE
+yoaM	2036861	139	unknown	ANTI
+yoaM	2036876	154	unknown	ANTI
+yoaM	2036881	159	unknown	ANTI
+pps	2054008	-79	similar to phosphoenolpyruvate synthase	ANTI
+pps	2054035	-106	similar to phosphoenolpyruvate synthase	ANTI
+pps	2054051	-122	similar to phosphoenolpyruvate synthase	ANTI
+pps	2054065	-136	similar to phosphoenolpyruvate synthase	ANTI
+pps	2054070	-141	similar to phosphoenolpyruvate synthase	ANTI
+yozI	2057576	1	unknown	ANTI
+yozM	2065400	23	unknown	ANTI
+yobI	2066202	0.78	unknown	SENSE
+yoyA	2069220	42	unknown, putative pseudogene	SENSE
+yobJ	2070551	0.64	unknown	SENSE
+yobJ	2070620	0.55	unknown	SENSE
+yobJ	2070638	0.53	unknown	SENSE
+yobJ	2070801	0.34	unknown	SENSE
+yobJ	2071071	0.02	unknown	SENSE
+yozB	2086087	0.97	unknown	SENSE
+yozB	2086361	0.46	unknown	SENSE
+recQ	2094746	0.59	ATP-dependent DNA helicase, acts together with [[protein|RecJ]]	SENSE
+recQ	2095910	-125	ATP-dependent DNA helicase, acts together with [[protein|RecJ]]	SENSE
+recQ	2095939	-154	ATP-dependent DNA helicase, acts together with [[protein|RecJ]]	SENSE
+recQ	2096034	-249	ATP-dependent DNA helicase, acts together with [[protein|RecJ]]	SENSE
+recQ	2096052	-267	ATP-dependent DNA helicase, acts together with [[protein|RecJ]]	SENSE
+recQ	2096062	-277	ATP-dependent DNA helicase, acts together with [[protein|RecJ]]	SENSE
+azoR1	2096072	278	azoreductase, involved in quinone detoxification	SENSE
+azoR1	2096080	270	azoreductase, involved in quinone detoxification	SENSE
+azoR1	2096090	260	azoreductase, involved in quinone detoxification	SENSE
+yozO	2099408	38	unknown	SENSE
+yozO	2099435	11	unknown	SENSE
+yozO	2099911	-121	unknown	SENSE
+yocR	2105184	0.81	similar to sodium-dependent transporter	SENSE
+yocR	2105190	0.81	similar to sodium-dependent transporter	SENSE
+yocS	2107394	0.94	putative sodium-dependent transporter	SENSE
+odhA	2109747	0.66	2-oxoglutarate dehydrogenase (E1 subunit)	SENSE
+odhA	2110170	0.51	2-oxoglutarate dehydrogenase (E1 subunit)	SENSE
+odhA	2110498	0.39	2-oxoglutarate dehydrogenase (E1 subunit)	SENSE
+odhA	2111520	0.03	2-oxoglutarate dehydrogenase (E1 subunit)	SENSE
+odhA	2111625	-17	2-oxoglutarate dehydrogenase (E1 subunit)	SENSE
+odhA	2111684	-76	2-oxoglutarate dehydrogenase (E1 subunit)	SENSE
+yodF	2130576	0.13	similar to amino acid permease	SENSE
+yodF	2131536	0.78	similar to amino acid permease	SENSE
+ctpA	2132714	0.42	carboxy-terminal processing protease	SENSE
+ctpA	2133226	0.05	carboxy-terminal processing protease	SENSE
+yorE	2186875	-64	unknown	SENSE
+yorD	2186913	72	unknown	SENSE
+pghZ	2190763	0.03	phage-derived gamma polyglutamic acid hydrolase	ANTI
+pghZ	2190809	-24	phage-derived gamma polyglutamic acid hydrolase	ANTI
+yoqY	2190922	0.91	unknown	ANTI
+yoqY	2191133	0.37	unknown	ANTI
+yoqY	2191144	0.34	unknown	ANTI
+yoqO	2195554	7	unknown	SENSE
+yopV	2203051	-52	unknown	SENSE
+yopL	2208784	71	unknown	SENSE
+yopJ	2210266	65	unknown	SENSE
+yopJ	2210471	0.67	unknown	SENSE
+yopD	2213421	0.15	unknown	SENSE
+yopC	2213832	0.78	unknown	SENSE
+yopC	2213958	0.68	unknown	SENSE
+yonT	2220040	-80	toxin	SENSE
+yonS	2220364	0.96	unknown	SENSE
+yonP	2221874	-466	unknown	SENSE
+yonP	2221893	-447	unknown	SENSE
+yonP	2221906	-434	unknown	SENSE
+yonP	2222015	-325	unknown	SENSE
+yonP	2222275	-65	unknown	SENSE
+yonP	2222281	-59	unknown	SENSE
+yonE	2232740	0.04	unknown	SENSE
+yonB	2236310	0.04	unknown	SENSE
+yomJ	2248863	0.65	similar to phage-related immunity protein	SENSE
+yolJ	2266871	0.05	sublancin S-glycosyltransferase	SENSE
+sunT	2268134	0.63	[[protein|SunA|sublancin]] 168 lantibiotic [SW|ABC transporter]	SENSE
+sunT	2268158	0.62	[[protein|SunA|sublancin]] 168 lantibiotic [SW|ABC transporter]	SENSE
+sunI	2269993	0.99	bacteriocin producer immunity protein	SENSE
+sunI	2270096	0.66	bacteriocin producer immunity protein	SENSE
+sunI	2270251	0.17	bacteriocin producer immunity protein	SENSE
+sunI	2270267	0.12	bacteriocin producer immunity protein	SENSE
+sunI	2270272	0.1	bacteriocin producer immunity protein	SENSE
+sunI	2270298	0.02	bacteriocin producer immunity protein	SENSE
+sunI	2270313	-8	bacteriocin producer immunity protein	SENSE
+yolB	2272630	0.73	similar to phage-related protein	SENSE
+yolA	2273161	0.43	unknown	SENSE
+yolA	2273666	-303	unknown	ANTI
+yokL	2273746	243	similar to phage-related protein	ANTI
+yokL	2273866	123	similar to phage-related protein	SENSE
+yokI	2276730	0.4	putative toxin	SENSE
+yoyK/1	2278092	-16	part of the yoyK pseudogene	ANTI
+yokD	2282542	57	similar to aminoglycoside N3-acetyltransferase	SENSE
+msrA	2288062	0	peptide methionine sulfoxide reductase	SENSE
+msrA	2288127	-65	peptide methionine sulfoxide reductase	ANTI
+ypnP	2288646	23	putative damage inducible, Na+ driven multidrug efflux pump	ANTI
+ypnP	2289119	0.66	putative damage inducible, Na+ driven multidrug efflux pump	ANTI
+ypmR	2291276	0.46	unknown	SENSE
+sco	2292140	0.25	accessory lipoprotein required for assembly of the Cu(A) center of [[protein|CtaC|cytochrome c oxidase caa3]]	SENSE
+ypmP	2292380	52	unknown	SENSE
+ypmP	2292524	0.64	unknown	SENSE
+ilvA	2292774	1	threonine dehydratase	SENSE
+ilvA	2293222	0.64	threonine dehydratase	SENSE
+ilvA	2293795	0.19	threonine dehydratase	SENSE
+yplP	2294388	0.1	transcriptional activator (for SigL-dependent promoter)	SENSE
+yplP	2294600	0.32	transcriptional activator (for SigL-dependent promoter)	SENSE
+yplP	2294839	0.56	transcriptional activator (for SigL-dependent promoter)	SENSE
+yplQ	2295714	0.64	similar to hemolysin III	SENSE
+thyB	2297380	0.66	thymidylate synthase B	SENSE
+ypjP	2298904	0.4	unknown	SENSE
+ypjP	2299103	0.07	unknown	SENSE
+ilvD	2301488	0.57	dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate, 2,3-dihydroxy-3-methylpentanoate)	SENSE
+ugtP	2306479	-35	UDP-glucose diacylglycerol glucosyltransferase, growth-rate dependent inhibitor of [[category|Cell division]]	SENSE
+ugtP	2306694	0.16	UDP-glucose diacylglycerol glucosyltransferase, growth-rate dependent inhibitor of [[category|Cell division]]	SENSE
+ugtP	2307672	10	UDP-glucose diacylglycerol glucosyltransferase, growth-rate dependent inhibitor of [[category|Cell division]]	SENSE
+ugtP	2307677	15	UDP-glucose diacylglycerol glucosyltransferase, growth-rate dependent inhibitor of [[category|Cell division]]	SENSE
+ugtP	2307749	87	UDP-glucose diacylglycerol glucosyltransferase, growth-rate dependent inhibitor of [[category|Cell division]]	ANTI
+cspD	2307841	-64	cold shock protein	SENSE
+cspD	2307848	-57	cold shock protein	SENSE
+cspD	2307875	-30	cold shock protein	SENSE
+degR	2308133	24	regulation of degradative enzyme production	ANTI
+degR	2308144	13	regulation of degradative enzyme production	ANTI
+degR	2308227	0.62	regulation of degradative enzyme production	SENSE
+ypzA	2308498	0.01	unknown	SENSE
+ypcP	2311089	0.9	similar to DNA polymerase I	SENSE
+ypcP	2311503	0.43	similar to DNA polymerase I	SENSE
+ypcP	2311821	0.07	similar to DNA polymerase I	SENSE
+bpsB	2316346	100	methyltransferase, involved in polyketide synthesis	SENSE
+ypvA	2328347	0.55	similar to ATP-dependent helicase	SENSE
+ypsC	2331275	-43	similar to SAM-dependent 23S rRNA methyltransferase	SENSE
+gpsB	2331671	108	required for removal of PBP1 from the cell pole after completion of cell pole maturation	SENSE
+cotD	2333160	-149	spore coat protein (inner)	SENSE
+yppC	2340013	0.78	unknown	ANTI
+ypoC	2344574	0.37	unknown	SENSE
+asnS	2346494	0.79	asparagyl-tRNA synthetase	SENSE
+asnS	2347382	0.1	asparagyl-tRNA synthetase	SENSE
+aspB	2348269	0.49	aspartate transaminase	SENSE
+dinG	2349750	0.97	ATP-dependent DNA helicase	SENSE
+dinG	2350698	0.63	ATP-dependent DNA helicase	SENSE
+dinG	2351573	0.32	ATP-dependent DNA helicase	SENSE
+dinG	2351971	0.18	ATP-dependent DNA helicase	SENSE
+panB	2354722	-50	3-methyl-2-oxobutanoate hydroxymethyltransferase	SENSE
+birA	2354820	98	trigger enzyme	SENSE
+birA	2354888	30	trigger enzyme	SENSE
+birA	2355139	0.78	trigger enzyme	SENSE
+birA	2355629	0.27	trigger enzyme	SENSE
+cca	2356997	0.06	tRNA nucleotidyltransferase, maturation of the single-copy tRNACys, which lacks an encoded CCA 3 end	SENSE
+bshA	2358026	0.16	L-malic acid glycosyltransferase, involved in bacillithiol synthesis	SENSE
+ypiB	2365964	0.58	unknown	SENSE
+ypiB	2366118	0.29	unknown	SENSE
+aroE	2368245	0.77	3-phosphoshikimate 1-carboxyvinyltransferase	SENSE
+tyrA	2369855	0.46	prephenate dehydrogenase	SENSE
+hisC	2370572	0.86	histidinol-phosphate aminotransferase / tyrosine and phenylalanine aminotransferase	SENSE
+hisC	2370610	0.82	histidinol-phosphate aminotransferase / tyrosine and phenylalanine aminotransferase	SENSE
+hisC	2371113	0.36	histidinol-phosphate aminotransferase / tyrosine and phenylalanine aminotransferase	SENSE
+hisC	2371120	0.35	histidinol-phosphate aminotransferase / tyrosine and phenylalanine aminotransferase	SENSE
+hisC	2371128	0.34	histidinol-phosphate aminotransferase / tyrosine and phenylalanine aminotransferase	SENSE
+hisC	2371187	0.29	histidinol-phosphate aminotransferase / tyrosine and phenylalanine aminotransferase	SENSE
+trpA	2371632	0.85	tryptophan synthase (alpha subunit)	SENSE
+trpE	2377040	0.24	anthranilate synthase (subunit I)	SENSE
+trpE	2377195	0.14	anthranilate synthase (subunit I)	SENSE
+trpE	2377476	-60	anthranilate synthase (subunit I)	SENSE
+aroF	2379572	0.63	chorismate synthase	SENSE
+ndk	2381305	49	nucleoside diphosphate kinase	SENSE
+ndk	2381350	4	nucleoside diphosphate kinase	SENSE
+hepT	2382021	0.9	heptaprenyl diphosphate synthase component II	SENSE
+hepT	2382159	0.77	heptaprenyl diphosphate synthase component II	SENSE
+hepT	2382703	0.25	heptaprenyl diphosphate synthase component II	SENSE
+hepT	2382725	0.23	heptaprenyl diphosphate synthase component II	SENSE
+hepT	2382883	0.08	heptaprenyl diphosphate synthase component II	SENSE
+menH	2383103	0.72	menaquinone biosynthesis methyltransferase	SENSE
+menH	2383109	0.71	menaquinone biosynthesis methyltransferase	SENSE
+menH	2383268	0.49	menaquinone biosynthesis methyltransferase	SENSE
+hepS	2383711	0.88	heptaprenyl diphosphate synthase component I	SENSE
+hepS	2384264	0.14	heptaprenyl diphosphate synthase component I	SENSE
+hepS	2384293	0.1	heptaprenyl diphosphate synthase component I	SENSE
+yphE	2388671	0.71	unknown	SENSE
+yphE	2388974	-161	unknown	SENSE
+gpsA	2389677	0.49	glycerol-3-phosphate dehydrogenase (NAD)	SENSE
+fni	2394485	0.26	isopentenyl diphosphate isomerase, last (8th) step in the MEP pathway of isoprenoid biosynthesis	SENSE
+fni	2394525	0.2	isopentenyl diphosphate isomerase, last (8th) step in the MEP pathway of isoprenoid biosynthesis	SENSE
+ypfD	2395050	0.66	similar to ribosomal protein S1	SENSE
+ypfD	2395247	0.49	similar to ribosomal protein S1	SENSE
+ypfD	2395842	-30	similar to ribosomal protein S1	SENSE
+cmk	2395938	107	cytidylate kinase (CMP, dCMP)	SENSE
+motI	2397069	0.93	c-di-GMP receptor protein, inhibits flagellar rotation at high c-di-GMP concentrations	ANTI
+prsW	2400490	0.57	protease, cleaves [[protein|RsiW]] in the presence of antimicrobial peptides	SENSE
+ypdA	2400959	25	similar to thioredoxin reductase	SENSE
+gudB	2403071	0.22	glutamate dehydrogenase, trigger enzyme	SENSE
+ypbD	2406480	0.67	unknown	SENSE
+fer	2409980	3	ferredoxin	SENSE
+ypzE	2410700	0.98	unknown	SENSE
+serA	2411218	0.08	phosphoglycerate dehydrogenase	SENSE
+serA	2411575	0.31	phosphoglycerate dehydrogenase	SENSE
+serA	2411765	0.43	phosphoglycerate dehydrogenase	SENSE
+serA	2412650	0.99	phosphoglycerate dehydrogenase	SENSE
+rsiX	2413714	0.88	anti-SigX	SENSE
+rsiX	2413995	0.63	anti-SigX	SENSE
+sigX	2414813	0.68	[SW|RNA polymerase] ECF-type [SW|sigma factor] SigX, required for resistance against cationic antimicrobial peptides	SENSE
+sigX	2414879	0.57	[SW|RNA polymerase] ECF-type [SW|sigma factor] SigX, required for resistance against cationic antimicrobial peptides	SENSE
+resE	2416495	0.39	two-component sensor kinase, regulation of aerobic and anaerobic respiration	SENSE
+resB	2419687	0.69	part of haem translocase, required for cytochrome c synthesis	SENSE
+ypuI	2424847	0.64	rRNA pseudouridine 2633 synthase	SENSE
+scpA	2426332	0.34	part of the [SW|condensin] complex, chromosomal origin condensation and segregation	SENSE
+ypuF	2426930	0.12	unknown	SENSE
+ypuF	2427010	0.27	unknown	SENSE
+ypuF	2427385	0.99	unknown	ANTI
+ribT	2427783	-4	similar to GCN5-related N-acetyltransferase	SENSE
+ribT	2427813	-34	similar to GCN5-related N-acetyltransferase	SENSE
+ribD	2431431	-88	5-amino-6-(5-phosphoribosylamino)uracil reductase	SENSE
+sipS	2432501	0.67	signal peptidase I	SENSE
+sipS	2432531	0.61	signal peptidase I	SENSE
+lysA	2437014	0.95	diaminopimelate decarboxylase	SENSE
+fur	2449830	11	transcription regulator of iron homoeostasis, sensor of Fe sufficiency	SENSE
+mleN	2453621	0.42	malate-H+/Na+-lactate antiporter	SENSE
+yqxK	2457519	1.13	unknown	ANTI
+yqkB	2461970	0.7	unknown	SENSE
+coaA	2469265	0.25	type I pantothenate kinase, major enzyme	SENSE
+yqjL	2477135	0.22	general stress protein, putative hydrolase involved in oxidative stress resistance, important for survival at low temperature	SENSE
+rnz	2477972	34	RNase Z	SENSE
+zwf	2479248	0.06	glucose 6-phosphate dehydrogenase, pentose-phosphate pathway	SENSE
+zwf	2480447	0.88	glucose 6-phosphate dehydrogenase, pentose-phosphate pathway	SENSE
+zwf	2480476	0.9	glucose 6-phosphate dehydrogenase, pentose-phosphate pathway	SENSE
+zwf	2480497	0.91	glucose 6-phosphate dehydrogenase, pentose-phosphate pathway	SENSE
+zwf	2480600	0.98	glucose 6-phosphate dehydrogenase, pentose-phosphate pathway	SENSE
+yidC2	2483934	0.04	Sec-independent membrane protein translocase, required for development of genetic competence	SENSE
+yidC2	2484154	0.3	Sec-independent membrane protein translocase, required for development of genetic competence	SENSE
+yidC2	2484378	0.57	Sec-independent membrane protein translocase, required for development of genetic competence	SENSE
+yqjD	2487607	0.48	propionyl-CoA carboxylase	SENSE
+artR	2490668	0.87	high affinity arginine [SW|ABC transporter ](ATP-binding protein)	SENSE
+artR	2491042	0.35	high affinity arginine [SW|ABC transporter ](ATP-binding protein)	SENSE
+artQ	2491356	0.9	high affinity arginine ABC transporter (permease)	SENSE
+artP	2492004	25	high affinity arginine [SW|ABC transporter] (ATP-binding protein)	SENSE
+bkdAB	2498114	0.98	2-oxoisovalerate dehydrogenase (E1 beta subunit)	SENSE
+bkdR	2505492	0.66	transcriptional activator of the ptb-bcd-buk-lpdV-bkdAA-bkdAB-bkdB operon	SENSE
+spo0A	2518004	19	[SW|phosphorelay] regulator, initiation of [SW|sporulation], coordinates [SW|DNA replication] and initiation of [SW|sporulation] by binding to sites close to the oriC	SENSE
+spo0A	2518522	0.38	[SW|phosphorelay] regulator, initiation of [SW|sporulation], coordinates [SW|DNA replication] and initiation of [SW|sporulation] by binding to sites close to the oriC	SENSE
+yqxC	2523233	0.6	similar to rRNA methyltransferase	SENSE
+yqxC	2523588	0.16	similar to rRNA methyltransferase	SENSE
+dxs	2523821	0.94	1-deoxyxylulose-5-phosphate synthase, first step in the MEP pathway of isoprenoid biosynthesis	SENSE
+dxs	2524314	0.68	1-deoxyxylulose-5-phosphate synthase, first step in the MEP pathway of isoprenoid biosynthesis	SENSE
+dxs	2524893	0.38	1-deoxyxylulose-5-phosphate synthase, first step in the MEP pathway of isoprenoid biosynthesis	SENSE
+dxs	2525458	0.08	1-deoxyxylulose-5-phosphate synthase, first step in the MEP pathway of isoprenoid biosynthesis	SENSE
+yqiB	2527884	0.28	similar to exodeoxyribonuclease VII (large subunit)	SENSE
+yqiB	2527930	0.25	similar to exodeoxyribonuclease VII (large subunit)	SENSE
+yqiB	2528302	-36	similar to exodeoxyribonuclease VII (large subunit)	SENSE
+yqhY	2529875	51	modulator of lipid biosynthesis	SENSE
+yqhY	2529898	28	modulator of lipid biosynthesis	SENSE
+accC	2530399	0.97	acetyl-CoA carboxylase (biotin carboxylase subunit)	SENSE
+accC	2531118	0.44	acetyl-CoA carboxylase (biotin carboxylase subunit)	SENSE
+accC	2531425	0.21	acetyl-CoA carboxylase (biotin carboxylase subunit)	SENSE
+lipM	2544262	0.65	octanoyltransferase	SENSE
+gcvPB	2546197	0.46	glycine decarboxylase (subunit 2)	SENSE
+gcvT	2549392	-59	aminomethyltransferase (glycine cleavage system protein T)	SENSE
+sinR	2552749	0.29	transcriptional regulator ([SW|Xre family]) of post-exponential-phase responses genes	SENSE
+tapA	2554949	0.39	[[protein|TasA]] anchoring/assembly protein	SENSE
+comGG	2556482	0.08	DNA transport machinery, minor pseudopilin	SENSE
+comGD	2557619	0.15	DNA transport machinery, minor pseudopilin	SENSE
+comGC	2557732	0.81	DNA uptake, major component of the pseudopilus	SENSE
+comGC	2557816	0.52	DNA uptake, major component of the pseudopilus	SENSE
+comGB	2558217	0.76	polytopic membrane protein , DNA transport machinery	SENSE
+comGA	2559247	0.78	late competence protein, traffic ATPase, binds and transports transforming DNA, required for growth arrest of competent cells	SENSE
+rsbRD	2563581	0.26	probably part of the [SW|stressosome], negative regulator of [[protein|SigB]] activity	SENSE
+yqgY	2564755	0.48	unknown	SENSE
+yqgY	2564818	0.74	unknown	SENSE
+yqgW	2565832	0.68	unknown	SENSE
+yqgS	2568651	0.96	polyglycerolphosphate lipoteichoic acid synthase	SENSE
+yqgS	2569414	0.56	polyglycerolphosphate lipoteichoic acid synthase	SENSE
+yqgS	2569768	0.38	polyglycerolphosphate lipoteichoic acid synthase	SENSE
+yqgS	2569775	0.37	polyglycerolphosphate lipoteichoic acid synthase	SENSE
+yqgS	2569987	0.26	polyglycerolphosphate lipoteichoic acid synthase	SENSE
+yqgS	2570015	0.25	polyglycerolphosphate lipoteichoic acid synthase	SENSE
+yqgS	2570465	0.01	polyglycerolphosphate lipoteichoic acid synthase	SENSE
+yqgS	2570529	-40	polyglycerolphosphate lipoteichoic acid synthase	SENSE
+glcK	2570821	0.78	glucose kinase (D-glucose:ATP)	SENSE
+yqgQ	2571708	0.42	putative single-stranded nucleic acid binding protein	SENSE
+yqgP	2571887	20	intramembrane protease	SENSE
+yqgN	2574357	-34	similar to 5-formyltetrahydrofolate cyclo-ligase	SENSE
+rpmGA	2574533	0.16	ribosomal protein L33a	SENSE
+rpmGA	2574560	-3	ribosomal protein L33a	SENSE
+pbpA	2582114	0.84	class B penicillin-binding protein PBP 2A, required for [SW|cell wall synthesis ]during cell elongation	SENSE
+pbpA	2582200	0.8	class B penicillin-binding protein PBP 2A, required for [SW|cell wall synthesis ]during cell elongation	SENSE
+pbpA	2582312	0.75	class B penicillin-binding protein PBP 2A, required for [SW|cell wall synthesis ]during cell elongation	SENSE
+sodA	2585463	0.96	superoxide dismutase, general stress protein, important for survival of ethanol and paraquat stresses and at low temperatures	SENSE
+sodA	2585778	0.44	superoxide dismutase, general stress protein, important for survival of ethanol and paraquat stresses and at low temperatures	SENSE
+yqgA	2587909	87	unknown, genetically related to the cell wall-degrading dl-endopeptidases	SENSE
+yqgA	2587917	79	unknown, genetically related to the cell wall-degrading dl-endopeptidases	SENSE
+yqgA	2587925	71	unknown, genetically related to the cell wall-degrading dl-endopeptidases	SENSE
+yqgA	2587943	53	unknown, genetically related to the cell wall-degrading dl-endopeptidases	SENSE
+yqfW	2590798	-6	unknown	SENSE
+zur	2591578	0.66	transcriptional repressor, regulates zinc homeostasis	SENSE
+nfo	2593932	0.27	type IV apurinic/apyrimidinic endonuclease	SENSE
+cshB	2595320	0.14	DEAD-box RNA helicase, important for adaptation to low temperatures	SENSE
+cccA	2599960	-75	cytochrome c550	SENSE
+sigA	2600285	0.94	[SW|RNA polymerase] major [SW|sigma factor] SigA	ANTI
+sigA	2600521	0.73	[SW|RNA polymerase] major [SW|sigma factor] SigA	ANTI
+sigA	2601175	0.14	[SW|RNA polymerase] major [SW|sigma factor] SigA	SENSE
+dnaG	2602034	0.72	DNA primase, part of the [SW|replisome]	ANTI
+dnaG	2602534	0.44	DNA primase, part of the [SW|replisome]	SENSE
+glyS	2606525	0.61	glycyl-tRNA synthetase (beta subunit)	SENSE
+recO	2609259	0.59	mediator of RecA binding to ssDNA, required for the formation of RecA DNA repair centers, required for efficient survival and replication restart after replication-transcription conflicts	SENSE
+era	2610579	0.41	GTP-binding protein, involved in the assembly of the 30S ribosomal subunit	SENSE
+era	2610720	0.25	GTP-binding protein, involved in the assembly of the 30S ribosomal subunit	SENSE
+cdd	2611058	0.68	cytidine deaminase	SENSE
+cdd	2611073	0.65	cytidine deaminase	SENSE
+cdd	2611153	0.45	cytidine deaminase	SENSE
+pgpH	2613180	0.58	c-di-AMP specific phosphodiesterase	SENSE
+pgpH	2613298	0.52	c-di-AMP specific phosphodiesterase	SENSE
+yqeZ	2618568	0.92	NfeD family protein NfeD1b, resistence protein (against sublancin), accessory role in resistance to cefuroxime	SENSE
+yqeZ	2618809	0.74	NfeD family protein NfeD1b, resistence protein (against sublancin), accessory role in resistance to cefuroxime	SENSE
+yqeZ	2619036	0.57	NfeD family protein NfeD1b, resistence protein (against sublancin), accessory role in resistance to cefuroxime	SENSE
+yqeZ	2619736	0.03	NfeD family protein NfeD1b, resistence protein (against sublancin), accessory role in resistance to cefuroxime	SENSE
+yqeZ	2619741	0.03	NfeD family protein NfeD1b, resistence protein (against sublancin), accessory role in resistance to cefuroxime	SENSE
+yqeZ	2619759	0.02	NfeD family protein NfeD1b, resistence protein (against sublancin), accessory role in resistance to cefuroxime	SENSE
+yqeZ	2619796	-17	NfeD family protein NfeD1b, resistence protein (against sublancin), accessory role in resistance to cefuroxime	SENSE
+yqeY	2619877	33	unknown	SENSE
+yqeY	2619923	0.98	unknown	SENSE
+yqeY	2619980	0.85	unknown	SENSE
+rpsU	2620567	-23	ribosomal protein	SENSE
+dnaJ	2625158	0.68	heat-shock protein (activation of [[protein|DnaK]])	SENSE
+dnaJ	2626010	-98	heat-shock protein (activation of [[protein|DnaK]])	SENSE
+dnaK	2626606	0.73	class I heat-shock protein (molecular chaperone)	SENSE
+dnaK	2626709	0.68	class I heat-shock protein (molecular chaperone)	SENSE
+dnaK	2627385	0.31	class I heat-shock protein (molecular chaperone)	SENSE
+hemN	2629689	29	anaerobic coproporphyrinogen III oxidase	SENSE
+hemN	2630500	0.33	anaerobic coproporphyrinogen III oxidase	SENSE
+lepA	2631829	0.5	elongation factor 4, GTP-binding protein	SENSE
+yqzM	2637472	0.78	unknown	SENSE
+comEC	2638616	0.54	channel protein for DNA binding and uptake	SENSE
+comEC	2639846	0.01	channel protein for DNA binding and uptake	SENSE
+comER	2641485	0.33	control of biofilm formation and sporulation via the phosphorelay	ANTI
+yqeM	2642435	0.55	similar to SAM-dependent methyltransferase	SENSE
+nadD	2643796	0.95	nicotinamide-nucleotide adenylyltransferase	SENSE
+yqeH	2645502	0.99	assembly/ stability of the 30S subunit of the ribosome, assembly of the 70S ribosome	SENSE
+yqeH	2645760	0.76	assembly/ stability of the 30S subunit of the ribosome, assembly of the 70S ribosome	SENSE
+yqeH	2645908	0.62	assembly/ stability of the 30S subunit of the ribosome, assembly of the 70S ribosome	SENSE
+sda	2647621	7	developmental checkpoint protein, controls the phosphorylation status of [[protein|Spo0A]]	SENSE
+yqeF	2648248	0.55	unknown	ANTI
+yqeF	2648431	0.3	unknown	ANTI
+sigKN	2653369	0.8	[SW|RNA polymerase ][SW|sporulation]-specific [SW|sigma factor ](sigma-K) (N-terminal half), with [[protein|sigKC]]	ANTI
+txpA	2678353	0.64	toxic peptide, eliminates defective cells from developing biofilms	ANTI
+txpA	2678358	0.67	toxic peptide, eliminates defective cells from developing biofilms	ANTI
+txpA	2678368	0.72	toxic peptide, eliminates defective cells from developing biofilms	ANTI
+txpA	2678393	0.86	toxic peptide, eliminates defective cells from developing biofilms	ANTI
+txpA	2678483	64	toxic peptide, eliminates defective cells from developing biofilms	ANTI
+yqbM	2678888	254	similar to phage-related protein	SENSE
+yqbM	2678904	238	similar to phage-related protein	SENSE
+yqbM	2678924	218	similar to phage-related protein	SENSE
+yqbM	2678978	164	similar to phage-related protein	SENSE
+yqbM	2678985	157	similar to phage-related protein	SENSE
+yqbM	2679025	117	similar to phage-related protein	SENSE
+yqbM	2679043	99	similar to phage-related protein	SENSE
+yqaP	2692124	0.52	unknown	SENSE
+yqaO	2692829	0.11	similar to phage-related protein	ANTI
+sknR	2699067	0.5	transcriptional repressor ([SW|Xre family]) of the [[gene|yqaF]]-[[gene|yqdA]]-[[gene|yqaG]]-[[gene|yqaH]]-[[gene|yqaI]]-[[gene|yqaJ]]-[[gene|yqaK]]-[[gene|yqaL]]-[[gene|yqaM]]-[[gene|yqaN]] operon o	SENSE
+yrkK	2709250	0.36	unknown	SENSE
+yrkA	2719991	0.21	unknown	SENSE
+yrkA	2720188	0.06	unknown	SENSE
+yrkA	2720202	0.05	unknown	SENSE
+yrkA	2720290	-27	unknown	SENSE
+yrkA	2720305	-42	unknown	SENSE
+azlC	2729309	0.57	branched-chain amino acid exporter	SENSE
+zinT	2742162	-50	lipoprotein, similar to zinc-binding protein	SENSE
+yraO	2745521	-42	citrate uptake via proton symport	SENSE
+yrhJ	2773800	90	cytochrome P450 (CYP102A3)/ NADPH-cytochrome P450 reductase	ANTI
+yrhJ	2773811	79	cytochrome P450 (CYP102A3)/ NADPH-cytochrome P450 reductase	ANTI
+yrhJ	2773821	69	cytochrome P450 (CYP102A3)/ NADPH-cytochrome P450 reductase	ANTI
+yrhJ	2773826	64	cytochrome P450 (CYP102A3)/ NADPH-cytochrome P450 reductase	ANTI
+yrhJ	2773831	59	cytochrome P450 (CYP102A3)/ NADPH-cytochrome P450 reductase	ANTI
+yrhJ	2773839	51	cytochrome P450 (CYP102A3)/ NADPH-cytochrome P450 reductase	ANTI
+yrzI	2779154	-82	unknown	SENSE
+yrhG	2779269	193	similar to formate transporter	SENSE
+yrhG	2780328	-66	similar to formate transporter	SENSE
+yrhF	2780513	12	unknown	SENSE
+yrhE	2781077	-132	unknown, similar to formate dehydrogenase	SENSE
+yrhE	2781161	-48	unknown, similar to formate dehydrogenase	SENSE
+mccA	2786639	0.46	O-acetylserine-thiol-lyase	SENSE
+udk	2792745	0.17	uridine kinase	SENSE
+alaS	2799380	0.54	alanine-tRNA synthetase	SENSE
+trmU	2809476	0.94	tRNA (5-methylaminomethyl-2-thiouridylate) methyltransferase, involved in 2-thiouridine (s2U) modification of the wobble position in glutamate, glutamine and lysine tRNA molecules	SENSE
+trmU	2809531	0.89	tRNA (5-methylaminomethyl-2-thiouridylate) methyltransferase, involved in 2-thiouridine (s2U) modification of the wobble position in glutamate, glutamine and lysine tRNA molecules	SENSE
+trmU	2810150	0.34	tRNA (5-methylaminomethyl-2-thiouridylate) methyltransferase, involved in 2-thiouridine (s2U) modification of the wobble position in glutamate, glutamine and lysine tRNA molecules	SENSE
+cymR	2812004	0.39	pleiotropic regulator of sulfur metabolism	SENSE
+yrvM	2814501	-94	2-methylthio-N6-threonylcarbamoyladenosine cyclase, catalyzes ATP-dependent dehydration of 2-methylthio N6-threonylcarbamoyladenosine (t6A) to form  2-methylthio cyclic N6-threonylcarbamoyladenosine	SENSE
+aspS	2814602	141	aspartyl-tRNA synthetase	SENSE
+hisS	2816781	0.81	histidyl-tRNA synthetase	SENSE
+yrzK	2818109	82	unknown	SENSE
+relA	2821335	0.63	GTP pyrophosphokinase (stringent response)	SENSE
+relA	2821552	0.54	GTP pyrophosphokinase (stringent response)	SENSE
+apt	2822968	0.87	adenine phosphoribosyltransferase, universally conserved protein	SENSE
+apt	2823060	0.69	adenine phosphoribosyltransferase, universally conserved protein	SENSE
+secDF	2827039	0.94	preprotein translocase subunit (ATPase)	SENSE
+secDF	2827359	0.79	preprotein translocase subunit (ATPase)	SENSE
+secDF	2827993	0.51	preprotein translocase subunit (ATPase)	SENSE
+secDF	2828053	0.48	preprotein translocase subunit (ATPase)	SENSE
+yrbF	2832439	0.94	unknown	SENSE
+yrbF	2832525	0.62	unknown	SENSE
+tgt	2833301	0.5	tRNA-guanine transglycosylase	SENSE
+queA	2833963	0.94	S-adenosylmethionine tRNA ribosyltransferase	SENSE
+ruvB	2835556	0.6	Holliday junction DNA helicase, part of the [[protein|RuvA]]-[[protein|RuvB]] branch migration translocase	SENSE
+ruvB	2835823	0.33	Holliday junction DNA helicase, part of the [[protein|RuvA]]-[[protein|RuvB]] branch migration translocase	SENSE
+safA	2844746	0.94	morphogenetic protein associated with [[protein|SpoVID]], major organizer of the inner spore coat	SENSE
+safA	2844978	0.74	morphogenetic protein associated with [[protein|SpoVID]], major organizer of the inner spore coat	SENSE
+nadA	2846378	0.62	quinolinate synthetase	SENSE
+nadA	2846493	0.51	quinolinate synthetase	SENSE
+nadA	2846813	0.22	quinolinate synthetase	SENSE
+nadA	2846819	0.22	quinolinate synthetase	SENSE
+nadC	2847161	0.87	nicotinate-nucleotide diphosphorylase (carboxylating)	SENSE
+nadC	2847493	0.49	nicotinate-nucleotide diphosphorylase (carboxylating)	SENSE
+nadC	2847696	0.25	nicotinate-nucleotide diphosphorylase (carboxylating)	SENSE
+nadB	2848058	0.88	L-aspartate oxidase	SENSE
+nadB	2848140	0.83	L-aspartate oxidase	SENSE
+pheA	2851481	0.77	prephenate dehydratase	SENSE
+obg	2852806	0.89	GTP-binding protein involved in initiation of sporulation and assembly of the 50S ribosome subunit	SENSE
+obg	2852839	0.86	GTP-binding protein involved in initiation of sporulation and assembly of the 50S ribosome subunit	SENSE
+obg	2852977	0.76	GTP-binding protein involved in initiation of sporulation and assembly of the 50S ribosome subunit	SENSE
+obg	2853291	0.51	GTP-binding protein involved in initiation of sporulation and assembly of the 50S ribosome subunit	SENSE
+obg	2853323	0.49	GTP-binding protein involved in initiation of sporulation and assembly of the 50S ribosome subunit	SENSE
+obg	2853479	0.36	GTP-binding protein involved in initiation of sporulation and assembly of the 50S ribosome subunit	SENSE
+rpmA	2854853	27	ribosomal protein	SENSE
+rplU	2855888	-62	ribosomal protein	SENSE
+spoIVFB	2855913	60	intramembrane metalloprotease, processing of pro-sigma-K to active [[protein|SigKN]]	SENSE
+minD	2857741	35	[SW|cell division] inhibitor (septum placement), part of the Min system (with Z ring placement)	SENSE
+minD	2857753	23	[SW|cell division] inhibitor (septum placement), part of the Min system (with Z ring placement)	SENSE
+minC	2858666	0.88	cell-division inhibitor (septum placement), destabilizes Z ring placement	SENSE
+minC	2858683	0.86	cell-division inhibitor (septum placement), destabilizes Z ring placement	SENSE
+minC	2859176	0.13	cell-division inhibitor (septum placement), destabilizes Z ring placement	SENSE
+mreD	2859606	0.44	MreD is a cell shape determining protein, it couples the cytosolic MreB and MreB-like proteins to the extracellular peptidoglycan-synthesizing machinery	SENSE
+mreD	2859804	0.06	MreD is a cell shape determining protein, it couples the cytosolic MreB and MreB-like proteins to the extracellular peptidoglycan-synthesizing machinery	SENSE
+mreC	2860274	0.49	MreC is a cell shape determining protein, it couples the cytosolic MreB and MreB-like proteins to the extracellular peptidoglycan-synthesizing machinery	SENSE
+mreC	2860523	0.21	MreC is a cell shape determining protein, it couples the cytosolic MreB and MreB-like proteins to the extracellular peptidoglycan-synthesizing machinery	SENSE
+mreB	2861434	0.31	[SW|cell shape]-determining protein, forms filaments, the polymers control/restrict the mobility of the cell wall elongation enzyme complex, required for [[protein|LytE ]]activity	SENSE
+radC	2861843	1	probable DNA repair protein	SENSE
+radC	2862146	0.56	probable DNA repair protein	SENSE
+radC	2862168	0.53	probable DNA repair protein	SENSE
+maf	2862923	0.38	nucleotide pyrophosphatase, [SW|cell division] inhibitor in competent cells, blocks septation during the escape from competence, required for the stability of [[protein|ComGA]]	SENSE
+valS	2867375	0.73	valyl-tRNA synthetase	SENSE
+hemL	2872852	28	glutamate-1-semialdehyde aminotransferase	SENSE
+hemD	2875279	0.87	uroporphyrinogen-III synthase	SENSE
+hemD	2875360	0.76	uroporphyrinogen-III synthase	SENSE
+hemD	2875698	0.33	uroporphyrinogen-III synthase	SENSE
+hemX	2877699	0.07	negative effector of the concentration of [[protein|HemA]]	SENSE
+hemA	2878369	0.56	glutamyl-tRNA reductase	SENSE
+hemA	2879161	-28	glutamyl-tRNA reductase	SENSE
+ysxC	2880092	0.64	assembly of the 50S subunit of the ribosome	SENSE
+clpX	2884818	0.97	AAA  unfoldase, ATP-dependent Clp protease, ATP-binding subunit (class III heat-shock protein)	SENSE
+clpX	2884908	0.9	AAA  unfoldase, ATP-dependent Clp protease, ATP-binding subunit (class III heat-shock protein)	SENSE
+clpX	2885054	0.78	AAA  unfoldase, ATP-dependent Clp protease, ATP-binding subunit (class III heat-shock protein)	SENSE
+clpX	2885823	0.17	AAA  unfoldase, ATP-dependent Clp protease, ATP-binding subunit (class III heat-shock protein)	SENSE
+clpX	2886046	-3	AAA  unfoldase, ATP-dependent Clp protease, ATP-binding subunit (class III heat-shock protein)	SENSE
+tig	2886192	123	trigger factor (prolyl isomerase)	SENSE
+tig	2886261	54	trigger factor (prolyl isomerase)	SENSE
+tig	2886568	0.8	trigger factor (prolyl isomerase)	SENSE
+tig	2887431	0.12	trigger factor (prolyl isomerase)	SENSE
+tig	2887593	-4	trigger factor (prolyl isomerase)	SENSE
+tig	2887689	-100	trigger factor (prolyl isomerase)	SENSE
+leuD	2889485	0.09	3-isopropylmalate dehydratase (small subunit)	SENSE
+leuC	2889848	0.79	3-isopropylmalate dehydratase (large subunit)	SENSE
+leuA	2893457	0.15	2-isopropylmalate synthase	SENSE
+ilvC	2893740	0.94	ketol-acid reductoisomerase (2,3-dihydroxy-3-methylbutanoate, 2-acetolactate)	SENSE
+ilvC	2894110	0.58	ketol-acid reductoisomerase (2,3-dihydroxy-3-methylbutanoate, 2-acetolactate)	SENSE
+ilvC	2894668	0.04	ketol-acid reductoisomerase (2,3-dihydroxy-3-methylbutanoate, 2-acetolactate)	SENSE
+ilvB	2895816	0.67	acetolactate synthase (large subunit)	SENSE
+ilvB	2895864	0.64	acetolactate synthase (large subunit)	SENSE
+ilvB	2896354	0.36	acetolactate synthase (large subunit)	SENSE
+ilvB	2896962	0.01	acetolactate synthase (large subunit)	SENSE
+ilvB	2897346	-374	acetolactate synthase (large subunit)	SENSE
+ysnD	2897407	-381	inner spore coat protein	ANTI
+ysnF	2899782	30	general stress protein, survival of ethanol  stress	ANTI
+ysnF	2899816	64	general stress protein, survival of ethanol  stress	ANTI
+ysnF	2899836	84	general stress protein, survival of ethanol  stress	ANTI
+sdhB	2906149	0.24	succinate dehydrogenase	SENSE
+sdhA	2906870	0.7	succinate dehydrogenase (flavoprotein subunit)	SENSE
+sdhA	2907024	0.61	succinate dehydrogenase (flavoprotein subunit)	SENSE
+sdhC	2908449	0.48	succinate dehydrogenase (cytochrome b558 subunit)	SENSE
+sdhC	2908740	-3	succinate dehydrogenase (cytochrome b558 subunit)	SENSE
+lysC	2910880	-134	aspartokinase II (alpha and beta subunits)	SENSE
+uvrC	2911005	111	excinuclease ABC (subunit C), required for transcription-dependent asymmetry in mutation rates of genes in the two orientations	SENSE
+lcfA	2919857	0.28	long chain acyl-CoA synthetase, involved in surfactin production	SENSE
+lcfA	2919929	0.24	long chain acyl-CoA synthetase, involved in surfactin production	SENSE
+lcfA	2920127	0.12	long chain acyl-CoA synthetase, involved in surfactin production	SENSE
+lcfA	2920143	0.11	long chain acyl-CoA synthetase, involved in surfactin production	SENSE
+yshB	2925371	0.49	unknown	SENSE
+zapA	2925701	0.77	positive modulator of FtsZ Z ring assembly and stability	SENSE
+pheS	2930586	-114	phenylalanyl-tRNA synthetase (alpha subunit), universally conserved protein	SENSE
+pheS	2930591	-119	phenylalanyl-tRNA synthetase (alpha subunit), universally conserved protein	SENSE
+glcF	2934866	0.2	probable glycolate oxidase, iron-sulfur subunit	ANTI
+cstA	2938188	-10	similar to pyruvate transporter, carbon starvation-induced protein	SENSE
+ysdB	2951522	0.08	control of [[protein|SigW ]]activity, survival of heat  stress	SENSE
+ysdA	2952143	0.09	unknown	SENSE
+infC	2952871	0.92	translation initiation factor IF-3	SENSE
+infC	2953443	-94	translation initiation factor IF-3	SENSE
+infC	2953454	-105	translation initiation factor IF-3	SENSE
+thrS	2961241	-53	threonyl-tRNA synthetase (major)	SENSE
+thrS	2961285	-97	threonyl-tRNA synthetase (major)	SENSE
+ytxB	2962592	0.87	unknown	SENSE
+speD	2966372	41	S-adenosylmethionine decarboxylase, required for biofilm formation	SENSE
+ytaG	2971066	0.76	dephospho-CoA kinase	SENSE
+ytaF	2971730	0.91	[SW|sporulation] protein	SENSE
+ytaF	2971995	0.35	[SW|sporulation] protein	SENSE
+polA	2975757	0.03	DNA polymerase I, required for repair of UV- or MMS-induced DNA damage	SENSE
+phoR	2975955	113	two-component sensor kinase, regulation of phosphate metabolism	SENSE
+mdh	2978701	33	malate dehydrogenase	SENSE
+mdh	2978887	0.84	malate dehydrogenase	SENSE
+mdh	2979312	0.38	malate dehydrogenase	SENSE
+citZ	2982329	-60	citrate synthase	SENSE
+citZ	2982394	-125	citrate synthase	SENSE
+ytwI	2982631	0.94	unknown	SENSE
+pyk	2985948	0.34	pyruvate kinase, glycolytic enzyme	SENSE
+pyk	2986173	0.21	pyruvate kinase, glycolytic enzyme	SENSE
+pfkA	2986841	0.74	phosphofructokinase, glycolytic enzyme	SENSE
+pfkA	2986878	0.7	phosphofructokinase, glycolytic enzyme	SENSE
+accA	2988073	0.65	acetyl-CoA carboxylase (alpha subunit)	SENSE
+accA	2988084	0.64	acetyl-CoA carboxylase (alpha subunit)	SENSE
+ytpI	2997251	0.9	unknown	ANTI
+ytkK	3010930	0.65	similar to 3-oxoacyl- acyl-carrier protein reductase	SENSE
+argH	3011747	4	argininosuccinate lyase	SENSE
+argH	3011759	1	argininosuccinate lyase	SENSE
+ackA	3015069	42	acetate kinase	SENSE
+tpx	3018048	0.3	probable thiol peroxidase	SENSE
+sppA	3020050	0.99	signal peptide peptidase required for efficient processing of pre-proteins, cleaves remnant signal peptides within the cellular membrane	SENSE
+sppA	3020700	0.35	signal peptide peptidase required for efficient processing of pre-proteins, cleaves remnant signal peptides within the cellular membrane	SENSE
+sppA	3021017	0.03	signal peptide peptidase required for efficient processing of pre-proteins, cleaves remnant signal peptides within the cellular membrane	SENSE
+ytcI	3025008	0.16	similar to acetate-CoA ligase	SENSE
+thiI	3027090	-137	sulfuryl transferase, biosynthesis of 4-thiouridine in tRNA	SENSE
+braB	3028573	0.21	branched-chain amino acid transporter	SENSE
+ezrA	3030443	0.58	negative regulator of [[protein|FtsZ ]]ring formation	SENSE
+ezrA	3031160	0.15	negative regulator of [[protein|FtsZ ]]ring formation	SENSE
+ezrA	3031419	-2	negative regulator of [[protein|FtsZ ]]ring formation	SENSE
+dgcP	3034729	0.41	diguanylate cyclase	SENSE
+dgcP	3034948	0.28	diguanylate cyclase	SENSE
+dgcP	3034964	0.27	diguanylate cyclase	ANTI
+ytzK	3037974	86	unknown	SENSE
+acsA	3039938	-7	acetyl-CoA synthetase	SENSE
+aroA	3045420	25	3-deoxy-D-arabino-heptulosonate 7-phosphate synthase / chorismate mutase-isozyme 3	SENSE
+murC	3048538	0.72	UDP-N-acetylmuramoyl-L-alanine synthetase	SENSE
+murC	3048622	0.66	UDP-N-acetylmuramoyl-L-alanine synthetase	SENSE
+murC	3048656	0.63	UDP-N-acetylmuramoyl-L-alanine synthetase	SENSE
+murC	3048661	0.63	UDP-N-acetylmuramoyl-L-alanine synthetase	SENSE
+murC	3049186	0.22	UDP-N-acetylmuramoyl-L-alanine synthetase	SENSE
+murC	3049312	0.13	UDP-N-acetylmuramoyl-L-alanine synthetase	SENSE
+murC	3049436	0.03	UDP-N-acetylmuramoyl-L-alanine synthetase	SENSE
+murC	3049481	-6	UDP-N-acetylmuramoyl-L-alanine synthetase	SENSE
+sftA	3051523	0.37	DNA translocase, translocation of non-segregated chromosomes prior to septum closure	SENSE
+trmB	3059707	0.75	tRNA (m7G46) methyltransferase	SENSE
+ytmP	3061083	0.25	unknown	SENSE
+murJ	3073550	0.99	lipid II flippase	SENSE
+ytbQ	3088709	0.73	unknown	SENSE
+bioI	3090453	-40	cytochrome P450 enzyme	SENSE
+bioI	3090782	-369	cytochrome P450 enzyme	SENSE
+bioD	3091012	480	dethiobiotin synthase	SENSE
+bioD	3091143	349	dethiobiotin synthase	SENSE
+bioD	3091802	0.56	dethiobiotin synthase	SENSE
+bioD	3092059	0.18	dethiobiotin synthase	SENSE
+bioD	3092168	0.03	dethiobiotin synthase	SENSE
+bioA	3093681	0.75	lysine-8-amino-7-oxononanoate aminotransferase	SENSE
+bioA	3093825	0.64	lysine-8-amino-7-oxononanoate aminotransferase	SENSE
+bioW	3094764	0.89	pimeloyl-CoA synthase (6-carboxyhexanoate-CoA ligase)	SENSE
+ytwF	3102506	0.03	unknown	SENSE
+leuS	3102986	0.85	Leu-tRNA synthetase	SENSE
+bceS	3113059	0.13	two-component sensor kinase, regulation of [[gene|bceA]]-[[gene|bceB ]]in response to bacitracin, plectasin, mersacidin and actagardine	SENSE
+ytpB	3122108	0.48	tetraprenyl-beta-curcumene synthase, catalyzes the first committed step in C35 terpenoid biosynthesis, salt stress protein	SENSE
+ytnA	3124861	0.56	similar to proline permease	SENSE
+ytnA	3124878	0.55	similar to proline permease	SENSE
+asnB	3125910	0.93	asparagine synthase (glutamine-hydrolysing)	SENSE
+asnB	3126153	0.8	asparagine synthase (glutamine-hydrolysing)	SENSE
+asnB	3126222	0.77	asparagine synthase (glutamine-hydrolysing)	SENSE
+asnB	3127296	0.2	asparagine synthase (glutamine-hydrolysing)	SENSE
+metK	3128566	0.38	S-adenosylmethionine synthetase	SENSE
+mntD	3142237	0.82	manganese [SW|ABC transporter] (permease)	SENSE
+mntD	3142490	0.54	manganese [SW|ABC transporter] (permease)	SENSE
+mntD	3142791	0.2	manganese [SW|ABC transporter] (permease)	SENSE
+mntC	3143345	0.7	manganese [SW|ABC transporter] (membrane protein)	SENSE
+mntC	3143933	0.25	manganese [SW|ABC transporter] (membrane protein)	SENSE
+mntC	3144161	0.08	manganese [SW|ABC transporter] (membrane protein)	SENSE
+mntA	3145455	0.55	manganese [SW|ABC transporter] (binding protein, lipoprotein)	SENSE
+mntA	3145549	0.45	manganese [SW|ABC transporter] (binding protein, lipoprotein)	SENSE
+mntA	3145922	0.04	manganese [SW|ABC transporter] (binding protein, lipoprotein)	SENSE
+menB	3149057	0.81	naphthoate synthase	SENSE
+menD	3152183	0.07	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase / 2-oxoglutarate decarboxylase	SENSE
+menD	3152189	0.07	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase / 2-oxoglutarate decarboxylase	SENSE
+menF	3152737	0.69	menaquinone-specific isochorismate synthase	SENSE
+menF	3152742	0.69	menaquinone-specific isochorismate synthase	SENSE
+menF	3152865	0.6	menaquinone-specific isochorismate synthase	SENSE
+glgB	3171851	-205	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3171858	-212	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3171868	-222	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3171875	-229	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3171944	-298	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3171954	-308	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3171963	-317	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3171970	-324	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172004	-358	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172014	-368	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172052	-406	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172058	-412	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172068	-422	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172130	-484	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172138	-492	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172156	-510	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172166	-520	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172171	-525	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172177	-531	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172233	-587	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172267	-621	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172310	-664	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172351	-705	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172359	-713	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172402	-756	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172409	-763	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172415	-769	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172422	-776	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172495	-849	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172502	-856	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172668	-1022	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172678	-1032	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172683	-1037	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172690	-1044	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172780	-1134	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172942	-1296	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172951	-1305	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3172965	-1319	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173033	-1387	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173114	-1468	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173124	-1478	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173133	-1487	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173208	-1562	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173218	-1572	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173390	-1744	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173403	-1757	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173425	-1779	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173435	-1789	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173445	-1799	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173451	-1805	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173457	-1811	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173475	-1829	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173485	-1839	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173571	-1925	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173576	-1930	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173588	-1942	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173595	-1949	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173684	-2038	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173693	-2047	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173701	-2055	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173707	-2061	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173712	-2066	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173791	-2145	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3173800	-2154	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3174023	-2377	1,4-alpha-glucan branching enzyme	SENSE
+glgB	3174031	-2385	1,4-alpha-glucan branching enzyme	SENSE
+thiT	3178068	-1238	S protein of thiamine [SW|ECF transporter]	ANTI
+thiT	3178154	-1152	S protein of thiamine [SW|ECF transporter]	ANTI
+thiT	3178563	-743	S protein of thiamine [SW|ECF transporter]	ANTI
+thiT	3178725	-581	S protein of thiamine [SW|ECF transporter]	ANTI
+floT	3181497	0.33	membrane-associated scaffold protein, orchestration of physiological processes in lipid microdomains, involved in the control of membrane fluidity, confers (together with [[protein|YuaF]]) resistance	SENSE
+floT	3181727	0.17	membrane-associated scaffold protein, orchestration of physiological processes in lipid microdomains, involved in the control of membrane fluidity, confers (together with [[protein|YuaF]]) resistance	SENSE
+yuaF	3182518	0.04	NfeD2, role in maintaining membrane integrity during conditions of cellular stress, confers (together with [[protein|FloT]]) resistance to cefuroxime	SENSE
+yuaF	3182523	0.03	NfeD2, role in maintaining membrane integrity during conditions of cellular stress, confers (together with [[protein|FloT]]) resistance to cefuroxime	SENSE
+yubC	3194429	81	cysteine dioxygenase	ANTI
+yubC	3194434	86	cysteine dioxygenase	ANTI
+yubC	3194449	101	cysteine dioxygenase	ANTI
+yubC	3194488	140	cysteine dioxygenase	ANTI
+uppP	3194521	114	minor undecaprenyl pyrophosphate phosphatase	SENSE
+mcpA	3207679	0.24	membrane-bound chemotaxis receptor, methyl-accepting chemotaxis protein	SENSE
+mcpA	3208052	0.05	membrane-bound chemotaxis receptor, methyl-accepting chemotaxis protein	SENSE
+pgi	3221137	0.7	glucose 6-phosphate isomerase, glycolytic / gluconeogenic enzyme	SENSE
+pgi	3221663	0.31	glucose 6-phosphate isomerase, glycolytic / gluconeogenic enzyme	SENSE
+pgi	3221797	0.21	glucose 6-phosphate isomerase, glycolytic / gluconeogenic enzyme	SENSE
+yugI	3225153	25	similar to a domain of E. coli polyribonucleotide phosphorylase and to four repeated domains at the N-terminus of E. coli ribosomal protein S1, has an RNA-binding surface	SENSE
+alaT	3226166	0.66	similar to PLP-dependent methionine aminotransferase	SENSE
+pbpD	3235789	4	penicillin-binding protein 4	SENSE
+yuxK	3236009	0.49	unknown	SENSE
+yuxK	3236079	0.66	unknown	SENSE
+yuxK	3236134	0.8	unknown	SENSE
+yufK	3236921	0.09	unknown	SENSE
+mrpA	3246932	0.11	Na+ transporter subunit of the Na+/H+ antiporter, multiple resistance and pH homeostasis	SENSE
+mrpA	3247158	0.21	Na+ transporter subunit of the Na+/H+ antiporter, multiple resistance and pH homeostasis	SENSE
+mrpA	3247451	0.33	Na+ transporter subunit of the Na+/H+ antiporter, multiple resistance and pH homeostasis	SENSE
+mrpD	3250155	0.27	H+ transporter subunit of the Na+/H+ antiporter, multiple resistance and pH homeostasis	SENSE
+comP	3253950	0.82	two-component sensor kinase, detects extracellular [[protein|ComX]]	SENSE
+comP	3254257	0.69	two-component sensor kinase, detects extracellular [[protein|ComX]]	SENSE
+comP	3254885	0.41	two-component sensor kinase, detects extracellular [[protein|ComX]]	SENSE
+comP	3255127	0.31	two-component sensor kinase, detects extracellular [[protein|ComX]]	SENSE
+comP	3255175	0.29	two-component sensor kinase, detects extracellular [[protein|ComX]]	SENSE
+comQ	3256344	0.63	prenylation of [[protein|comX ]]and surfactin expression ([[gene|srfA]])	SENSE
+pncB	3259479	0.95	putative nicotinate phosphoribosyltransferase	SENSE
+yueF	3263413	0.28	membrane protein, similar to coordinator of zonal elongation, may control [SW|cell wall synthesis ]by the [SW|penicillin-binding proteins]	SENSE
+yuzE	3263908	0.19	unknown	ANTI
+yueD	3266004	0.18	similar to sepiapterin reductase	ANTI
+yueB	3267051	0.89	membrane protein, part of the type VII protein secretion system YukD-YukC-YukB-YueB-YueC, receptor for phage SPPI	SENSE
+yueB	3267093	0.87	membrane protein, part of the type VII protein secretion system YukD-YukC-YukB-YueB-YueC, receptor for phage SPPI	SENSE
+yueB	3269751	0.05	membrane protein, part of the type VII protein secretion system YukD-YukC-YukB-YueB-YueC, receptor for phage SPPI	SENSE
+yukB	3270554	0.86	membrane FtsK/SpoIIIE-like ATPase, part of the type VII protein secretion system YukD-YukC-YukB-YueB-YueC	SENSE
+yukB	3273567	0.19	membrane FtsK/SpoIIIE-like ATPase, part of the type VII protein secretion system YukD-YukC-YukB-YueB-YueC	SENSE
+yuiF	3295012	0.95	membrane protein	SENSE
+yuiF	3295167	0.83	membrane protein	SENSE
+yuiF	3295202	0.81	membrane protein	SENSE
+yuiF	3295647	0.47	membrane protein	SENSE
+yuiF	3296090	0.14	membrane protein	SENSE
+yuiF	3296095	0.13	membrane protein	SENSE
+yuiF	3296225	0.03	membrane protein	SENSE
+yuiF	3296231	0.03	membrane protein	SENSE
+yuiF	3296276	-6	membrane protein	SENSE
+yuiB	3299458	0.65	unknown	SENSE
+yuiA	3299805	0.4	unknown	SENSE
+yumC	3301894	0.31	ferredoxin/flavodoxin-NAD(P)  oxidoreductase	SENSE
+yumC	3302433	0.85	ferredoxin/flavodoxin-NAD(P)  oxidoreductase	SENSE
+thrB	3312849	1	homoserine kinase	SENSE
+hom	3316044	0.07	homoserine dehydrogenase (NADPH)	SENSE
+hom	3316140	-11	homoserine dehydrogenase (NADPH)	SENSE
+pucM	3334696	0.14	uricase	SENSE
+sufB	3355493	100	FeS scaffold, synthesis of Fe-S-clusters	SENSE
+sufB	3355590	3	FeS scaffold, synthesis of Fe-S-clusters	SENSE
+sufB	3356297	0.5	FeS scaffold, synthesis of Fe-S-clusters	SENSE
+sufB	3356820	0.12	FeS scaffold, synthesis of Fe-S-clusters	SENSE
+sufB	3356955	0.03	FeS scaffold, synthesis of Fe-S-clusters	SENSE
+sufD	3359254	0.55	FeS scaffold, synthesis of Fe-S-clusters	SENSE
+sufD	3359414	0.43	FeS scaffold, synthesis of Fe-S-clusters	SENSE
+sufD	3359979	-2	FeS scaffold, synthesis of Fe-S-clusters	SENSE
+sufC	3360784	-4	[SW|ABC transporter] (ATP-binding protein), synthesis of Fe-S clusters	SENSE
+sufC	3360806	-26	[SW|ABC transporter] (ATP-binding protein), synthesis of Fe-S clusters	SENSE
+yuzK	3360944	30	unknown	SENSE
+yuzK	3360970	4	unknown	SENSE
+yuzK	3360988	0.91	unknown	SENSE
+metQ	3362153	0.53	methionine ABC transporter (binding lipoprotein)	SENSE
+mrgA	3383557	-8	iron storage protein, DNA-binding stress protein, forms highly stable, multimeric protein-DNA complexes which protect against oxidative killing	SENSE
+mrgA	3383565	0	iron storage protein, DNA-binding stress protein, forms highly stable, multimeric protein-DNA complexes which protect against oxidative killing	SENSE
+mrgA	3383608	0.09	iron storage protein, DNA-binding stress protein, forms highly stable, multimeric protein-DNA complexes which protect against oxidative killing	SENSE
+mrgA	3384023	1	iron storage protein, DNA-binding stress protein, forms highly stable, multimeric protein-DNA complexes which protect against oxidative killing	SENSE
+mrgA	3384039	13	iron storage protein, DNA-binding stress protein, forms highly stable, multimeric protein-DNA complexes which protect against oxidative killing	ANTI
+htrB	3384051	19	membrane-anchored protein quality control protease, serine protease, response to secretion and heat stresses	ANTI
+htrB	3384056	14	membrane-anchored protein quality control protease, serine protease, response to secretion and heat stresses	ANTI
+htrB	3384320	0.82	membrane-anchored protein quality control protease, serine protease, response to secretion and heat stresses	SENSE
+htrB	3384406	0.76	membrane-anchored protein quality control protease, serine protease, response to secretion and heat stresses	SENSE
+htrB	3385111	0.24	membrane-anchored protein quality control protease, serine protease, response to secretion and heat stresses	SENSE
+htrB	3385570	-124	membrane-anchored protein quality control protease, serine protease, response to secretion and heat stresses	SENSE
+cssS	3386952	0.41	two-component sensor kinase, control of cellular responses to protein secretion stress	SENSE
+cssS	3387056	0.49	two-component sensor kinase, control of cellular responses to protein secretion stress	ANTI
+cssS	3387527	0.83	two-component sensor kinase, control of cellular responses to protein secretion stress	ANTI
+cssS	3387532	0.84	two-component sensor kinase, control of cellular responses to protein secretion stress	ANTI
+cssS	3387582	0.88	two-component sensor kinase, control of cellular responses to protein secretion stress	ANTI
+cssS	3387687	0.95	two-component sensor kinase, control of cellular responses to protein secretion stress	ANTI
+cssS	3387737	0.99	two-component sensor kinase, control of cellular responses to protein secretion stress	ANTI
+citG	3390292	0.09	fumarase	SENSE
+yvrN	3412262	0.88	similar to [SW|ABC transporter] (membrane protein)	SENSE
+yvrN	3412692	0.53	similar to [SW|ABC transporter] (membrane protein)	SENSE
+yvrN	3412797	0.45	similar to [SW|ABC transporter] (membrane protein)	SENSE
+yvrO	3413545	0.72	similar to amino acid [SW|ABC transporter ](ATP-binding protein)	SENSE
+yvrO	3413776	0.38	similar to amino acid [SW|ABC transporter ](ATP-binding protein)	SENSE
+lysP (yvsH)	3421145	-80	putative lysine transporter	SENSE
+yvgJ	3422570	0.12	lipoteichoic acid synthesis primase	SENSE
+nhaK	3429644	0.35	cation/H  antiporter	SENSE
+cysI	3430656	0.91	sulfite reductase (NADPH2)	SENSE
+cysI	3430951	0.75	sulfite reductase (NADPH2)	SENSE
+cysI	3431147	0.64	sulfite reductase (NADPH2)	SENSE
+cysI	3431418	0.49	sulfite reductase (NADPH2)	SENSE
+cysJ	3432611	0.9	sulfite reductase (NADPH2)	SENSE
+cysJ	3432673	0.87	sulfite reductase (NADPH2)	SENSE
+cysJ	3433186	0.57	sulfite reductase (NADPH2)	SENSE
+cysJ	3433938	0.13	sulfite reductase (NADPH2)	SENSE
+helD	3436722	-71	DNA 3-5 helicase IV, stimulates [SW|transcription] in an ATP-dependent manner by enhancing transcriptional cycling and elongation	ANTI
+helD	3436727	-76	DNA 3-5 helicase IV, stimulates [SW|transcription] in an ATP-dependent manner by enhancing transcriptional cycling and elongation	ANTI
+helD	3436732	-81	DNA 3-5 helicase IV, stimulates [SW|transcription] in an ATP-dependent manner by enhancing transcriptional cycling and elongation	ANTI
+helD	3436740	-89	DNA 3-5 helicase IV, stimulates [SW|transcription] in an ATP-dependent manner by enhancing transcriptional cycling and elongation	ANTI
+helD	3436746	-95	DNA 3-5 helicase IV, stimulates [SW|transcription] in an ATP-dependent manner by enhancing transcriptional cycling and elongation	ANTI
+yvgT	3436756	93	potential TRIC transporter	ANTI
+yvgT	3436764	85	potential TRIC transporter	ANTI
+yvgT	3436774	75	potential TRIC transporter	ANTI
+yvgT	3436780	69	potential TRIC transporter	ANTI
+yvgT	3436787	62	potential TRIC transporter	ANTI
+yvgT	3436792	57	potential TRIC transporter	ANTI
+yvgT	3436801	48	potential TRIC transporter	ANTI
+bdbD	3438282	0.68	thiol-disulfide oxidoreductase, required for the formation of thiol disulfide bonds in several proteins	SENSE
+smpB	3451064	184	tmRNA-binding protein	SENSE
+secG	3455062	31	preprotein translocase subunit	SENSE
+secG	3455085	8	preprotein translocase subunit	SENSE
+secG	3455329	-6	preprotein translocase subunit	SENSE
+catR	3457762	0.21	[SW|MarR family|MarR/DUF24 family] transcription repressor of the [[gene|catD]]-[[gene|catE]] operon	SENSE
+catR	3457941	0.46	[SW|MarR family|MarR/DUF24 family] transcription repressor of the [[gene|catD]]-[[gene|catE]] operon	SENSE
+opuBA	3463321	-71	choline and arsenocholine [SW|ABC transporter] (ATP-binding protein)	SENSE
+sdpA	3464627	0.71	required for SdpC toxin maturation	SENSE
+sdpB	3465076	0.32	membrane protein, required for SdpC toxin maturation	SENSE
+sdpB	3465364	0.62	membrane protein, required for SdpC toxin maturation	SENSE
+sdpB	3465527	0.79	membrane protein, required for SdpC toxin maturation	SENSE
+opuCD	3467972	0.38	glycine betaine/carnitine/choline/arsenobetaine/arsenocholine [SW|ABC transporter]	SENSE
+opuCB	3469375	0.71	glycine betaine/carnitine/choline/arsenobetaine/arsenocholine [SW|ABC transporter]	SENSE
+opuCB	3469413	0.65	glycine betaine/carnitine/choline/arsenobetaine/arsenocholine [SW|ABC transporter]	SENSE
+opuCB	3469681	0.24	glycine betaine/carnitine/choline/arsenobetaine/arsenocholine [SW|ABC transporter]	SENSE
+opuCA	3469982	0.89	glycine betaine/carnitine/choline/arsenobetaine/arsenocholine [SW|ABC transporter] (ATP-binding protein)	SENSE
+opuCA	3470013	0.87	glycine betaine/carnitine/choline/arsenobetaine/arsenocholine [SW|ABC transporter] (ATP-binding protein)	SENSE
+opuCA	3470061	0.83	glycine betaine/carnitine/choline/arsenobetaine/arsenocholine [SW|ABC transporter] (ATP-binding protein)	SENSE
+yvbI	3473724	0.51	unknown	SENSE
+eno	3477773	0.06	enolase, glycolytic/ gluconeogenic enzyme, universally conserved protein	SENSE
+pgm	3478345	0.7	phosphoglycerate mutase, glycolytic / gluconeogenic enzyme	SENSE
+tpi	3479609	0.73	triose phosphate isomerase, glycolytic/ gluconeogenic enzyme	SENSE
+cggR	3483256	0.51	repressor of the glycolytic [[gene|gapA]] operon, [SW|DeoR family]	SENSE
+cggR	3483811	-37	repressor of the glycolytic [[gene|gapA]] operon, [SW|DeoR family]	SENSE
+cggR	3483832	-58	repressor of the glycolytic [[gene|gapA]] operon, [SW|DeoR family]	SENSE
+cggR	3483838	-64	repressor of the glycolytic [[gene|gapA]] operon, [SW|DeoR family]	SENSE
+yvbT	3487843	-26	similar to alkanal monooxygenase	SENSE
+lutC	3492819	0.97	lactate catabolic enzyme	SENSE
+lutB	3493562	0.97	lactate catabolic enzyme	SENSE
+lutB	3493690	0.88	lactate catabolic enzyme	SENSE
+lutB	3493863	0.76	lactate catabolic enzyme	SENSE
+lutB	3493879	0.75	lactate catabolic enzyme	SENSE
+lutB	3494021	0.65	lactate catabolic enzyme	SENSE
+lutB	3494662	0.21	lactate catabolic enzyme	SENSE
+lutA	3495151	0.77	lactate catabolic enzyme	SENSE
+lutP	3510718	-62	lactate permease	SENSE
+sigL	3512739	0.82	[SW|sigma factor ]of the [SW|RNA polymerase], Sigma-54, Sigma L	SENSE
+sigL	3513258	0.42	[SW|sigma factor ]of the [SW|RNA polymerase], Sigma-54, Sigma L	SENSE
+pbpE	3535396	0.06	penicillin-binding protein PBP 4* (spore cortex)	SENSE
+yvdT	3541203	0.65	similar to transcriptional regulator (TetR family)	SENSE
+cotR	3544855	0.22	outer spore coat protein, lipolytic enzyme	ANTI
+cotR	3545859	255	outer spore coat protein, lipolytic enzyme	ANTI
+clpP	3545958	-276	ATP-dependent Clp protease proteolytic subunit (class III heat-shock protein)	ANTI
+clpP	3545969	-265	ATP-dependent Clp protease proteolytic subunit (class III heat-shock protein)	ANTI
+clpP	3546313	0.13	ATP-dependent Clp protease proteolytic subunit (class III heat-shock protein)	SENSE
+clpP	3546516	0.48	ATP-dependent Clp protease proteolytic subunit (class III heat-shock protein)	SENSE
+psdB	3564903	0.32	[SW|ABC transporter] (permease) for the export of lipid II-binding lantibiotics, such as nisin and gallidermin	SENSE
+psdB	3564921	0.31	[SW|ABC transporter] (permease) for the export of lipid II-binding lantibiotics, such as nisin and gallidermin	SENSE
+whiA	3570207	0.33	WhiA family protein, involved in Z ring assembly, required for normal chromosome segregation	SENSE
+whiA	3570449	0.08	WhiA family protein, involved in Z ring assembly, required for normal chromosome segregation	SENSE
+cwlO	3574341	22	D,L-endopeptidase-type autolysin, primary autolytic pathway for cell elongation	SENSE
+yvcB	3580874	0.57	unknown	SENSE
+hisI	3582970	0.95	phosphoribosyl-AMP cyclohydrolase / phosphoribosyl-ATP pyrophosphohydrolase	SENSE
+hisA	3584712	0.47	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase, homologue to HisF	SENSE
+hisA	3584799	0.35	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase, homologue to HisF	SENSE
+hisH	3585179	0.8	imidazole glycerol phosphate synthase (glutaminase subunit)	SENSE
+hisH	3585313	0.59	imidazole glycerol phosphate synthase (glutaminase subunit)	SENSE
+hisH	3585427	0.41	imidazole glycerol phosphate synthase (glutaminase subunit)	SENSE
+hisH	3585445	0.38	imidazole glycerol phosphate synthase (glutaminase subunit)	SENSE
+hisD	3586929	0.49	histidinol dehydrogenase	SENSE
+hisD	3587228	0.25	histidinol dehydrogenase	SENSE
+pelC	3590872	0.41	pectate lyase C	SENSE
+yvoF	3591727	0.15	heptaprenylglycerol processing acetyltransferase, required for ether lipid synthesis	SENSE
+yvoE	3592294	0.26	putative glycerol-3-phosphatase (has been mis-annotated as HPr-P phosphatase)	SENSE
+yvoD	3592982	0.44	unknown	SENSE
+yvoD	3593232	0.17	unknown	SENSE
+lgt	3593584	0.8	prolipoprotein diacylglyceryl transferase	SENSE
+lgt	3593621	0.75	prolipoprotein diacylglyceryl transferase	SENSE
+hprK	3594901	0.29	HPr kinase/ phosphorylase	SENSE
+yvlD	3606998	0.34	unknown	SENSE
+yvlB	3607869	0.51	unknown	SENSE
+yvlA	3608728	0.14	unknown	SENSE
+yvlA	3608784	-11	unknown	SENSE
+yvlA	3608806	-33	unknown	SENSE
+csbA	3615322	0.11	general stress protein, required for protection against paraquat stress	SENSE
+minJ	3621188	0.29	topological determinant of [SW|cell division], part of the Min system (with Z ring placement)	SENSE
+minJ	3621329	0.18	topological determinant of [SW|cell division], part of the Min system (with Z ring placement)	SENSE
+swrAA/1	3621688	0.8	modulator of DegU activity,  converts DegU-P from a repressor to an activator of the fla-che operon, enhances sigD transcription, controls the number of flagellar basal bodies, inactive pseudogene in	SENSE
+ftsX	3623971	0.97	[SW|ABC transporter] (membrane protein) ([[protein|FtsE]]-[[protein|FtsX]]), required for [[protein|CwlO]] activity (cell elongation) and for proper activation of [[protein|Spo0A]] and initiation of	SENSE
+ftsX	3623980	0.95	[SW|ABC transporter] (membrane protein) ([[protein|FtsE]]-[[protein|FtsX]]), required for [[protein|CwlO]] activity (cell elongation) and for proper activation of [[protein|Spo0A]] and initiation of	SENSE
+ftsX	3624702	0.14	[SW|ABC transporter] (membrane protein) ([[protein|FtsE]]-[[protein|FtsX]]), required for [[protein|CwlO]] activity (cell elongation) and for proper activation of [[protein|Spo0A]] and initiation of	SENSE
+ftsE	3625276	0.34	[SW|ABC transporter ](ATP-binding protein) ([[protein|FtsE]]-[[protein|FtsX]]), required for [[protein|CwlO ]]activity (cell elongation) and for proper activation of [[protein|Spo0A ]]and initiation	SENSE
+prfB	3627111	28	peptide chain release factor 2	SENSE
+prfB	3628163	0.07	peptide chain release factor 2	SENSE
+prfB	3628170	0.06	peptide chain release factor 2	SENSE
+secA	3628294	16	preprotein translocase subunit (ATPase), required for membrane targeting of DivIVA, motor protein that drives preprotein translocation through the SecY-SecE-SecG channel	SENSE
+secA	3629772	0.42	preprotein translocase subunit (ATPase), required for membrane targeting of DivIVA, motor protein that drives preprotein translocation through the SecY-SecE-SecG channel	SENSE
+secA	3630483	0.14	preprotein translocase subunit (ATPase), required for membrane targeting of DivIVA, motor protein that drives preprotein translocation through the SecY-SecE-SecG channel	SENSE
+hpf	3631051	0.92	general stress protein, required for ribosome dimerization in the stationary phase, required for protection against paraquat stress	SENSE
+hpf	3631569	0.01	general stress protein, required for ribosome dimerization in the stationary phase, required for protection against paraquat stress	SENSE
+smiA	3631681	82	swarming motility inhibitor A, adaptor protein for [[protein|LonA]]-mediated degradation of [[protein|SwrAA/1]]	SENSE
+smiA	3631800	0.91	swarming motility inhibitor A, adaptor protein for [[protein|LonA]]-mediated degradation of [[protein|SwrAA/1]]	SENSE
+smiA	3631978	0.43	swarming motility inhibitor A, adaptor protein for [[protein|LonA]]-mediated degradation of [[protein|SwrAA/1]]	SENSE
+fliT	3632305	0.55	chaperone for the export of FliD	SENSE
+fliT	3632354	0.4	chaperone for the export of FliD	SENSE
+fliD	3633083	0.89	filament cap, serves as an extracytoplasmic chaperone required for polymerization of flagellin into the helical filament	SENSE
+yvyC	3634440	0.96	similar to flagellar protein	SENSE
+hag	3634999	0.99	flagellin protein, about 20,000 subunits make up one flagellum	SENSE
+hag	3635940	-39	flagellin protein, about 20,000 subunits make up one flagellum	SENSE
+flgL	3637330	8	flagellar hook-filament junction proteins, thought to form the hook-filament junction upon which the FliD cap is assembled	SENSE
+flgL	3637396	0.94	flagellar hook-filament junction proteins, thought to form the hook-filament junction upon which the FliD cap is assembled	SENSE
+flgK	3639154	0.4	flagellar hook-filament junction proteins	SENSE
+yvyG	3639889	0.79	flagellar filament assembly protein	SENSE
+flgM	3640589	-38	anti-[[protein|SigD]], regulation of flagellin, [[category|Motility and chemotaxis]]	SENSE
+yvyF	3640802	0.6	similar to flagellar protein	SENSE
+yvyF	3641043	0.02	similar to flagellar protein	SENSE
+comFC	3641598	0.31	late competence gene	SENSE
+comFC	3641687	0.18	late competence gene	SENSE
+comFA	3643012	0.39	membrane-associated DNA-dependent ATPase, may provide energy for DNA transport	SENSE
+comFA	3643428	0.09	membrane-associated DNA-dependent ATPase, may provide energy for DNA transport	SENSE
+degV	3644306	0.24	fatty acid binding protein	ANTI
+degU	3644561	46	two-component response regulator, regulation of degradative enzyme expression, [SW|genetic competence], [SW|biofilm formation], capsule biosynthesis (together with [[protein|SwrAA]]), non-phosphoryla	SENSE
+degU	3644815	0.7	two-component response regulator, regulation of degradative enzyme expression, [SW|genetic competence], [SW|biofilm formation], capsule biosynthesis (together with [[protein|SwrAA]]), non-phosphoryla	ANTI
+degS	3645661	0.76	two-component sensor kinase for exoenzyme and competence regulation, kinase activity is activated in response to inhibition of flagellar rotation	SENSE
+yvyE	3647181	0.66	unknown	SENSE
+tagV	3647767	0.31	phosphotransferase, attaches teichoic acid, teichuronic acid, or acidic capsular polysaccharide to cell wall peptidoglycan via phosphodiester linkage to N-acteylmuramic acid	SENSE
+tagV	3648248	0.72	phosphotransferase, attaches teichoic acid, teichuronic acid, or acidic capsular polysaccharide to cell wall peptidoglycan via phosphodiester linkage to N-acteylmuramic acid	SENSE
+tagV	3648494	0.93	phosphotransferase, attaches teichoic acid, teichuronic acid, or acidic capsular polysaccharide to cell wall peptidoglycan via phosphodiester linkage to N-acteylmuramic acid	SENSE
+tagO	3648756	0.91	undecaprenyl-phosphate-GlcNAc-1-phosphate transferase, teichoic acid linkage unit synthesis	SENSE
+tagO	3648767	0.9	undecaprenyl-phosphate-GlcNAc-1-phosphate transferase, teichoic acid linkage unit synthesis	SENSE
+tagO	3648977	0.7	undecaprenyl-phosphate-GlcNAc-1-phosphate transferase, teichoic acid linkage unit synthesis	SENSE
+tagO	3649030	0.65	undecaprenyl-phosphate-GlcNAc-1-phosphate transferase, teichoic acid linkage unit synthesis	SENSE
+tagO	3649057	0.63	undecaprenyl-phosphate-GlcNAc-1-phosphate transferase, teichoic acid linkage unit synthesis	SENSE
+tagO	3649319	0.38	undecaprenyl-phosphate-GlcNAc-1-phosphate transferase, teichoic acid linkage unit synthesis	SENSE
+tagO	3649400	0.31	undecaprenyl-phosphate-GlcNAc-1-phosphate transferase, teichoic acid linkage unit synthesis	SENSE
+lytC	3659092	27	N-acetylmuramoyl-L-alanine amidase, required for flagellar function	SENSE
+lytC	3659257	0.91	N-acetylmuramoyl-L-alanine amidase, required for flagellar function	SENSE
+lytC	3660430	0.12	N-acetylmuramoyl-L-alanine amidase, required for flagellar function	SENSE
+lytB	3660869	0.9	modifier protein of major autolysin LytC	SENSE
+lytB	3661735	0.49	modifier protein of major autolysin LytC	SENSE
+lytB	3661777	0.47	modifier protein of major autolysin LytC	SENSE
+lytB	3662692	0.03	modifier protein of major autolysin LytC	ANTI
+gtaB	3666673	166	UTP-glucose-1-phosphate uridylyltransferase, general stress protein	ANTI
+yvzH	3666724	209	putative teichoic acid translocation permease protein (fragment)	SENSE
+yvzH	3666988	0.35	putative teichoic acid translocation permease protein (fragment)	SENSE
+ggaB	3668020	0.7	galactosamine-containing minor teichoic acid biosynthesis, membrane protein	SENSE
+ggaB	3668302	0.6	galactosamine-containing minor teichoic acid biosynthesis, membrane protein	SENSE
+ggaB	3669562	0.13	galactosamine-containing minor teichoic acid biosynthesis, membrane protein	SENSE
+ggaA	3670230	0.86	galactosamine-containing minor teichoic acid biosynthesis	ANTI
+ggaA	3670368	0.75	galactosamine-containing minor teichoic acid biosynthesis	ANTI
+ggaA	3670610	0.57	galactosamine-containing minor teichoic acid biosynthesis	SENSE
+ggaA	3670708	0.5	galactosamine-containing minor teichoic acid biosynthesis	ANTI
+ggaA	3670846	0.4	galactosamine-containing minor teichoic acid biosynthesis	SENSE
+ggaA	3671381	-6	galactosamine-containing minor teichoic acid biosynthesis	SENSE
+yvzI	3672050	-428	putative CDP-glycerol:poly(glycerophosphate) glycerophosphotransferase (fragment)	SENSE
+yvzE	3672350	-579	putative UTP-glucose-1-phosphate uridylyltransferase (UDP-glucose pyrophosphorylase) (UDPGP) (fragment)	ANTI
+tagH	3675032	0.07	[SW|ABC transporter] for teichoic acid translocation (ATP-binding protein)	SENSE
+tagG	3675825	0.2	[SW|ABC transporter] for teichoic acid translocation (permease)	SENSE
+tagF	3676427	0.88	CDP-glycerol:polyglycerol phosphate glycero-phosphotransferase	SENSE
+tagD	3680654	0.82	glycerol-3-phosphate cytidylyltransferase	SENSE
+tagD	3680700	0.7	glycerol-3-phosphate cytidylyltransferase	SENSE
+tagD	3680874	0.25	glycerol-3-phosphate cytidylyltransferase	SENSE
+tagD	3681002	-32	glycerol-3-phosphate cytidylyltransferase	SENSE
+tagD	3681070	-100	glycerol-3-phosphate cytidylyltransferase	SENSE
+tagA	3681577	0.27	UDP-N-acetyl-D-mannosamine transferase	SENSE
+tagA	3681791	0.55	UDP-N-acetyl-D-mannosamine transferase	SENSE
+tagB	3682198	0.02	putative CDP-glycerol:glycerol phosphate glycerophosphotransferase	SENSE
+tagB	3682208	0.03	putative CDP-glycerol:glycerol phosphate glycerophosphotransferase	SENSE
+tagB	3682506	0.29	putative CDP-glycerol:glycerol phosphate glycerophosphotransferase	SENSE
+tagB	3682662	0.43	putative CDP-glycerol:glycerol phosphate glycerophosphotransferase	SENSE
+tagB	3683321	3	putative CDP-glycerol:glycerol phosphate glycerophosphotransferase	SENSE
+lytD	3684842	0.99	peptidoglycan N-acetylglucosaminidase	SENSE
+tagT	3694326	0.09	phosphotransferase, attaches teichoic acid, teichuronic acid, or acidic capsular polysaccharide to cell wall peptidoglycan via phosphodiester linkage to N-acteylmuramic acid	SENSE
+tagT	3694622	0.4	phosphotransferase, attaches teichoic acid, teichuronic acid, or acidic capsular polysaccharide to cell wall peptidoglycan via phosphodiester linkage to N-acteylmuramic acid	SENSE
+tagT	3694871	0.65	phosphotransferase, attaches teichoic acid, teichuronic acid, or acidic capsular polysaccharide to cell wall peptidoglycan via phosphodiester linkage to N-acteylmuramic acid	SENSE
+rbsR	3701539	0.13	transcriptional repressor of the ribose operon	SENSE
+ywqJ	3726785	0.34	putative toxin	ANTI
+ssbB	3740357	0.56	single-strand DNA-binding proteinrequired to internalize and to recombine ssDNA with homologous resident duplex	SENSE
+rapD	3745013	0.63	response regulator aspartate phosphatase, controls [[protein|ComA ]]activity	SENSE
+rapD	3745376	0.97	response regulator aspartate phosphatase, controls [[protein|ComA ]]activity	ANTI
+flhP	3745695	0.68	flagellar hook-basal body protein, required for hook assembly	SENSE
+flhP	3745701	0.68	flagellar hook-basal body protein, required for hook assembly	SENSE
+flhO	3746316	0.96	flagellar basal-body rod protein, required for hook assembly	SENSE
+flhO	3746609	0.6	flagellar basal-body rod protein, required for hook assembly	SENSE
+flhO	3747100	-9	flagellar basal-body rod protein, required for hook assembly	SENSE
+mbl	3747227	27	cell shape-determining protein, forms filaments, the polymers control/restrict the mobility of the cell wall elongation enzyme complex, required for [[protein|CwlO]] activity	SENSE
+mbl	3747301	0.95	cell shape-determining protein, forms filaments, the polymers control/restrict the mobility of the cell wall elongation enzyme complex, required for [[protein|CwlO]] activity	SENSE
+mbl	3747482	0.77	cell shape-determining protein, forms filaments, the polymers control/restrict the mobility of the cell wall elongation enzyme complex, required for [[protein|CwlO]] activity	SENSE
+mbl	3747628	0.63	cell shape-determining protein, forms filaments, the polymers control/restrict the mobility of the cell wall elongation enzyme complex, required for [[protein|CwlO]] activity	SENSE
+mbl	3747712	0.54	cell shape-determining protein, forms filaments, the polymers control/restrict the mobility of the cell wall elongation enzyme complex, required for [[protein|CwlO]] activity	SENSE
+mbl	3747878	0.38	cell shape-determining protein, forms filaments, the polymers control/restrict the mobility of the cell wall elongation enzyme complex, required for [[protein|CwlO]] activity	ANTI
+mbl	3748299	-44	cell shape-determining protein, forms filaments, the polymers control/restrict the mobility of the cell wall elongation enzyme complex, required for [[protein|CwlO]] activity	SENSE
+bcrC	3758756	0.36	undecaprenyl pyrophosphate phosphatase, produces the carrier lipid for cell wall synthesis, secondary bacitracin resistance determinant	SENSE
+bcrC	3758885	0.58	undecaprenyl pyrophosphate phosphatase, produces the carrier lipid for cell wall synthesis, secondary bacitracin resistance determinant	SENSE
+spoIIQ	3760525	0.03	component of the SpoIIIAH-SpoIIQ type III secretion system residing in the forespore membrane, required for anchoring of proteins on both sides of the sporulation septum, required for localization an	ANTI
+rapB	3771269	0.76	response regulator aspartate phosphatase, dephosphorylates Spo0F-P, control of the phosphorelay	SENSE
+fdhD	3773517	0.81	putative subunit of an respiration oxidoreductase	SENSE
+murAA	3777931	18	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	SENSE
+murAA	3778246	0.77	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	SENSE
+spoIIT	3779520	0.7	co-activator (with [[protein|SpoIIR]]) for triggering [[protein|SpoIIGA]]-dependent processing of [[protein|SigE]]	SENSE
+atpC	3781257	0.53	ATP synthase, part of the F1 complex (subunit epsilon)	SENSE
+atpD	3781895	0.72	ATP synthase, part of the F1 complex (subunit beta)	SENSE
+atpD	3782158	0.53	ATP synthase, part of the F1 complex (subunit beta)	SENSE
+atpD	3782620	0.21	ATP synthase, part of the F1 complex (subunit beta)	SENSE
+atpG	3783464	0.39	ATP synthase, part of the F1 complex (subunit gamma)	SENSE
+atpA	3783945	0.96	ATP synthase, part of the F1 complex (subunit alpha)	SENSE
+atpA	3784408	0.65	ATP synthase, part of the F1 complex (subunit alpha)	SENSE
+atpA	3784517	0.58	ATP synthase, part of the F1 complex (subunit alpha)	SENSE
+atpA	3784550	0.56	ATP synthase, part of the F1 complex (subunit alpha)	SENSE
+atpA	3785203	0.12	ATP synthase, part of the F1 complex (subunit alpha)	SENSE
+atpH	3785494	0.84	ATP synthase, part of the F1 complex (subunit delta)	SENSE
+atpH	3785565	0.71	ATP synthase, part of the F1 complex (subunit delta)	SENSE
+atpF	3786149	0.6	ATP synthase, part of the Fo complex (subunit b)	SENSE
+atpB	3786951	0.9	ATP synthase, part of the Fo complex (subunit a)	SENSE
+atpI	3787869	0.35	ATP synthase (subunit i)	SENSE
+maeA	3802165	0	malic enzyme, required for malate dependent catabolite repression of the [[gene|pftA]]-[[gene|pftB]] operon	SENSE
+rpmE	3803049	32	ribosomal protein	SENSE
+rpmE	3803078	3	ribosomal protein	SENSE
+rpmE	3803084	0.99	ribosomal protein	SENSE
+rpmE	3803116	0.83	ribosomal protein	SENSE
+rpmE	3803292	-11	ribosomal protein	SENSE
+rpmE	3803311	-30	ribosomal protein	SENSE
+rho	3803778	0.71	transcriptional termination protein, involved in balanced regulation of cell motility, [[category|Biofilm formation]], and [[category|Sporulation]]	SENSE
+glpX	3805002	88	class II fructose-1,6-bisphosphatase, gluconeogenesis	SENSE
+murAB	3806296	0.84	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	SENSE
+murAB	3806412	0.75	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	SENSE
+murAB	3807286	0.07	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	SENSE
+murAB	3807407	-32	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	SENSE
+murAB	3807472	-97	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	SENSE
+ywjH	3807716	38	transaldolase	SENSE
+fbaA	3808466	46	fructose 1,6-bisphosphate aldolase, glycolytic/ gluconeogenic enzyme	SENSE
+fbaA	3808556	0.95	fructose 1,6-bisphosphate aldolase, glycolytic/ gluconeogenic enzyme	SENSE
+fbaA	3809224	0.17	fructose 1,6-bisphosphate aldolase, glycolytic/ gluconeogenic enzyme	SENSE
+spo0F	3809485	65	phosphotransferase of the sporulation initiation phosphorelay	SENSE
+rpoE	3812987	0.15	RNA polymerase delta subunit, affects the regulation of RNA polymerase by the concentration of the initiating nucleoside triphosphate (iNTP)	SENSE
+ywjA	3820266	0.7	similar to [SW|ABC transporter] (ATP-binding protein)	SENSE
+ywjA	3821294	0.11	similar to [SW|ABC transporter] (ATP-binding protein)	SENSE
+rapF	3846369	0.32	response regulator aspartate phosphatase, anti-activator protein, controls ComA activity	SENSE
+mmr	3856724	293	methylenomycin A resistance protein	SENSE
+mmr	3856770	247	methylenomycin A resistance protein	SENSE
+ywgA	3859144	0.71	unknown	SENSE
+ywfO	3859834	0.77	unknown	SENSE
+ywfO	3859839	0.77	unknown	SENSE
+ywfM	3862366	0.99	unknown	ANTI
+ywfM	3862759	0.55	unknown	ANTI
+lipL	3864061	0.24	GcvH : E2 amidotransferase	ANTI
+cysL	3865236	-28	transcriptional activator of the cysJ-cysI operon	ANTI
+hemQ	3867224	0.82	coproheme decarboxylase	SENSE
+ywdJ	3895295	0.36	unknown	SENSE
+sacP	3905079	-48	trigger enzyme: sucrose-specific phosphotransferase system, EIIBC component of the PTS	SENSE
+sacP	3905093	-62	trigger enzyme: sucrose-specific phosphotransferase system, EIIBC component of the PTS	SENSE
+ywcJ	3905296	-37	similar to nitrite transporter	ANTI
+rodA	3913449	0.05	SEDS family peptidoglycan glycosyltransferase, control of cell shape and elongation	SENSE
+ywcE	3913963	-46	holin, required for spore morphogenesis and germination	SENSE
+ywcE	3914071	0.24	holin, required for spore morphogenesis and germination	SENSE
+ywcE	3914195	0.71	holin, required for spore morphogenesis and germination	SENSE
+qoxD	3914436	0.68	cytochrome aa3 quinol oxidase (subunit IV)	SENSE
+qoxD	3914542	0.4	cytochrome aa3 quinol oxidase (subunit IV)	SENSE
+qoxD	3914634	0.15	cytochrome aa3 quinol oxidase (subunit IV)	SENSE
+qoxC	3914912	0.64	cytochrome aa3 quinol oxidase (subunit III)	SENSE
+qoxC	3914943	0.59	cytochrome aa3 quinol oxidase (subunit III)	SENSE
+qoxB	3916158	0.57	cytochrome aa3 quinol oxidase (subunit I)	SENSE
+qoxB	3916259	0.52	cytochrome aa3 quinol oxidase (subunit I)	SENSE
+qoxB	3916499	0.39	cytochrome aa3 quinol oxidase (subunit I)	SENSE
+qoxB	3916919	0.18	cytochrome aa3 quinol oxidase (subunit I)	SENSE
+qoxB	3917202	0.03	cytochrome aa3 quinol oxidase (subunit I)	SENSE
+qoxA	3918297	-36	cytochrome aa3 quinol oxidase (subunit II)	SENSE
+galT	3920094	0.35	galactose-1-phosphate uridylyltransferase	SENSE
+galK	3920967	0.72	galactokinase	SENSE
+ywcB	3923790	-130	unknown	SENSE
+efeB	3927259	0.54	elemental iron uptake system, heme peroxidase, converts ferrous iron (Fe(II) to ferric iron (FeIII))  for uptake by [[protein|EfeO]]-[[protein|EfeU]], peroxide detoxification under microaerobic condi	SENSE
+efeB	3927706	0.18	elemental iron uptake system, heme peroxidase, converts ferrous iron (Fe(II) to ferric iron (FeIII))  for uptake by [[protein|EfeO]]-[[protein|EfeU]], peroxide detoxification under microaerobic condi	SENSE
+efeB	3927804	0.1	elemental iron uptake system, heme peroxidase, converts ferrous iron (Fe(II) to ferric iron (FeIII))  for uptake by [[protein|EfeO]]-[[protein|EfeU]], peroxide detoxification under microaerobic condi	SENSE
+ywbH	3933314	0.27	holin-like protein	SENSE
+sacX	3942062	-172	trigger enzyme: sucrose-specific phosphotransferase system, EIIBC component of the PTS (low affinity) and control of SacY activity	SENSE
+menA	3950702	24	probable 1,4-dihydroxy-2-naphthoate octaprenyltransferase	SENSE
+ywzH	3952183	0.51	unknown	SENSE
+dltA	3952380	0.07	D-alanyl-D-alanine carrier protein ligase, alanylation of teichoic acid provides some resistance against positively charged antimicrobial peptides	SENSE
+dltA	3952960	0.45	D-alanyl-D-alanine carrier protein ligase, alanylation of teichoic acid provides some resistance against positively charged antimicrobial peptides	SENSE
+dltA	3953437	0.77	D-alanyl-D-alanine carrier protein ligase, alanylation of teichoic acid provides some resistance against positively charged antimicrobial peptides	SENSE
+dltB	3954061	0.23	D-alanine transfer from Dcp to undecaprenol-phosphate, alanylation of teichoic acid provides some resistance against positively charged antimicrobial peptides	SENSE
+dltB	3954466	0.58	D-alanine transfer from Dcp to undecaprenol-phosphate, alanylation of teichoic acid provides some resistance against positively charged antimicrobial peptides	SENSE
+dltB	3954763	0.83	D-alanine transfer from Dcp to undecaprenol-phosphate, alanylation of teichoic acid provides some resistance against positively charged antimicrobial peptides	SENSE
+dltC	3955027	0.17	D-alanine carrier protein, alanylation of teichoic acid provides some resistance against positively charged antimicrobial peptides	SENSE
+dltD	3956290	0.91	D-alanine transfer from undecaprenol-phosphate to the poly(glycerophosphate) chain, alanylation of teichoic acid provides some resistance against positively charged antimicrobial peptides	SENSE
+dltD	3956344	0.95	D-alanine transfer from undecaprenol-phosphate to the poly(glycerophosphate) chain, alanylation of teichoic acid provides some resistance against positively charged antimicrobial peptides	SENSE
+dltE	3956949	0.6	D-alanine transfer from undecaprenol-phosphate to the poly(glycerophosphate) chain, alanylation of teichoic acid provides some resistance against positively charged antimicrobial peptides	SENSE
+licR	3961961	42	transcriptional activator of the licB-licC-licA-licH operon	SENSE
+yxlA	3971557	0.36	similar to purine-cytosine permease	SENSE
+cydA	3979326	-129	cytochrome bd ubiquinol oxidase (subunit I), high affinity terminal oxidase	SENSE
+cimH	3979975	0.16	transporter for citrate (proton symport)	SENSE
+cimH	3980380	0.46	transporter for citrate (proton symport)	SENSE
+cimH	3980522	0.57	transporter for citrate (proton symport)	ANTI
+yxkC	3989364	0.21	unknown	SENSE
+yxkC	3989893	20	unknown	SENSE
+yxkC	3989900	27	unknown	SENSE
+galE	3990385	0.57	UDP glucose 4-epimerase	ANTI
+yxjJ	3996614	-215	general stress protein, survival of ethanol, paraquat and salt stresses	SENSE
+yxjJ	3996842	0.05	general stress protein, survival of ethanol, paraquat and salt stresses	SENSE
+yxjJ	3996915	0.33	general stress protein, survival of ethanol, paraquat and salt stresses	SENSE
+yxjJ	3996948	0.46	general stress protein, survival of ethanol, paraquat and salt stresses	SENSE
+yxjJ	3997086	0.98	general stress protein, survival of ethanol, paraquat and salt stresses	SENSE
+yxjJ	3997092	1.01	general stress protein, survival of ethanol, paraquat and salt stresses	SENSE
+yxjJ	3997122	30	general stress protein, survival of ethanol, paraquat and salt stresses	SENSE
+yxjG	4000105	0.67	putative B12-independent methionine synthase	SENSE
+yxjG	4000446	0.97	putative B12-independent methionine synthase	SENSE
+yxjB	4005186	-50	unknown	SENSE
+yxjB	4005223	-87	unknown	SENSE
+licT	4012719	147	transcriptional antiterminator of the [[gene|bglP]]-[[gene|bglH]]-[[gene|yxiE ]]operon and the [[gene|bglS ]]gene	SENSE
+licT	4012725	141	transcriptional antiterminator of the [[gene|bglP]]-[[gene|bglH]]-[[gene|yxiE ]]operon and the [[gene|bglS ]]gene	SENSE
+licT	4012838	28	transcriptional antiterminator of the [[gene|bglP]]-[[gene|bglH]]-[[gene|yxiE ]]operon and the [[gene|bglS ]]gene	SENSE
+licT	4012881	0.98	transcriptional antiterminator of the [[gene|bglP]]-[[gene|bglH]]-[[gene|yxiE ]]operon and the [[gene|bglS ]]gene	SENSE
+licT	4012939	0.91	transcriptional antiterminator of the [[gene|bglP]]-[[gene|bglH]]-[[gene|yxiE ]]operon and the [[gene|bglS ]]gene	SENSE
+yxiM	4018697	-41	similar to rhamnogalacturonan acetylesterase	SENSE
+wapI	4023387	0.22	immunity protein, protects the cell against the toxic activity of WapA	SENSE
+wapI	4023484	-2	immunity protein, protects the cell against the toxic activity of WapA	SENSE
+wapA	4024043	0.93	cell wall-associated protein precursor, contact-dependent growth inhibition protein	SENSE
+wapA	4029242	0.19	cell wall-associated protein precursor, contact-dependent growth inhibition protein	SENSE
+bglP	4035743	-136	[SW|trigger enzyme],beta-glucoside uptake and control of [[protein|LicT ]]activity	SENSE
+yxxE	4035873	117	unknown	SENSE
+yxxE	4036165	0.43	unknown	SENSE
+hutP	4041617	0.3	transcriptional antiterminator of the [[gene|hut ]]operon	SENSE
+hutP	4041640	0.35	transcriptional antiterminator of the [[gene|hut ]]operon	SENSE
+hutP	4041689	0.45	transcriptional antiterminator of the [[gene|hut ]]operon	SENSE
+dra	4052166	0.17	deoxyribose-phosphate aldolase	SENSE
+dra	4052248	0.04	deoxyribose-phosphate aldolase	SENSE
+deoR	4052373	6	transcriptional repressor of the dra-nupC-pdp operon	SENSE
+yxeQ	4056497	0.28	putative dehydratase	SENSE
+yxcD	4087589	0.43	unknown	SENSE
+gntR	4113511	0.13	transcriptional repressor (GntR family) of the gntR-gntK-gntP-gntZ operon	SENSE
+gntR	4113766	0.48	transcriptional repressor (GntR family) of the gntR-gntK-gntP-gntZ operon	SENSE
+gntZ	4118069	0.7	6-phosphogluconate dehydrogenase	SENSE
+ahpC	4118900	-50	alkyl hydroperoxide reductase (small subunit)	SENSE
+ahpC	4118911	-39	alkyl hydroperoxide reductase (small subunit)	SENSE
+ahpC	4118943	-7	alkyl hydroperoxide reductase (small subunit)	SENSE
+ahpC	4119443	0.88	alkyl hydroperoxide reductase (small subunit)	SENSE
+ahpF	4120531	0.66	alkyl hydroperoxide reductase (large subunit) / NADH dehydrogenase	SENSE
+ahpF	4120957	0.94	alkyl hydroperoxide reductase (large subunit) / NADH dehydrogenase	SENSE
+ahpF	4121082	26	alkyl hydroperoxide reductase (large subunit) / NADH dehydrogenase	SENSE
+ahpF	4121091	35	alkyl hydroperoxide reductase (large subunit) / NADH dehydrogenase	SENSE
+yydJ	4124302	0.89	[SW|ABC transporter], permease, export of the mature [[protein|YydF]] epipeptide	SENSE
+yydJ	4124468	0.66	[SW|ABC transporter], permease, export of the mature [[protein|YydF]] epipeptide	SENSE
+yydJ	4124499	0.62	[SW|ABC transporter], permease, export of the mature [[protein|YydF]] epipeptide	SENSE
+yydJ	4124883	0.08	[SW|ABC transporter], permease, export of the mature [[protein|YydF]] epipeptide	SENSE
+yydI	4125268	0.52	[SW|ABC transporter], ATP-binding protein, export of the mature [[protein|YydF]] epipeptide	SENSE
+yydI	4125534	0.09	[SW|ABC transporter], ATP-binding protein, export of the mature [[protein|YydF]] epipeptide	SENSE
+yydI	4125597	-5	[SW|ABC transporter], ATP-binding protein, export of the mature [[protein|YydF]] epipeptide	SENSE
+yydH	4125757	0.98	membrane protease, processing of modified [[protein|YydF]]	SENSE
+yydH	4125890	0.81	membrane protease, processing of modified [[protein|YydF]]	SENSE
+yydH	4126016	0.64	membrane protease, processing of modified [[protein|YydF]]	SENSE
+yydH	4126025	0.63	membrane protease, processing of modified [[protein|YydF]]	SENSE
+yydD	4130334	244	unknown	SENSE
+yydD	4130944	0.79	unknown	SENSE
+yydD	4131152	0.67	unknown	ANTI
+yydC	4132406	0.83	unknown	SENSE
+yydB	4133714	0.32	unknown	SENSE
+yydA	4134490	0.89	similar to pseudouridine methyltransferase	SENSE
+htrC	4147961	0.67	similar to quality control membrane serine protease HtrA	SENSE
+walJ	4149152	0.61	5'-3' double-stranded DNA exonuclease, coordination of cell division with DNA replication	SENSE
+yycI	4149996	0.61	negative effector of [[protein|WalK]], controls cell wall metabolism	SENSE
+yycH	4151124	0.54	negative effector of [[protein|WalK]], controls cell wall metabolism	SENSE
+walK	4152435	0.68	two-component sensor kinase, controls cell wall metabolism, co-ordinates cell wall remodelling with cell division by controlling the transcription of genes for autolysins and their inhibitors	SENSE
+walK	4152651	0.57	two-component sensor kinase, controls cell wall metabolism, co-ordinates cell wall remodelling with cell division by controlling the transcription of genes for autolysins and their inhibitors	SENSE
+walR	4154678	-275	two-component response regulator ([SW|OmpR family]), controls cell wall metabolism	ANTI
+walR	4154880	-477	two-component response regulator ([SW|OmpR family]), controls cell wall metabolism	SENSE
+purA	4155010	423	adenylosuccinate synthetase	SENSE
+rplI	4163219	0.96	ribosomal protein	SENSE
+gdpP	4164873	0.38	c-di-AMP specific phosphodiesterase	SENSE
+yybO	4169874	-171	similar to permease	ANTI
+yybN	4172979	-135	unknown	SENSE
+yybN	4173037	-77	unknown	SENSE
+yybN	4173608	57	unknown	SENSE
+yybM	4173624	-41	unknown	SENSE
+yybK	4175334	0.29	similar to [SW|ABC transporter ](membrane protein)	SENSE
+yybK	4175559	0.59	similar to [SW|ABC transporter ](membrane protein)	SENSE
+yybK	4175776	0.88	similar to [SW|ABC transporter ](membrane protein)	SENSE
+tetB	4188039	0.74	multifunctional tetracycline/Na+ resistance protein	SENSE
+yyaO	4189406	0	unknown	ANTI
+yyaO	4189568	0.68	unknown	SENSE
+yyaK	4193589	0.64	unknown	SENSE
+yyaK	4194094	0.08	unknown	SENSE
+yyaF	4200459	0.44	GTP-binding protein/ GTPase	SENSE
+parB	4206376	0.03	chromosome positioning near the pole and transport through the polar septum / antagonist of SMC complex to the origin of replication	SENSE
+parA	4206983	0.23	ATPase, centromere-like function involved in forespore chromosome partitioning / negative regulation of [[category|Sporulation]] initiation	SENSE
+parA	4207074	0.11	ATPase, centromere-like function involved in forespore chromosome partitioning / negative regulation of [[category|Sporulation]] initiation	SENSE
+noc	4208250	0.59	DNA-binding protein, spatial regulator of cell division to protect the nucleoid, and timing device with an important role in the coordination of chromosome segregation and cell division, Z ring place	SENSE
+noc	4208373	0.44	DNA-binding protein, spatial regulator of cell division to protect the nucleoid, and timing device with an important role in the coordination of chromosome segregation and cell division, Z ring place	SENSE
+gidB	4209078	0.71	7-methylguanosine methyltransferase specific for the 16S rRNA, glucose-inhibited division protein	SENSE
+gidB	4209510	0.11	7-methylguanosine methyltransferase specific for the 16S rRNA, glucose-inhibited division protein	SENSE
+gidB	4209516	0.1	7-methylguanosine methyltransferase specific for the 16S rRNA, glucose-inhibited division protein	SENSE
+gidA	4209642	0.98	glucose-inhibited division protein, tRNA uridine 5-carboxymethylaminomethyl modification enzyme	SENSE
+thdF	4211972	0.67	GTP-binding protein, putative tRNA modification GTPase	SENSE
+jag	4213471	0.57	[[protein|SpoIIIJ]]-associated protein, similar to cell elongation regulator	SENSE
+spoIIIJ	4213902	0.9	Sec-independent membrane protein translocase, essential for [[protein|SigG]] activity at stage III, involved in the assembly of the [[protein|SpoIIIAH]]-[[protein|SpoIIQ]] complex	SENSE
+spoIIIJ	4213986	0.79	Sec-independent membrane protein translocase, essential for [[protein|SigG]] activity at stage III, involved in the assembly of the [[protein|SpoIIIAH]]-[[protein|SpoIIQ]] complex	SENSE
+spoIIIJ	4214025	0.74	Sec-independent membrane protein translocase, essential for [[protein|SigG]] activity at stage III, involved in the assembly of the [[protein|SpoIIIAH]]-[[protein|SpoIIQ]] complex	SENSE
+spoIIIJ	4214115	0.63	Sec-independent membrane protein translocase, essential for [[protein|SigG]] activity at stage III, involved in the assembly of the [[protein|SpoIIIAH]]-[[protein|SpoIIQ]] complex	SENSE
+spoIIIJ	4214208	0.51	Sec-independent membrane protein translocase, essential for [[protein|SigG]] activity at stage III, involved in the assembly of the [[protein|SpoIIIAH]]-[[protein|SpoIIQ]] complex	SENSE
+spoIIIJ	4214227	0.49	Sec-independent membrane protein translocase, essential for [[protein|SigG]] activity at stage III, involved in the assembly of the [[protein|SpoIIIAH]]-[[protein|SpoIIQ]] complex	SENSE
+spoIIIJ	4214454	0.2	Sec-independent membrane protein translocase, essential for [[protein|SigG]] activity at stage III, involved in the assembly of the [[protein|SpoIIIAH]]-[[protein|SpoIIQ]] complex	SENSE
+spoIIIJ	4214488	0.15	Sec-independent membrane protein translocase, essential for [[protein|SigG]] activity at stage III, involved in the assembly of the [[protein|SpoIIIAH]]-[[protein|SpoIIQ]] complex	SENSE
+spoIIIJ	4214563	0.06	Sec-independent membrane protein translocase, essential for [[protein|SigG]] activity at stage III, involved in the assembly of the [[protein|SpoIIIAH]]-[[protein|SpoIIQ]] complex	SENSE
+spoIIIJ	4214572	0.05	Sec-independent membrane protein translocase, essential for [[protein|SigG]] activity at stage III, involved in the assembly of the [[protein|SpoIIIAH]]-[[protein|SpoIIQ]] complex	SENSE
+spoIIIJ	4214652	-44	Sec-independent membrane protein translocase, essential for [[protein|SigG]] activity at stage III, involved in the assembly of the [[protein|SpoIIIAH]]-[[protein|SpoIIQ]] complex	SENSE
+rpmH	4215222	33	ribosomal protein	SENSE
+rpmH	4215269	0.91	ribosomal protein	SENSE
+rpmH	4215293	0.73	ribosomal protein	SENSE
+rpmH	4215299	0.68	ribosomal protein	SENSE
+rpmH	4215396	-7	ribosomal protein	SENSE
